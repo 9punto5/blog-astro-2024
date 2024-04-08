@@ -3,5 +3,6 @@ import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   integrations: [sitemap()],
-  site: "https://astro-theme-creek.netlify.app/",
+  site: "https://9punto5.cl/blog",
+  base: "/blog",
 });
