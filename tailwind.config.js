@@ -3,7 +3,7 @@ module.exports = {
     "./public/**/*.html",
     "./src/**/*.{astro,js,jsx,svelte,ts,tsx,vue}",
   ],
-  darkMode: 'selector',
+  darkMode: "selector",
   important: true,
   theme: {
     borderColor: (theme) => ({
@@ -100,8 +100,9 @@ module.exports = {
         "hot-pink": "#fd2d78",
       },
       fontFamily: {
-        display: ["Londrina Solid", "sans-serif"],
-        body: ["Poppins", "sans-serif"],
+        display: ["Literata", "Londrina Solid", "sans-serif"],
+        body: ["Literata", "Poppins", "sans-serif"],
+        sans: ["Literata", "Poppins", "sans-serif"],
       },
       fontSize: {
         "7xl": "5rem",
