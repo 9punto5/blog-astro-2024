@@ -1,10 +1,13 @@
 ---
 title: "Cómo evaluamos la postulación de Speakers"
 description: "En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers."
+slug: "como-evaluamos-la-postulacion-de-speakers"
 pubDate: "2021-06-30"
 # hero: "/blog/images/introducing-astro.jpg"
-# tags: ["astro"]
+# tags: ["9punto5, conferencia"]
 layout: "../../layouts/BlogPostLayout.astro"
+categories:
+    - Conferencia
 ---
 
 En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers.
@@ -58,12 +61,12 @@ Igualmente muchas postulaciones son super buenas, cumplen bastante bien con todo
 - Tenemos que hacer el corte en algún punto
 - Quizá no quedaste por muy poco
 
-No te desanimes, si genuinamente quieres aportar a la comunidad tenemos otros espacios como nuestro podcast o este mismo blog donde podrías también participar. Escríbeme a fabian@9punto5.cl para eso si quieres buscar otra vía.
+No te desanimes, si genuinamente quieres aportar a la comunidad tenemos otros espacios como nuestro podcast o este mismo blog donde podrías también participar. Escríbeme a fabian at 9punto5 dot cl para eso si quieres buscar otra vía.
 
 ## Aún nos queda mejorar este proceso
 
 Nos gusta transparentar nuestros procesos, nos parece sano y nos ayuda a mejorar. Genial si además esto ayuda a otras organizaciones a tener ideas para sus propias conferencias o eventos.
 
-Todavía nos queda pendiente trabajar en varias cosas, como mejorar nuestro sistema para evaluar y notificar los resultado a las personas que postulan. Si tienes ideas para esto, te dejo de nuevo mi mail fabian@9punto5.cl.
+Todavía nos queda pendiente trabajar en varias cosas, como mejorar nuestro sistema para evaluar y notificar los resultado a las personas que postulan. Si tienes ideas para esto, escríbe a fabian at 9punto5 dot cl.
 
 Buscaremos el tiempo en el futuro para ahondar en este punto y mejorar nuestro proceso.
