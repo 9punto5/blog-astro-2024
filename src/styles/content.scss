@@ -1,6 +1,18 @@
 .content {
+  color: #c1c7ce;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-white;
+  }
+  strong, a {
+    @apply font-medium;
+  }
   h1 {
-    @apply font-display uppercase font-bold leading-none;
+    @apply font-display font-bold leading-none;
     margin-bottom: 1em;
 
     font-size: min(max(3rem, 6.25vw), 7rem);
@@ -11,7 +23,7 @@
   }
 
   h2 {
-    @apply text-4xl font-bold leading-none mt-12 py-6 tracking-tight;
+    @apply text-2xl font-bold leading-none mt-12 py-6 tracking-tight;
   }
 
   h3 {
@@ -23,7 +35,7 @@
   }
 
   > p {
-    @apply text-lg leading-relaxed;
+    @apply text-xl leading-relaxed;
     margin-bottom: 2em;
   }
 
@@ -44,7 +56,7 @@
   }
 
   a {
-    @apply font-bold underline text-hot-pink;
+    @apply underline text-hot-pink;
 
     &:hover {
       @apply text-black dark:text-white;
