@@ -1,14 +1,8 @@
 .content {
-  color: #c1c7ce;
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    @apply text-white;
-  }
-  strong, a {
+  @apply font-body;
+
+  strong,
+  a {
     @apply font-medium;
   }
   h1 {
