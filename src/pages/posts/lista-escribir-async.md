@@ -7,8 +7,6 @@ hero: "/blog/images/escribir-1.jpeg"
 tags: ["autoridad"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
-
-# Cómo escribir para que tu equipo te lea 
 La comunicación es clave en los equipos, es lo que habilita o entorpece la colaboración. Pero en contextos de trabajo asíncrono, es aún más importante aprender a escribir de forma sencilla, clara y efectiva.
 
 En la última edición de "[The Async Newsletter](https://async.twist.com/)" hay una excelente [guía de cómo escribir de forma profesional](https://async.twist.com/writing-at-work/). Te invito a revisarla y te comparto un resumen de sus principales puntos.
