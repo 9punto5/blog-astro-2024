@@ -1,7 +1,7 @@
 ---
 title: "Fragmentos 1 – Acabar con el trabajo remoto no será fácil"
 description: "El trabajo a distancia se ha vuelto popular y es poco probable que desaparezca, incluso con la presión de algunos Directores"
-pubDate: "2023-02-23"
+pubDate: "2023-01-23"
 hero: "/blog/images/fragmentos-1.jpg"
 # tags: ["9punto5, conferencia"]
 layout: "../../layouts/BlogPostLayout.astro"
