@@ -4,7 +4,7 @@ pubDate: "2022-11-22"
 slug: "cuando-tomar-decisiones"
 description: "Nuestra historia y contexto han incidido en cómo somos. Pero si creemos que somos solo eso, nos dominaría una visión de locus externo."
 hero: "/blog/images/cuando-tomar-decisiones.jpg"
-# tags: ["javascript"]
+tags: ["decisiones"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
