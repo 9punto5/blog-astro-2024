@@ -4,7 +4,7 @@ title: "Cómo escribir para que tu equipo te lea"
 pubDate: "2023-02-"
 description: "Escribir de manera sencilla y clara mejora la comunicación en equipos de trabajo asíncrono. Se recomienda comenzar con la información clave, hacer solicitudes claras y simplificar el mensaje eliminando lo innecesario. Utilizar formatos estructurados, lenguaje simple y elementos visuales facilita la comprensión y efectividad de la escritura"
 hero: "/blog/images/escribir-1.jpeg"
-tags: ["autoridad"]
+tags: ["escribir"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 

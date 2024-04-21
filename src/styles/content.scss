@@ -34,11 +34,11 @@
     } */
 
   > blockquote {
-    @apply text-center font-bold italic px-4 mb-12 pt-6 text-3xl leading-tight;
+    @apply text-center font-normal italic px-8 mb-12 pt-6;
   }
 
   > blockquote > p {
-    @apply text-3xl leading-tight;
+    @apply text-xl sm:text-2xl leading-snug;
   }
 
   > img {

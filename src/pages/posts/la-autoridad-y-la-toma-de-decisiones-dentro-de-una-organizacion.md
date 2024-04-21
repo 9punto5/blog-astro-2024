@@ -4,7 +4,7 @@ title: "La autoridad y la toma de decisiones dentro de una organizacion"
 pubDate: "2023-01-25"
 description: "Nuestra historia y contexto han incidido en cómo somos. Pero si creemos que somos solo eso, nos dominaría una visión de locus externo."
 hero: "/blog/images/autoridad.jpg"
-tags: ["autoridad"]
+tags: ["autoridad", "decisiones"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
@@ -12,7 +12,7 @@ Hoy te quiero hablar sobre lo importante que es para una organización **definir
 
 Hace poco [escuché a Agustín Feuerhake hablando sobre buscar socios para tu emprendimiento](https://youtu.be/oFqQybm0CqE?t=352) y hubo un punto de lo que dijo que me sirve para ejemplificar lo **que pasa con los niveles de influencia dentro de una empresa**. Hablando de una de las razones por la que quieres tener un cofounder Agustín decía que:
 
-> “Es muy útil tener una contraparte; alguien que te dé otra mirada y al que estés un poco obligado a escuchar y respetar. Si es alguien que tú contrataste, te puede dar ideas que no te gusten, **pero al final no las tomarás con tanta importancia como si la otra persona es tu socio**”.
+> “Es muy útil tener una contraparte; alguien que te dé otra mirada y al que estés un poco obligado a escuchar y respetar. Si es alguien que tú contrataste, te puede dar ideas que no te gusten, **pero al final no las tomarás con tanta importancia como si la otra persona es tu socio**”
 
 Esto es justamente el punto de este artículo: En una organización existen líderes que **tienen la autoridad y legitimidad interna** para tomar cierto tipo de decisiones. **Tu organización necesita tener esto claro**.
 

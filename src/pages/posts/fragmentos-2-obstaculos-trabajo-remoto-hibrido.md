@@ -4,7 +4,7 @@ title: "Fragmentos 2 – Cinco obstáculos del trabajo remoto o híbrido"
 pubDate: "2023-01-30"
 description: "Obstáculos en el trabajo como sesgos, comunicación y falta de sentido de comunidad. Comienzan políticas de retorno al trabajo presencial y de trabajo híbrido"
 hero: "/blog/images/fragmentos-2.jpeg"
-tags: ["autoridad"]
+#tags: ["autoridad"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
 
