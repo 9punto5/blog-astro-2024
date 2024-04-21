@@ -1,20 +1,31 @@
 ---
-import EmailSignup from "./Subscribe/EmailSignup.astro";
-
 export interface Props {
   title: string;
   date: string;
   hero: string;
   youtube: string;
+  tags: string[];
 }
 
-const { title, date, hero, youtube } = Astro.props;
+const { title, tags, hero, youtube } = Astro.props;
 ---
 
 <article class="max-w-5xl mx-auto px-14">
   <header class="mx-auto max-w-3xl content">
     <h1 class="text-3xl leading-relaxed mb-0">{title}</h1>
   </header>
+
+  {
+    tags && (
+      <div class="-ml-4 -mt-4 flex lg:w-8/12 lg:mx-auto justify-center pt-3 flex-wrap">
+        {tags.map((tag) => (
+          <span class="text-sm bg-gray-200 text-gray-800 px-2 py-1 rounded-full ml-4 mt-4 font-bold whitespace-nowrap">
+            {tag}
+          </span>
+        ))}
+      </div>
+    )
+  }
 
   <!-- Image -->
   {

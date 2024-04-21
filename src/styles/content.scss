@@ -59,7 +59,7 @@
     @apply underline text-hot-pink;
 
     &:hover {
-      @apply text-black;
+      @apply text-black dark:text-white;
     }
   }
 
