@@ -1,6 +1,6 @@
 ---
 title: "Desafíos a resolver antes de poder comunicarte bien como líder"
-# slug: "autoridad"
+slug: "desafios-lider-comunicacion/"
 pubDate: "2023-02-07"
 description: "Un liderazgo claro mejora la alineación y satisfacción de los equipos"
 hero: "/blog/images/comunicacion.jpeg"
