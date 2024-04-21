@@ -34,7 +34,7 @@
     } */
 
   > blockquote {
-    @apply text-center font-normal italic px-8 mb-12 pt-6;
+    @apply text-center font-normal italic px-8 mb-12 pt-6 text-xl sm:text-2xl;
   }
 
   > blockquote > p {
