@@ -1,6 +1,6 @@
 ---
-title: "Primera edición curso de productividad, 1er trimestre 2023"w
-description: "Conónce los detalles del curso de productividad."
+title: "Primera edición curso de productividad, 1er trimestre 2023"
+description: "Conónce los detalles del curso de productividad"
 pubDate: "2023-01-20"
 hero: "/blog/images/curso-productividad.jpg"
 tags: ["cursos"]
