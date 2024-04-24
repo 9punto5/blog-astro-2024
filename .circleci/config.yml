@@ -91,7 +91,7 @@ jobs:
 
               # Start or update services with minimal downtime
               echo 'Starting or updating services...';
-              docker compose -p ${CONTAINER_NAME} -f docker-compose.yml up -d --force-recreate;
+              docker compose -p "${CONTAINER_NAME}" -f docker-compose.yml up -d --force-recreate;
 
               # Cleanup: pruning unused images/volumes
               echo 'Cleaning up...';
