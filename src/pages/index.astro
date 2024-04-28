@@ -6,12 +6,13 @@ import Card from "../components/Card.astro";
 import Footer from "../components/Footer/Footer.astro";
 
 interface MarkdownFrontmatter {
+pubDate: string | number | Date;
   date: number;
 }
 
-const title = "9punto5";
-const description = "El blog de 9punto5";
-const seoDescription = "El blog de 9punto5";
+const title = "El blog de 9punto5";
+const description = "Un espacio para reflexionar y actuar sobre los desafíos tecnológicos y humanos";
+const seoDescription = "Un espacio para reflexionar y actuar sobre los desafíos tecnológicos y humanos";
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>("./posts/*.md");
 const sortedPosts = allPosts.sort(
