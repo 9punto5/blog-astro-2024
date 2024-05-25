@@ -20,9 +20,10 @@
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.1.2",
     "autoprefixer": "^10.4.17",
-    "postcss": "^8.1.0",
     "dayjs": "^1.11.10",
     "lunr": "^2.3.9",
+    "postcss": "^8.1.0",
     "sitemap": "^7.1.1"
-  }
+  },
+  "packageManager": "yarn@3.6.3"
 }
