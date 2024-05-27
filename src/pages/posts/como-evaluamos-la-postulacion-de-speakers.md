@@ -1,13 +1,10 @@
 ---
 title: "Cómo evaluamos la postulación de Speakers"
-description: "En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers."
+description: "Conoce los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers"
 slug: "como-evaluamos-la-postulacion-de-speakers"
 pubDate: "2021-06-30"
-# hero: "/blog/images/introducing-astro.jpg"
-# tags: ["9punto5, conferencia"]
+hero: "/blog/images/evaluation.jpg"
 layout: "../../layouts/BlogPostLayout.astro"
-categories:
-    - Conferencia
 ---
 
 En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers.
