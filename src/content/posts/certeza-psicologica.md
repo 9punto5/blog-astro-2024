@@ -1,10 +1,12 @@
 ---
 title: "Cómo Google descubrió las claves del éxito de los equipos de trabajo"
-pubDate: "2023-02-16"
 description: "La certeza psicológica es esencial. Tener la seguridad de que puedes tomar riesgos y ser vulnerables sin riesgos"
-hero: "/blog/images/certeza-psicologica.jpeg"
+date: 2023-02-16
+image: "/blog/images/posts/certeza-psicologica.jpeg"
+categories: ["cultura"]
+authors: ["fabian-acuna"]
 tags: ["equipos","alto desemepeño"]
-layout: "../../layouts/BlogPostLayout.astro"
+draft: false
 ---
 Durante años, Google ha invertido recursos y esfuerzos en determinar los factores que hacen que los equipos sean exitosos. Su proyecto “Aristóteles” fue uno de los más emblemáticos sobre esto, encontrando hallazgos sorprendentes en cuanto a lo que hace que un equipo sea efectivo.
 
