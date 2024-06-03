@@ -46,7 +46,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
     currentPosts.length > 0 && (
       <section class="section pt-0">
         <div class="container">
-          <h2 class="mb-8 text-center h3">Recent Posts</h2>
+          <h2 class="mb-8 text-center h3">Artículos recientes</h2>
           <div
             class={`row gy-4 ${currentPosts.length < 3 ? "justify-center" : ""}`}
           >
@@ -54,7 +54,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
               <div class="col-12 sm:col-6 lg:col-4">
                 {post.data.image && (
                   <a
-                    href={`/${post.slug}`}
+                    href={`/blog/${post.slug}`}
                     class="rounded-lg block hover:text-primary overflow-hidden group"
                   >
                     <Image
