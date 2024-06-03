@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "El blog de 9punto5",
+    "base_url": "https://9punto5.cl/blog",
+    "base_path": "/blog",
+    "trailing_slash": "ignore",
+    "favicon": "/blog/images/favicon.png",
+    "logo": "/blog/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "9punto5"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "9punto5",
+    "meta_image": "/blog/images/og-image.png",
+    "meta_description": "Un espacio para reflexionar y actuar sobre los desafíos tecnológicos y humanos"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "info@bookworm.org",
+    "phone": "+800 567 1234"
+  }
+}
