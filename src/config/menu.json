@@ -20,6 +20,10 @@
         {
           "name": "Etiquetas",
           "url": "/blog/tags"
+        },
+        {
+          "name": "RSS",
+          "url": "/blog/rss.xml"
         }
       ]
     }
