@@ -27,10 +27,9 @@ const { title, meta_title, description, image } = author.data;
 // Author Posts
 const posts = await getSinglePage("posts");
 const sortPostsByDate = sortByDate(posts);
+
 const currentPosts = sortPostsByDate.filter((post) => {
-  return post.data.authors
-    .map((author: string) => slugify(author))
-    .includes(slugify(title));
+  return post.data.authors.some((a:string) => a === author.slug);
 });
 ---
 
@@ -94,7 +93,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
                 </ul>
                 <h3 class="h5">
                   <a
-                    href={`/${post.slug}`}
+                    href={`/blog/${post.slug}`}
                     class="block hover:text-primary transition duration-300"
                   >
                     {post.data.title}
