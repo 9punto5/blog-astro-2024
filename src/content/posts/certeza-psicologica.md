@@ -2,7 +2,7 @@
 title: "Cómo Google descubrió las claves del éxito de los equipos de trabajo"
 description: "La certeza psicológica es esencial. Tener la seguridad de que puedes tomar riesgos y ser vulnerables sin riesgos"
 date: 2023-02-16
-image: "/blog/images/posts/certeza-psicologica.jpeg"
+image: "/blog/images/posts/certeza-psicologica.jpg"
 categories: ["cultura"]
 authors: ["fabian-acuna"]
 tags: ["equipos","alto desemepeño"]

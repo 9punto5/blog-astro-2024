@@ -1,12 +1,13 @@
 ---
 title: "Cómo evaluamos la postulación de Speakers"
 description: "Conoce los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers"
-slug: "como-evaluamos-la-postulacion-de-speakers"
-pubDate: "2021-06-30"
-hero: "/blog/images/evaluation.jpg"
-layout: "../../layouts/BlogPostLayout.astro"
+date: 2021-06-30
+image: "/blog/images/posts/evaluation.jpg"
+categories: ["conferencia"]
+authors: ["fabian-acuna"]
+tags: ["speaker","9punto5"]
+draft: false
 ---
-
 En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers.
 
 Aunque este artículo no pretende ser una guía universal que te permita sabe cómo piensan todas las organizaciones de conferencias, en nuestra experiencia otras conferencias buscan aspectos similares.
