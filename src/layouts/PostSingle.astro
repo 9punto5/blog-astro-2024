@@ -26,11 +26,9 @@ const { title, description, authors, categories, image, date, tags } =
           <li class="mx-3">
             {
               allAuthors
-                .filter((author) =>
-                  authors
-                    .map((author: string) => slugify(author))
-                    .includes(slugify(author.data.title)),
-                )
+                .filter((author) => {
+                  return authors.includes(author.slug);
+                })
                 .map((author, i) => (
                   <a
                     href={`/blog/authors/${slugify(author.slug)}`}
