@@ -1,61 +1,22 @@
 ---
-import BaseHead from "../components/Head/BaseHead.astro";
-import Nav from "../components/Nav.astro";
-import HomeHeader from "../components/HomeHeader.astro";
-import Card from "../components/Card.astro";
-import Footer from "../components/Footer/Footer.astro";
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import Pagination from "@/layouts/components/Pagination.astro";
+import Posts from "@/layouts/Posts.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
 
-interface MarkdownFrontmatter {
-pubDate: string | number | Date;
-  date: number;
-}
-
-const title = "El blog de 9punto5";
-const description = "Un espacio para reflexionar y actuar sobre los desafíos tecnológicos y humanos";
-const seoDescription = "Un espacio para reflexionar y actuar sobre los desafíos tecnológicos y humanos";
-
-const allPosts = await Astro.glob<MarkdownFrontmatter>("./posts/*.md");
-const sortedPosts = allPosts.sort(
-  (a, b) =>
-    new Date(b.frontmatter.pubDate).valueOf() -
-    new Date(a.frontmatter.pubDate).valueOf()
-);
+const posts = await getSinglePage("posts");
+const sortedPosts = sortByDate(posts);
+const totalPages = Math.ceil(posts.length / config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 ---
 
-<html lang="es">
-  <head>
-    <BaseHead title={title} description={seoDescription} />
-  </head>
-
-  <body class="bg-white text-black font-body leading-normal personality-casual dark:bg-black dark:text-white dark:font-body dark:leading-normal">
-    <Nav />
-
-    <main class="py-12 lg:py-20">
-      <article class="max-w-6xl mx-auto px-3">
-        <HomeHeader title={title} description={description} />
-        
-        <section
-          class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8"
-          data-test="articles-section"
-        >
-          {
-            sortedPosts.map((p) => (
-              <div class="col-span-1">
-                <Card post={p} />
-              </div>
-            ))
-          }
-        </section>
-      </article>
-    </main>
-
-    <section class="flex space-x-8 justify-center text-xl pt-8 font-bold">
-      <a href="/blog/posts" class="mr-8" data-test="see-all-link">
-        Ver todos los artículos
-        <span class="squiggle">&rarr;</span>
-      </a>
-    </section>
-
-    <Footer />
-  </body>
-</html>
+<Base>
+  <section class="section">
+    <div class="container">
+      <Posts posts={currentPosts} className="mb-16" />
+      <Pagination currentPage={1} totalPages={totalPages} />
+    </div>
+  </section>
+</Base>

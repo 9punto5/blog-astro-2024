@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/blog"
+    },
+    {
+      "name": "Categorías",
+      "url": "/blog/categories"
+    },
+    {
+      "name": "Más",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Autores",
+          "url": "/blog/authors"
+        },
+        {
+          "name": "Etiquetas",
+          "url": "/blog/tags"
+        }
+      ]
+    }
+  ],
+  "footer": []
+}
