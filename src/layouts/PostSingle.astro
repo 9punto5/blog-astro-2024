@@ -26,11 +26,9 @@ const { title, description, authors, categories, image, date, tags } =
           <li class="mx-3">
             {
               allAuthors
-                .filter((author) =>
-                  authors
-                    .map((author: string) => slugify(author))
-                    .includes(slugify(author.data.title)),
-                )
+                .filter((author) => {
+                  return authors.includes(author.slug);
+                })
                 .map((author, i) => (
                   <a
                     href={`/blog/authors/${slugify(author.slug)}`}
@@ -127,7 +125,9 @@ const { title, description, authors, categories, image, date, tags } =
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
+        <h2 class="mb-8 text-center h3">
+          Artículos similares
+        </h2>
         <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>
