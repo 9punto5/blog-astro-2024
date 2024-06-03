@@ -19,7 +19,7 @@ Esta pregunta es regular entre quienes se mueven entre ciudades por razones como
 El origen de este post viene de un correo relacionado con esto mismo, que nos alegró mucho recibir, y que sirve para compartir ideas de lo que podría hacer alguien que esté explorando formas de instalarse en una nueva ciudad.
 
 
-![mail](/images/posts/mail.webp)
+![mail](/blog/images/posts/mail.webp)
 (Gracias María José por tu mail y dejar que lo compartiéramos)
 
 Al organizar 9punto5 hemos conocido muchos casos de chilenos y extranjeros que se han movido de país y/o ciudad (yo mismo me vine al sur de Chile el 2013), entre ellos varios vivien el trabajo remoto.

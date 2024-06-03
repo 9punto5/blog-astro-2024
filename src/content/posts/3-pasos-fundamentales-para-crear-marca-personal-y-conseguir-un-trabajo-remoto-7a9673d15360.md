@@ -13,7 +13,7 @@ Crear una marca no es algo que logremos de la noche a la mañana. La competencia
 
 Pero también es cierto que para lograr el éxito debemos crecer siempre a nuestro propio ritmo, sin forzar las cosas y tratando primero que todo de superarnos a nosotros mismos. No existe nada de malo en repetir los procesos muchas veces hasta que nos salgan bien. Lo importante es nunca perder el norte.
 
-![nicho](/images/posts/alvaro.webp)
+![nicho](/blog/images/posts/alvaro.webp)
 *Álvaro Herrera, colaborador de PostgreSQL, participando de la versión 2016 de “9punto5”.*
 
 Si somos talentosos, generamos un producto interesante y destacamos en una comunidad, es muy probable que una empresa de nuestra área en busca de talentos pose sus ojos en nosotros. Es cuestión de saber apretar las teclas adecuadas.
