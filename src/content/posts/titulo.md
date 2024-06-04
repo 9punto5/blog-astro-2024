@@ -2,7 +2,7 @@
 title: "Cómo escribir un buen título"
 description: "Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo y lo hará más memorable."
 date: 2024-05-13
-image: "/blog/images/posts/title.jpg"
+image: "/blog/images/posts/titulo.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
 tags: ["speaker"]
