@@ -1,9 +1,7 @@
-{
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "https://instagram.com/",
-  "youtube": "https://youtube.com/",
-  "linkedin": "https://linkedin.com/",
+{  "twitter": "https://twitter.com/9punto5_",
+  "instagram": "https://www.instagram.com/9punto5_/",
+  "youtube": "https://www.youtube.com/@9punto5",
+  "linkedin": "https://linkedin.com/company/9punto5",
   "github": "",
   "gitlab": "",
   "medium": "",
@@ -21,10 +19,10 @@
   "vimeo": "",
   "tiktok": "",
   "foursquare": "",
-  "rss": "",
+  "rss": "https://9punto5.cl/blog/rss.xml",
   "email": "",
   "phone": "",
   "address": "",
   "skype": "",
-  "website": ""
+  "website": "https://9punto5.cl"
 }
