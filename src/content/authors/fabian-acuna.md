@@ -1,6 +1,6 @@
 ---
 title: Fabián Acuña Hernández
-image: /blog/images/authors/fabian-acuna.jpg
+image: /blog/images/authors/fabian-acuna.webp
 description: this is meta description
 social:
   twitter: https://www.twitter.com/@fabianhtml
