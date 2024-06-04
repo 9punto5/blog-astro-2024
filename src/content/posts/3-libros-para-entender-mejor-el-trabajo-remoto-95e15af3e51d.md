@@ -3,9 +3,9 @@ title: "3 libros para entender mejor el trabajo remoto"
 description: "meta description"
 date: 2017-06-29
 image: "/blog/images/posts/3-libros-trabajo-remoto.webp"
-categories: ["Trabajo remoto"]
+categories: ["Desarrollo"]
 authors: ["romy-valenta"]
-tags: ["libros"]
+tags: ["libros", "trabajo remoto"]
 draft: false
 ---
 

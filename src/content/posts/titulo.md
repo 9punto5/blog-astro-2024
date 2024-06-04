@@ -1,11 +1,11 @@
 ---
 title: "Cómo escribir un buen título"
-description: "Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo y lo hará más memorable."
+description: "Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo y lo hará más memorable"
 date: 2024-05-13
 image: "/blog/images/posts/titulo.webp"
-categories: ["Conferencia"]
+categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["speaker"]
+tags: ["9punto5", "speaker"]
 draft: false
 ---
 **Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo, lo hará más memorable y atraerá a nuevas personas.**
@@ -27,5 +27,6 @@ Veamos algunos ejemplos de estos fenómenos en acción:
 **“Deep Work"** pasa la prueba de “contar lo que estoy leyendo en la comida con amigos". Suena bien decir que estás usando técnicas para hacer “Deep Work” (trabajo profundo y que no funciona muy bien en español). Se siente bien y por eso hay espacios donde se hizo conocido hablar de “Deep Work". Un título alternativo pudo ser "La importancia de la concentración”, pero eso no es pegajoso.
 
 El libro **“Play it Away"** habla sobre cómo curar la ansiedad. Su autor, Charlie Hoehr, dijo que no quería la palabra “ansiedad” en el título porque hace que las personas sean menos propensas a decirle a un amigo que lo están leyendo. Pero luego, si buscan libros sobre ansiedad (una actividad más privada) pueden encontrarlo, porque la palabra está en el subtítulo: "A Workaholic’s Cure for Anxiety".
+
 
 El título perfecto no existe, pero se va revelando mientras más desarrollas tu trabajo.

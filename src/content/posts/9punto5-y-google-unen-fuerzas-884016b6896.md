@@ -3,13 +3,13 @@ title: "9punto5 y Google unen fuerzas"
 description: "¡Descubre la colaboración entre 9punto5 y Google! Aprende de expertos en el primer Launchpad Build en Chile y fortalece tus habilidades para el trabajo remoto y el emprendimiento"
 date: 2017-06-15
 image: "/blog/images/posts/9punto5-Launchpad-Build.webp"
-categories: ["Startups"]
+categories: ["Oportunidades"]
 authors: ["felipe-pena"]
 tags: ["Google", "Launchpad"]
 draft: false
 ---
 
-Se trata del primer Launchpad Build, que se llevará a cabo en el marco de la segunda versión de “9punto5”.
+Participa del del primer Launchpad Build dirigido a startups, y que se llevará a cabo en el marco de la segunda versión de “9punto5”.
 
 
 Después de tanto tiempo sin publicar, queremos empezar anunciando las primeras sesiones y speakers de la versión 2017 de “9punto5”.

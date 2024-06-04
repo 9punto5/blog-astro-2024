@@ -8,4 +8,4 @@ social:
 ---
 
 Cultural designer. Community builder. Fundador de la comunidad y conferencia 
-9punto5. También puedes leer su blog personal en [fablab.blog](https://t.co/1tLA2XKViG)
+9punto5. También puedes leer su blog personal en [fablab.blog.](https://t.co/1tLA2XKViG)
