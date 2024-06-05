@@ -1,6 +1,6 @@
 ---
 title: "Cómo escribir un planteamiento del problema"
-description: "Escribir de manera sencilla y clara mejora la comunicación en equipos de trabajo asíncrono. Se recomienda comenzar con la información clave, hacer solicitudes claras y simplificar el mensaje eliminando lo innecesario. Utilizar formatos estructurados, lenguaje simple y elementos visuales facilita la comprensión y efectividad de la escritura"
+description: "Aprende a definir correctamente el problema antes de diseñar soluciones. Evita errores comunes y toma mejores decisiones con esta herramienta práctica."
 date: 2023-02-16
 image: "/blog/images/posts/planteamiento-problema.webp"
 categories: ["Desarrollo"]

@@ -1,6 +1,6 @@
 ---
 title: "Pensamiento de segundo orden para tomar mejores decisiones"
-description: "Escribir de manera sencilla y clara mejora la comunicación en equipos de trabajo asíncrono. Se recomienda comenzar con la información clave, hacer solicitudes claras y simplificar el mensaje eliminando lo innecesario. Utilizar formatos estructurados, lenguaje simple y elementos visuales facilita la comprensión y efectividad de la escritura"
+description: "Descubre el poder del pensamiento de segundo orden para tomar decisiones más inteligentes y considerar las consecuencias a largo plazo de tus acciones"
 date: 2023-03-16
 image: "/blog/images/posts/segundo-orden.webp"
 categories: ["Desarrollo"]
