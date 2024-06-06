@@ -72,6 +72,20 @@ const {
 
 <ul class={className}>
   {
+    linkedin && (
+      <li class="inline-block">
+        <a
+          aria-label="linkedin"
+          href={linkedin}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+        >
+          <IoLogoLinkedin />
+        </a>
+      </li>
+    )
+  }
+  {
     facebook && (
       <li class="inline-block">
         <a
@@ -141,20 +155,7 @@ const {
       </li>
     )
   }
-  {
-    linkedin && (
-      <li class="inline-block">
-        <a
-          aria-label="linkedin"
-          href={linkedin}
-          target="_blank"
-          rel="noopener noreferrer nofollow"
-        >
-          <IoLogoLinkedin />
-        </a>
-      </li>
-    )
-  }
+
   {
     github && (
       <li class="inline-block">
