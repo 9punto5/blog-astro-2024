@@ -3,7 +3,7 @@ title: "Preparándonos para la cuarta versión de 9punto5"
 description: "Regularmente recibo notificaciones de Google Trends sobre la cantidad de búquedas para “Futuro del Trabajo” y “Future of Work”. Desde el 2007 hay un interés creciente"
 date: 2019-07-24T03:00:17.342Z
 image: "/blog/images/posts/futuro-trabajo.webp"
-categories: ["categoria"]
+categories: ["Conferencia"]
 authors: ["fabian-acuna"]
 tags: ["9punto5"]
 draft: false
