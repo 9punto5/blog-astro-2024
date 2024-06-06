@@ -4,7 +4,8 @@ image: /blog/images/authors/fabian-acuna.webp
 description: this is meta description
 social:
   twitter: https://www.twitter.com/@fabianhtml
-  instagram: https://www.instagram.com/fabianhtml/
+  instagram: https://www.instagram.com/fabianhtml
+  linkedin: https://www.linkedin.com/in/fabianhtml
 ---
 
 Cultural designer. Community builder. Fundador de la comunidad y conferencia 
