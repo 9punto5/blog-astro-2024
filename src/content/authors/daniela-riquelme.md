@@ -6,4 +6,4 @@ social:
   twitter: https://twitter.com/Nelissh
 ---
 
-Daniela, chilota, feminista y diseñadora de la Universidad de Chile, ha dedicado su carrera al diseño de experiencia y tecnología. Diplomada en UX, arquitectura de información y diseño de servicios. Su pasión por mejorar experiencias se refleja en sus roles de UX y su participación en comunidades con impacto social, como +Mujeres en UX, RET, ADEM, y Open Beauchef. Actualmente es co-organizadora de 9punto5, enfocada en integrar liderazgo femenino y mejorar la cultura laboral y los entornos ágiles.
+Daniela, chilota, feminista y diseñadora de la Universidad de Chile, ha dedicado su carrera al diseño de experiencia y tecnología. Diplomada en UX, arquitectura de información y diseño de servicios. Su pasión por mejorar experiencias se refleja en sus roles de UX y su participación en comunidades con impacto social, como +Mujeres en UX, RET, ADEM en Radio ADN, y Open Beauchef. Actualmente es co-organizadora de 9punto5, enfocada en integrar liderazgo femenino y mejorar la cultura laboral y los entornos ágiles.
