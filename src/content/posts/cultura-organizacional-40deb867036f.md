@@ -1,0 +1,113 @@
+---
+title: "¿Qué es la cultura de una organización?"
+description: "Comprendiendo la cultura empresarial: sus patrones, el rol del liderazgo y cómo ocurre la adaptación"
+date: 2019-11-02T23:46:29.472Z
+image: "/blog/images/posts/cultura.webp"
+categories: ["Cultura"]
+authors: ["9punto5"]
+tags: ["Cultura organizacional"]
+draft: false
+---
+
+
+## En la contingencia chilena hace falta que empecemos a dar una mirada mas profunda a la cultura de las empresas
+Cultura es una palabra que utilizamos mucho en 9punto5, por lo que quisimos desarrollar esta idea como un recurso que esperamos sirva para reflexionar en cómo estamos haciendo empresa. Esto nos parece además especialmente urgente antes lo hechos de las últimas semanas en Chile, donde millones de personas a lo largo del país han manifestado fuertemente el descontento, que también cae sobre la forma en que llevamos adelante nuestras organizaciones.
+
+Además estamos creando un repositorio de información pública de libre acceso, con esta misma información organizada en una estructura que nos permita disponibilizar en el tiempo una base de conocimiento sobre este tema para quienes la puedan considerar útil, que es lo que esperamos. Esto aquí 👉 **[Cultura — Knowledge Base](https://www.notion.so/9punto5/Cultura-3eaa473cdc5048a9bda8a1ab32edf3e1)**.
+
+# En 9punto5 definimos junto con Edgar Schein que:
+
+La cultura de un grupo u organización puede ser definida como un set patrones de supuestos básicos aprendidos durante el camino de resolución de los problemas de adaptación externa e integración interna del grupo u organización, que han funcionado suficientemente bien como para ser considerados válidos y, por lo tanto, válidos de ser enseñados a nuevos miembros como la correcta manera de percibir, pensar y sentir en torno a dichos problemas.
+
+— El concepto de cultura implica: estabilidad estructural, profundidad, extensión y modelado (patterning) o integración.
+
+— Distinguimos tres niveles de existencia cultural en una organización: artefactos, valores inscritos y supuestos básicos.
+
+Si una cultura es “buena” o “mala”, “funcionalmente efectiva”, o no, no depende sólo de la cultura sino la relación que sostiene con el ambiente que la rodea.
+
+Para nosotros el aspecto más intrigante de cultura –como concepto– es que nos apunta a fenómenos que yacen bajo la superficie. Conceptos que son poderosos en su impacto pero invisibles y hasta un grado considerable, inconscientes. La cultura efectivamente crea mentalidades y marcos de referencia, esto consistiendo en uno de los importantes procesos encubiertos de la misma. En otro sentido, la cultura es a un grupo lo que el carácter y la personalidad son a una persona. Podemos ver la conducta que se desempeña, pero usualmente no podemos ver las fuerzas que causan ciertos patrones de conducta, así la cultura guía y constriñe el comportamiento de los miembros de un grupo a través de las normas compartidas que se sostienen en dicho grupo.
+
+En una organización, lo que finalmente llamamos cultura es en principio el resultado de lo que un líder o un fundador ha logrado incrustar o implicar al imponer en un grupo lo que ha funcionado (o se cree que a funcionado) en el tiempo. En ese sentido la cultura en términos últimos es creada, implicada, evolucionada y finalmente manipulada por los líderes.
+
+Al mismo tiempo, con los procesos de madurez grupal, la cultura comienza a contener, estabilizar y proveer de estructura y significado a los miembros del grupo hasta el punto de finalmente especificar que tipo de liderazgo y organización será aceptable en el futuro.
+
+Cuando los elementos de una cultura se vuelven disfuncionales, son los líderes los que tienen que conquistar su propia cultura y apurar el proceso normal de evolución con programas de cambio forzado de la cultura. Estos procesos dinámicos de creación de cultura y management son la esencia del liderazgo y nos llevan a caer en cuenta que liderazgo y cultura son dos caras de una misma moneda por su mutua implicación en la estabilidad y posibilidad de una organización.
+
+La cultura nunca es gobernada desde los empleados o personas que están en una posición de poder menor a los dueños o líderes de las organizaciones puesto que su agencia de cambio puede con mucha facilidad ser truncada, impedida o redirigida desde posiciones de más arriba en la estructura al ser la redirección, trunque o impedimiento acciones legitmiadas por una organización vs. otras alternativas. Con esto se quiere decir que a menos que una cultura activamente busque funcionar redefiniéndose desde las bases hacia las cúspides, será siempre gobernada y redirigida por quienes tienen la posición legítima de hacerlo puesto que arrastrarán el acuerdo interno y externo de las mayorías cuando lo hagan, versus un acuerdo de un grupo menor al interior de una organización (que no logra afectar realmente la cultura de la organización). Esa diferencia de posición arrastra la capacidad de dotar de contenido a una cultura, versus tener un grupo de pares dentro de una organización, no es lo mismo.
+
+# Cultura formalmente definida
+
+La cultura de un grupo puede ser definida como un patrón de supuestos básicos aprendidos por un grupo durante su camino de resolución de sus problemas de adaptación externa e integración interna, que ha funcionado suficientemente bien como para ser considerada válida y, por lo tanto, válida de ser enseñada a nuevos miembros como la correcta manera de percibir, pensar y sentir en torno a dichos problemas.
+
+La cultura da estabilidad y predictibilidad al grupo: para que el concepto de cultura tenga utilidad alguna, debiese llevar nuestra atención hacia aquellos elementos que son producto de nuestra necesidad humana por estabilidad, consistencia y significado. La formación de cultura, por lo tanto, es siempre, por definición un esfuerzo hacia modelamiento e integración, aunque en muchos grupos, su historia factual de experiencias le impide formar un claro paradigma libre de ambigüedad y contradicción.
+
+### Definiciones
+
+![Medium-Image](/blog/images/posts/1*zZyhXplaj2xImFIJiqjHyw.png)
+![Medium-Image](/blog/images/posts/1*YshttUVDGJ1fAipfJzShiA.png)
+![Medium-Image](/blog/images/posts/1*yp2S_bscN0h0jH82DZiFnA.png)
+
+# Lo que implica la cultura en las organizaciones
+
+El concepto de cultura implica: estabilidad estructural, profundidad, extensión o amplitud e integración o modelado (patterning).
+
+## Estabilidad estructural
+
+Cultura implica algún grado de estabilidad estructural en el grupo. Cuando decimos que algo es cultural implicamos que no sólo es compartido sino también estable porque define al grupo. Una vez alcanzado algún nivel de sentido de identidad grupal, ***la identidad*** ** pasa a ser nuestra mayor fuerza estabilizadora y no se cederá fácilmente. La cultura sobrevive incluso cuando los miembros de la organización se van. Cuesta cambiar la cultura puesto que los miembros del grupo valoran la estabilidad en tanto que provee significado y predictibilidad.
+
+## Profundidad
+
+Cultura es la más profunda, normalmente inconsciente parte de un grupo y es por lo tanto menos tangible y menos visible. Desde este punto de vista, la mayoría de las categorías utilizadas para describir cultura pueden pensarse como manifestaciones de cultura. Notar que cuando algo está más profundamente incrustado eso también provee estabilidad.
+
+## Amplitud
+
+Una tercera característica de cultura es que una vez que se ha desarrollado, recubre todo el funcionamiento grupal. La cultura es penetrante y ejerce influencia en todos los aspectos ***sobre cómo***  una organización se maneja en torno a su actividad primaria, en sus diversos ambientes, y en sus operaciones internas. No todos los grupos tienen cultura en este sentido, pero el concepto connota que si nos referimos a *la cultura*  de un grupo, nos estamos refiriendo a todas sus operaciones. Es abarcante *la cultura*  de todos los quehaceres del grupo en cuestión, sus relaciones y su coherencia e internalidad.
+
+## Modelamiento o integración
+
+La cuarta característica que se implica en cultura y que promueve la estabilidad es el modelamiento o integración de los elementos a un paradigma mayor o *“gestalt”*  que unifica los diversos elementos y reside siempre, como tal, en un nivel más profundo. Cultura implica que fenómenos como rituales, clima, valores y conductas conjugan en su totalidad a un todo coherente, y este **patrón o integración**  es la esencia de qué queremos decir por *cultura* . Estas macro-consistencias derivan en términos últimos de nuestra necesidad humana de volver nuestro ambiente lo mas racional — que nos haga sentido — y ordenado posible. El desorden o el sin-sentido están entre las mayores fuentes posibles de ansiedad, así que de manera espontánea nos esforzaremos mucho en producir una visión de como las cosas se vuelven predecibles y de como deberían ser. Así “las culturas organizacionales, como otras culturas, se desarrollan mientras grupos de personas luchan por hacer sentido y se las arreglan con sus mundos”.
+![Medium-Image](/blog/images/posts/1*Jnuh3pge7w3K6QywzkpD0A.png)
+
+# Niveles de la cultura en las organizaciones
+
+Distinguimos tres niveles de existencia cultural en una organización: artefactos, valores inscritos y supuestos básicos.
+![Medium-Image](/blog/images/posts/1*J_kvXEzDynSSlczLAqEh7A.png)
+
+## Artefactos
+
+Estos están en **el nivel más palpable** , son los usos y fenómenos visibles de la cultura. En qué piso está la gerencia, puestos reservados o libres, oficinas cerradas para gerencia o todos en espacio común, como se distribuyen el uso del edificio de la organización — función de los espacios — , grado de informalidad en el trato, cordialidad y trato, estructuras de las salas de reuniones, cualidades de acceso a cada quién, proximidad estructural (vía remota y/o presencial), las llamadas las contesta siempre una persona en especial.
+
+Todo artefacto cultural en su estatuto de cosa logra tener un sentido y rol en la persistencia de los patrones culturales de la organización y opera estando ahí porque *hace sentido que ahí esté y del modo en que está.*  Usualmente este nivel cultural es el que más revela sobre las condiciones del poder y de los modos de organizar el trabajo en cualquier organización.
+- **Ejemplo:** Todas las reuniones ocurren en la misma sala, especialmente las semanales. Es una sala transparente pero fría. En general hay dos puestos reservados para los gerentes quienes dirigen desde sus asientos los contenidos de la reunión”. El artefacto en este caso es la sala de reunión con todas las características perceptibles de la misma, incluida la frialdad, la disposición de las sillas, y muchas otras características que informan nuestra sensibilidad y percepción de la situación.
+
+## Valores inscritos
+
+Valores inscritos como **centrales de la cultura**  organizacional. Este nivel es de interés en cualquier cultura organizacional pero no termina su historia en la mera declaración de los valores, ese es sólo el comienzo. Las culturas admiten relaciones complejas con los mismos, incluido el traicionarlos sin decirlo abiertamente, generando modos mal-sanos y auto-contradictorios al interior de las culturas organizacionales.
+
+El valor inscrito que es de interés como nivel cultural no es otro sino la dinámica desplegada desde la declaración del mismo por parte de una cultura organizacional.
+- **A modo de ejemplo:** Los valores inscritos en Doist son *“Today, and always, Doist stands for inclusivity, open-mindedness, and diversity”.*  Por tanto inclusividad, mentalidad abierta y diversidad se configuran como valores inscritos por la cultura de Doist gobernando expectativas de trato, contratación y modos de operar al interior de la organización, determinando contenidos de trato, comunicación, contratación y perfilamiento en torno a las desiciones de los miembros de la organización. ¿Qué otra cosa significará la inscripción de estos valores en la organización?, no tendremos cómo saberlo a menos que trabajásemos allá o fuesen objeto de consultoría de parte nuestra, sin embargo sabemos que los cambios globales de las condiciones del capitalismo internacional ha llegado a incentivar en las organizaciones y su liderazgo una cierta honestidad en su manera de llevar adelante sus asuntos, y eso nos permite asumir, al menos, que es un intento real la inscripción en estos valores. Al ser una organización remota, sus comunicaciones son objeto permanente de perfeccionamiento como nos podemos enterar a través de sus comentarios públicos (blogs, charlas) donde relatan como han generado ciertas prácticas que facilitan la inclusividad y la diversidad al remover el lenguaje hostil o discriminatorio, solicitando de todos que participen en promover un cuidar el espacio común y cuiden como hablan al compartir con otros.
+- Dejémonos llevar por una suposición ahora, donde asumamos que uno de los líderes de área en Doist simplemente no cree que ninguno de estos valores sean ciertos, tengan peso específico, tengan alguna importancia. Para los efectos de nuestro razonamiento, da lo mismo porqué esto podría ser así. Asumamos un problema de contratación. Esa persona permanentemente ejercerá una doble estructura con sus subalternos donde les solicitará, sin decirlo explícitamente, que superficialmente se adapten a la forma de “inclusión, diversidad, mentalidad abierta”, pero que internamente resistan estas ideas al no respetarlas entre ellos, en el diálogo interno. El valor inscrito entonces opera, realmente en esta sección de la organización, como una invitación al engaño y no como dice ser, a la inclusión.
+- Hemos de ver, entonces, que las consecuencias culturales se despliegan desde las prácticas efectivas y no desde declarar valores como algo en si mismo. Entonces, prácticas como dejar todas las comunicaciones esencialmente públicas son una forma de llevar adelante estos valores.
+
+## Supuestos básicos
+
+Los supuestos básicos **corresponden al nivel mas profundo de la cultura**  de una organización o grupo, son fuertemente implícitos más que explícitos, sus orígenes están en desarrollar soluciones a problemas consistentes en el tiempo las cuales comienzan como hipótesis, pero **gradualmente llegan a tratarse como realidades** . Tienden a ser no-confrontables y no-debatibles, y cambiarlas genera grandes cantidades de ansiedad. Este es el nivel de convicciones fuertes, normalmente irracionales y no necesariamente relacionadas directamente con el quehacer.
+- **Ejemplo: La mujer no es buena CEO.** La creencia que una mujer no es buen CEO es cultural en el sentido que se ejerce como un supuesto básico en las toma de decisión de contratación independiente de las competencias, es un prejuicio por lo tanto, y por otro, no es claro el camino para derribar ese supuesto en los grupos relevantes de poder en torno al juicio que implica la creencia. No es debatible en tanto que todas las mujeres que han sido buenas CEO nacional e internacionalmente no parece ser evidencia suficiente y no es confrontable puesto que justamente pareciese ser que lo único que puede pasar es que suficientes mujeres sean exitosas finalmente imponiendo que es un supuesto falso.
+
+Mas que tolerar fuertes grados de ansiedad buscando alterar nuestros supuestos básicos (aprendiendo y cambiando), tendemos a percibir los eventos que nos rodean como congruentes con los supuestos básicos que ya tenemos, incluso cuando esto implica distorsionar, negar, proyectar u otras formas de falsificar lo que ocurre en torno a nosotros. Es en este proceso psicológico en donde la cultura ostenta su poder mayor.
+- **Ejemplo común:** Hay miles de situaciones, emociones y pensamientos que en cualquier organización simplemente no se comunican porque ya se ha instalado cuales son las perspectivas hegemónicas. Estas perspectivas están allí puesto que se ha instalado lo que es tolerable y lo que simplemente no será escuchado ni incorporado. Esto es algo que todos hemos vivido en grupos y organizaciones en las que hemos participado. Pequeño comentario al pasar, esta es la razón por la cual si es relevante acordar en las organizaciones los procesos y roles, más que los contenidos como tales.
+
+Desde los usos culturales **el escenario más probable es no ver aquello que contradice lo que supones de base**  que está allí, incluso frente a grotesca, palpable y ruidosa evidencia. Estamos diciendo que lo más probable en un grupo u organización es que los líderes asuman que todos comparten su punto de vista en cómo se sienten, viven y piensan en torno al trabajo, la participación en la organización y la valoración de los eventos.
+- **Ejemplo: “El valor está en el entregable”.** Si el líder o grupo de líderes cree, ejemplo común en Chile, que sólo lo *entregable*  tiene valor real la *pedida*  vendrá asociada a *presionar*  por el entregable (generando dinámicas conocidas por todos nosotros: plazos por sobre calidad, presión por conseguir resultados en el corto plazo relegando la calidad o agregando presión, falta de expectativas conocidas y razonables en torno a calidad y plazos, preferencia de forma por sobre el fondo en el trabajo), generando vicios conocidos en la organización donde se conoce que presionar por la entrega incentiva la mentira y el engaño en las organizaciones (sólo tener procesos sanos podrán salvarte de esto). En este caso particular donde encontramos que la propia cultura incentiva a la mentira, podemos reconocer un escenario común donde el liderazgo cultural queda ciego frente a los eventos que transcurren en su organización, quizá al punto de genuinamente no saber qué ocurre.
+
+Mucho de este nivel cultural, que como decimos, es parte de la dinámica de las organizaciones, describe como llegamos al hoy en Chile y ha sido como, en un porcentaje bastante alto, lo que ha ocurrido al interior de las organizaciones laborales ha acumulado y producido altísimos niveles de malestar, enfermedad y descontento y pasado que no ha sido visto ni tomado como tal: malestar, enfermedad, descontento. Desde este punto de vista, lo último a ser tomado desde la cultura y desde los líderes de las culturas (a menos que activamente hagan lo contrario) es la contradicción de sus supuestos básicos puesto que de hacerlo, trae el fantasma ansioso de arriesgar la sobrevida de la organización. **Incluso cuando en el mundo actual existe conocida evidencia de que la integración del cambio en la organizaciones es de importante salud para sus miembros y genera fuertes beneficios de sobervida en las organizaciones.**
+
+La cultura como un set de supuestos básicos nos define a qué poner atención, qué significan los eventos, cómo reaccionar emocionalmente a lo que ocurra y qué acciones tomar en diversas situaciones. Una vez que hemos integrado un set consistente de supuestos básicos — un “mapa mental” o un “imaginario” — estaremos máximamente cómodos con quienes compartan el mismo set de supuestos básicos, muy incómodos y vulnerables en situaciones donde esto no sea así, puesto que o no entenderemos lo que pasa (no descodificaremos el escenario social y sus significados por lo que son) o peor, interpretaremos mal y percibiremos mal las acciones de otros, normalmente atribuyendo intenciones negativas y efectos dañinos a aquellos que no podemos comprender por no compartir supuestos básicos con ellos.
+
+Los últimos en tomar en consideración el malestar, la disidencia, la forma nueva, lo divergente y lo nuevo serán **los actores cuyo incentivo más fuerte, directo o indirecto está en que la situación se mantenga como está actualmente** . En ese sentido, una paradoja del liderazgo desde el punto de vista cultural es que el poder una vez establecido querrá que sus formas productivas se mantengan, que induzcan a la estabilidad al costo del cambio y posibles mejores maneras de llevar adelante los propósitos y fines de una organización. El conciliar sostener la apertura e integrar que una de las funciones del liderazgo moderno está en dispensar dignidad, poder, autoridad, autonomía y reconocimiento es un arte escaso en nuestro país, pero necesario a incorporar.
+
+## Finalmente
+
+Desde el mundo del trabajo los ejemplos de lo que ahora decimos son miles y la gran mayoría de los que podemos pensar está a la fecha actual en la calle y marchando en Chile. Basta con escucharlos. Detrás de mucho malestar hay miles, quizá millones, de personas que activamente no están siendo incluidas ni escuchadas en sus lugares de trabajo y, conociendo que hay mejores posibilidades que lo actual en la mayoría de los casos, la negativa a negociar mejorías en las condiciones ha cristalizado una desconexión notoria desde el gobierno hacia abajo en nuestro país. Ha fracturado el país, generando una herida en el tejido social. Estas condiciones no son obvias a cambiar, pero la clave estará en culturas promotoras de reconocimiento, con caminos a mejores sueldos y mejores condiciones de trabajo (y de vida). Estas serán las culturas más atractivas y serán competentes en mejorar las condiciones país para todos nosotros que trabajamos en Chile.
+
+Gracias a Gaspar y Fabián Acuña Hernández por este artículo.-
