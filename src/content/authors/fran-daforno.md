@@ -1,13 +1,8 @@
 ---
-title: Daniela Riquelme Yañez
-image: /blog/images/authors/daniela-riquelme.webp
-description: Daniela es parte de 9punto5 motivada por la integración de liderazgo y voces femeninas, su interés y preocupación por la cultura laboral y los entornos ágiles, y para entregar una mejor experiencia de conferencia.
+title: Fran Da Forno
+image: /blog/images/authors/fran-da-forno.webp
+description: Fran ama viajar y acoge nómadas digitales en su hogar, ofreciendo una experiencia única. mar, calma, pescadores, naturaleza, alimentos locales y buen wifi.
 social:
-  twitter: https://twitter.com/Nelissh
+  linkedin: https://www.linkedin.com/in/francisca-da-forno-mu%C3%B1oz-89625a49/
 ---
-
-Daniela es chilota, feminista y diseñadora de la Universidad de Chile. Ha dedicado su carrera profesional al diseño de experiencia y la tecnología. Diplomada en experiecia de usuario y arquitectura de información y además en diseño de servicios.
-
-Su pasión por entregar mejores experiencia no sólo se queda en sus roles de UX, sino que también en distintas comunidades y proyectos con foco en el impacto social, siendo líder y luego embajadora de la comunidad feminista +Mujeres en UX, más tarde parte de RET (Red emprender para transformar), profesora de la Academia de Emprendedores (ADEM), mentora en Open Beauchef y hoy, co-organizadora de 9punto5, entre otras actividades.
-
-Su presencia en 9punto5 es motivada por la integración de liderazgo y voces femeninas, su interés y preocupación por la cultura laboral y los entornos ágiles, y para entregar una mejor experiencia de conferencia.
+Fran ama viajar; le encanta la sensación de hackear su vida lineal y llegar a lugares que a veces se perciben en el pasado y otras en el futuro. Recibe a nómadas digitales en su hogar para que experimenten la vida allí: el mar, el ritmo calmo, una localidad pequeña con pescadores, naturaleza, alimentos locales y buen wifi.

@@ -1,13 +1,9 @@
 ---
-title: Daniela Riquelme Yañez
-image: /blog/images/authors/daniela-riquelme.webp
-description: Daniela es parte de 9punto5 motivada por la integración de liderazgo y voces femeninas, su interés y preocupación por la cultura laboral y los entornos ágiles, y para entregar una mejor experiencia de conferencia.
+title: Sandra Cartagena
+image: /blog/images/authors/sandra-cartagena.webp
+description: Sandra, experta en comunicación empática y Experiencia de Usuario, transforma objetivos de negocio en contenidos claros y útiles. Más de 10 años en redes sociales.
 social:
-  twitter: https://twitter.com/Nelissh
+  linkedin: https://www.linkedin.com/in/suncito/
+
 ---
-
-Daniela es chilota, feminista y diseñadora de la Universidad de Chile. Ha dedicado su carrera profesional al diseño de experiencia y la tecnología. Diplomada en experiecia de usuario y arquitectura de información y además en diseño de servicios.
-
-Su pasión por entregar mejores experiencia no sólo se queda en sus roles de UX, sino que también en distintas comunidades y proyectos con foco en el impacto social, siendo líder y luego embajadora de la comunidad feminista +Mujeres en UX, más tarde parte de RET (Red emprender para transformar), profesora de la Academia de Emprendedores (ADEM), mentora en Open Beauchef y hoy, co-organizadora de 9punto5, entre otras actividades.
-
-Su presencia en 9punto5 es motivada por la integración de liderazgo y voces femeninas, su interés y preocupación por la cultura laboral y los entornos ágiles, y para entregar una mejor experiencia de conferencia.
+UX Writer. Sandra prioriza la empatía en la comunicación escrita para llegar a una amplia gama de usuarios. Comprende profundamente los objetivos del negocio y traduce sus contenidos en un lenguaje claro y útil. Tras más de 10 años en redes sociales, decidió enfocarse en la Experiencia de Usuario para aportar concretamente en sus equipos y mejorar el impacto del contenido en las personas.
