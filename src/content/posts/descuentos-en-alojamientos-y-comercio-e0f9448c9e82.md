@@ -11,9 +11,10 @@ draft: false
 
 En las oficinas de Nube Cowork, donde funciona el centro de operaciones de 9punto5, ya se siente en el ambiente que estamos a días y casi horas de la cuarta versión de la conferencia.
 
-Estamos súper tranqui…
-
-![Medium-Image](/blog/images/posts/precios-01.gif)
+<figure>
+    <img src="/blog/images/posts/precios-01.gif" alt="" />
+    <figcaption>Estamos súper tranqui…</figcaption>
+</figure>
 
 El propósito de cada año es hacer la experiencia de nuestros asistentes y expositores lo más agradable posible.
 
@@ -26,13 +27,13 @@ Para eso hemos hecho algunas alianzas que pasamos a contarles a continuación:
 
 > ¿Eres de fuera de Valdivia? Cross check y reportar.✈️ Ajústese el cinturón y échele una mirada a los descuentos que tenemos gracias a la colaboración de los siguientes lugares para alojamiento en nuestra muy noble y muy leal Santa María, la Blanca de Valdivia:
 
-Vista desde el Puente Pedro de Valdivia:
-![Medium-Image](/blog/images/posts/precios-04.webp)
-
+<figure>
+    <img src="/blog/images/posts/precios-04.webp" alt="" />
+    <figcaption>Vista desde el Puente Pedro de Valdivia.</figcaption>
+</figure>
 
 Recreación en el Fuerte Niebla:
 ![Medium-Image](/blog/images/posts/precios-05.webp)
-
 
 **Todos estos hoteles y apart hoteles tienen descuento para las y los asistentes a la conferencia. Solo deben mencionar que vienen a 9punto5.**
 
@@ -55,7 +56,6 @@ Incluyen desayuno buffet servido en restaurante desde las 07.15 a 10.00 hrs.
 El horario del check in es a las 15.00 hrs y check out a las 11.00 hrs.
 Apart Hotel Río Cruces
 
-
 **[Apart Hotel Río Cruces](https://www.aparthotelriocruces.cl/)**
 ![Medium-Image](/blog/images/posts/precios-10.webp)
 
@@ -64,13 +64,13 @@ Apart Hotel Río Cruces
 ![Medium-Image](/blog/images/posts/precios-11.gif)
 
 ## ¡Cervezas, chocolate, cowork, wiiiiiiii!
+
 [Chocolatería Entrelagos](http://www.entrelagos.cl/valdivia/) se suma a 9punto5 con un 20% y 15% de descuento en sus productos, pagando con efectivo y tarjeta respectivamente. Solo debes presentar tu credencial.
 ![Medium-Image](/blog/images/posts/precios-12.webp)
 
 Porque sabemos que el chocolate les puede dar sed, o la conferencia les puede dar sed, o simplemente siempre tienen sed, [Kunstmann Kneipe](http://www.cerveza-kunstmann.cl/la-cerveceria/kunstmann-kneipe/) Valdivia también se puso con un 10% de descuento en el total del consumo.
 
 ![Medium-Image](/blog/images/posts/precios-13.webp)
-
 
 [Roasty](https://www.facebook.com/Roastycafe/) ☕️ también tendrá un 10% de descuento en el consumo (no incluye promociones)
 ![Medium-Image](/blog/images/posts/precios-14.webp)
