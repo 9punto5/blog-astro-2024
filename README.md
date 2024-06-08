@@ -1,5 +1,5 @@
 <h1 align=center>El blog de 9punto5</h1>
-<p align=center>Basado en Bookworm Light <a target="_blank" href="https://github.com/themefisher/bookworm-light-astro?tab=readme-ov-file#bookworm-light-astro" rel="nofollow">👀bookworm-light-astro</a> un blog visualmente simle, altamente adaptable, fácil de usar y gratuito basado en Astro</p>
+<p align=center>Basado en <a target="_blank" href="https://github.com/themefisher/bookworm-light-astro?tab=readme-ov-file#bookworm-light-astro" rel="nofollow"> Bookworm Light</a>, un blog visualmente simle, altamente adaptable, fácil de usar y gratuito basado en Astro</p>
  
 ![bookworm-light](https://demo.gethugothemes.com/thumbnails/bookworm-light.png)
 
