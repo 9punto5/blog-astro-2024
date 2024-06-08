@@ -11,4 +11,6 @@ Felipe es chileno, hombre de familia y apasionado por la tecnología. Le encanta
 
 Felipe es además ingeniero informático. Empezó hace más de 15 años desarrollando software y encontró su pasión en las aplicaciones móviles. Ha estado involucrado en múltiples proyectos de diversas áreas y complejidad técnica, en el ámbito startup y empresarial. Sus habilidades van desde definición de arquitectura, manejo de equipo y definición de infraestructura de producto.
 
-Le encanta enseñar y ayudar a otras personas a adquirir habilidades y conocimientos en las áreas de liderazgo, descubrimiento de carrera y productividad personal.
+Le encanta enseñar y ayudar a otras personas a adquirir habilidades y conocimientos en las áreas de liderazgo, descubrimiento de carrera y productividad personal. 
+
+Su sitio personal es un imperdible 👉 [nerdfromchile.com](https://www.nerdfromchile.com/)
