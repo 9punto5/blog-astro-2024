@@ -38,7 +38,7 @@ Tener una opinión sólida que se sustente en el conocimiento y en la constante 
 
 ## 3) Promocionar proyectos en charlas o redes sociales
 
-sCuando tu opinión ha alcanzado un nivel profesional y comienzas a ser invitado a diversas instancias como congresos, eventos masivos o plataformas de tutoriales, para contar tu experiencia debes ser constante en la promoción de estos logros. No cualquiera es invitado a dictar una charla especializada frente a una audiencia y por pequeña que esta sea, nos posiciona como líderes de opinión en relación a un determinado tema. Nunca olvides capitalizar cada instancia en que tu nombre se posiciona. Nunca sabes quién puede estar observando.
+Cuando tu opinión ha alcanzado un nivel profesional y comienzas a ser invitado a diversas instancias como congresos, eventos masivos o plataformas de tutoriales, para contar tu experiencia debes ser constante en la promoción de estos logros. No cualquiera es invitado a dictar una charla especializada frente a una audiencia y por pequeña que esta sea, nos posiciona como líderes de opinión en relación a un determinado tema. Nunca olvides capitalizar cada instancia en que tu nombre se posiciona. Nunca sabes quién puede estar observando.
 
 Pero además de lo técnico, también debes contar con habilidades que siempre son bienvenidas en cualquier equipo y que las empresas actualmente buscan cada vez con más frecuencia: empatía, destreza, cortesía, ludicidad, solidaridad y buena administración de los tiempos.
 

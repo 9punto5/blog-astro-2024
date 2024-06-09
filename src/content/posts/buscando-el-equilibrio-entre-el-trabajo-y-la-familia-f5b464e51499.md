@@ -3,9 +3,9 @@ title: "Buscando el equilibrio entre el trabajo y la familia"
 description: "En marzo de 2020, Felipe viajó a México y grabó un curso con Platzi, compartiendo su experiencia en equilibrar trabajo y familia en tiempos de pandemia."
 date: 2020-04-30T04:31:05.374Z
 image: "/blog/images/posts/platzi.webp"
-categories: ["Curso"]
+categories: ["Desarrollo"]
 authors: ["felipe-pena"]
-tags: ["Platzi"]
+tags: ["Platzi", "cursos"]
 draft: false
 ---
 
