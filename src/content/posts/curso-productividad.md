@@ -5,7 +5,7 @@ date: 2023-01-20
 image: "/blog/images/posts/curso-productividad.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["productividad"]
+tags: ["productividad", "cursos"]
 draft: false
 ---
 Serán 3 sesiones de una hora y media, una vez por semana, en vivo y que además quedará grabado para que lo veas a tu ritmo.
