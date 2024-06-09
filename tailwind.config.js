@@ -2,11 +2,11 @@ const theme = require("./src/config/theme.json");
 
 let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
 let font_scale = Number(theme.fonts.font_size.scale);
+let h3 = 1.35;
+let h4 = h3 * 0.9;
+let h5 = h4;
 let h6 = font_base / font_base;
-let h5 = h6 * font_scale;
-let h4 = h5 * font_scale;
-let h3 = h4 * font_scale;
-let h2 = h3 * font_scale;
+let h2 = 1.5;
 let h1 = h2 * 1.5;
 let fontPrimary, fontPrimaryType, fontSecondary, fontSecondaryType;
 if (theme.fonts.font_family.primary) {
@@ -35,7 +35,7 @@ module.exports = {
     },
     container: {
       center: true,
-      padding: "24rem",
+      padding: "2rem",
     },
     extend: {
       colors: {
