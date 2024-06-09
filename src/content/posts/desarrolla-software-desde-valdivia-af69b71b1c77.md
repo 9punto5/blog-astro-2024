@@ -19,7 +19,7 @@ Por más de la mitad de su historia (2016 — 2018) 9PUNTO5 fue un proyecto para
 
 Pero las ganas de aportar a **crear nuevas oportunidades de empleo relacionadas a Trabajo Remoto**  partiendo por Chile nunca se nos pasaron. Así que por varios meses fuimos explorando formas de hacer que esto pasara. Y…
 
-# Equipo de desarrollo de software en Valdivia para Zenta Group
+## Equipo de desarrollo de software en Valdivia para Zenta Group
 
 Comenzamos 2020 con una experiencia que nos alegra y es super concreta en esta dirección. Ayudaremos a **Zenta Group**  a crear **un primer equipo de cuatro personas** **que trabajará desde Valdivia, y funcionará como lo hacen los *“equipos distribuidos”*** . Hasta ahora la empresa no tenía operaciones en Valdivia (¡bien Zenta!).
 
@@ -40,13 +40,13 @@ Estas **4 personas**  estarán orientadas al desarrollo de soluciones móviles. 
 - Nivel de experiencia: Senior
 - Más información y postulación👉 aquí
 
-## En qué trabajarás
+### En qué trabajarás
 
 Serás parte de un equipo que trabajará al comienzo en un proyecto interno, desarrollando una aplicación móvil para iOS y Android. Luego de esto, el equipo comenzará a desarrollar soluciones de este mismo tipo para “clientes externos”, todo esto desde Valdivia.
 
 Tendrás el desafío de aprender, probar y usar nuevos lenguajes, frameworks y metodologías, para que te mantengas al día con las nuevas tecnologías.
 
-## Trabajo Remoto
+### Trabajo Remoto
 
 El piso de la relación será remoto en aspectos importantes, ya que la contraparte del equipo no estará en Valdivia. Lo que hace que estas interacciones, no tengan lo presencial como el estándar.
 
@@ -56,7 +56,7 @@ Si te animas a ser parte de este equipo en Valdivia, además **podrás aprender 
 
 Otra cosa interesante es que esperamos que esta experiencia permita que, si así lo quieres, en el futuro puedas trabajar en la empresa sin importar el lugar donde estés. Es decir, 100% remoto.
 
-## Beneficios
+### Beneficios
 - Trabajar directamente para Zenta. Con todos sus beneficios incluidos (caja de compensación, seguro de salud, bonos de fiestas, acceso a convenios, etc.)
 - Esperamos que puedas seguir desarrollando tu carrera. Para esto podrás acceder a entrenamiento para certificación en GCP, AWS, ML y Agilidad entre otros. También podrás acceder a capacitaciones internas y a cursos de Coursera y Platzi.
 - Entrega de equipo de alta gama
@@ -70,7 +70,7 @@ Otra cosa interesante es que esperamos que esta experiencia permita que, si así
 
 Esperamos que esta noticia ¡te guste tanto como a nosotros!. Si es así te pedimos que la compartas con tus amigos, conocidos, en tus redes sociales, que la imprimas y la pegues por tu ciudad (eso último no, muy poco sustentable).
 
-# ¿Quieres contratar Talento para Trabajar Remoto?
+## ¿Quieres contratar Talento para Trabajar Remoto?
 
 Si quieres que te ayudemos a **hacer lo mismo en tu empresa** , pasa un mail a fabian@9punto5.cl y hablemos.
 
