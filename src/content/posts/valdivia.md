@@ -9,6 +9,9 @@ tags: ["9punto5", "valdivia"]
 draft: false
 ---
 
+>  Entértate del inicio de venta de entradas en [9punto5.cl](https://9punto5.cl/)
+
+
 Imagina sumergirte en el encuentro que lidera la discusión sobre sobre tecnología, cultura y futuro laboral mientras descubres los encantos de Valdivia. Navegas por sus ríos serpenteantes, disfrutas su exquisita gastronomía y te "pierdes" en la belleza natural que rodea esta joya del sur de Chile.
 
 Te invitamos a planificar una escapada inolvidable del **7 al 9 de noviembre**. Combina tres días de vanguardia tecnológica con la exploración de una ciudad que te cautivará a cada paso.
