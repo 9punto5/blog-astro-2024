@@ -11,8 +11,7 @@ draft: false
 
 >  Entértate del inicio de venta de entradas en [9punto5.cl](https://9punto5.cl/)
 
-
-Imagina sumergirte en el encuentro que lidera la discusión sobre sobre tecnología, cultura y futuro laboral mientras descubres los encantos de Valdivia. Navegas por sus ríos serpenteantes, disfrutas su exquisita gastronomía y te "pierdes" en la belleza natural que rodea esta joya del sur de Chile.
+Imagina sumergirte en el encuentro que lidera la discusión sobre sobre tecnología, cultura y futuro laboral mientras descubres los encantos de Valdivia, navegas por sus ríos, disfrutas su exquisita gastronomía y te "pierdes" en la belleza natural que rodea esta joya del sur de Chile.
 
 Te invitamos a planificar una escapada inolvidable del **7 al 9 de noviembre**. Combina tres días de vanguardia tecnológica con la exploración de una ciudad que te cautivará a cada paso.
 
@@ -23,26 +22,6 @@ Valdivia, con su centro compacto y seguro, es ideal para recorrer a pie. La conf
 No importa el clima, siempre encontrarás un lugar cálido para degustar una cerveza artesanal, un chocolate caliente o el famoso "crudo" valdiviano. Te animamos a reservar tiempo en tu agenda para vivir experiencias únicas y personales en esta ciudad encantadora.
 
 ¿Listo para embarcarte en esta aventura? A continuación, te compartimos información esencial para ayudarte a planificar tu visita a Valdivia.
-
-## ¿Cómo me muevo?
-
-En taxi, colectivo o caminando.
-
-Si te encontraras en el centro y el clima te lo permite te recomendamos que te traslades caminando, y si necesitas indicaciones no dudes en pedirla.
-
-Si lo prefieres, puedes transportarte en taxi privado, uber o colectivo. 
-
-Puedes pedir taxi desde el mismo lugar sede del evento o desde el hotel u hostal donde te estés alojando. Te dejamos unos números de distintas compañías de taxi para que puedas llamar si lo necesitas:
-
-- 56 63 221 3111 / +56 63 222 8000 / +56 63 221 0700
-
-(Precio de referencia taxi: $2.000 CLP del centro a Isla Teja, precio de referencia colectivo: $700 CLP).
-
-## Transfer del aeropuerto
-
-El precio del transfer en van compartida es de CLP 5.000 y el  auto privado cuesta CLP 20.000.
-
-- Reserva en el teléfono +562 63 222 5533
 
 ## Alojamiento
 
@@ -59,6 +38,25 @@ Check out: hasta las 10.30 h, extendible hasta las 12.00 h, previa solicitud en 
 
 Por ahora esa es nuestra primera recomendación, y pronto agregaremos más alternativas.
 
+## ¿Cómo me muevo?
+
+En taxi, colectivo o caminando.
+
+Si te encontraras en el centro y el clima te lo permite te recomendamos que te traslades caminando, y si necesitas indicaciones no dudes en pedirla.
+
+Si lo prefieres, puedes transportarte en taxi privado, uber o colectivo. 
+
+Puedes pedir taxi desde el mismo lugar sede del evento o desde el hotel u hostal donde te estés alojando. Te dejamos unos números de distintas compañías de taxi para que puedas llamar si lo necesitas:
+
+- [+5663 221 3111](tel:+56632213111) / [+56 63 222 8000](tel:+56632228000) / [+56 63 221 0700](tel:+56632210700)
+
+(Precio de referencia taxi: $2.000 CLP del centro a Isla Teja, precio de referencia colectivo: $700 CLP).
+
+## Transfer del aeropuerto
+
+El precio del transfer en van compartida es de CLP 5.000 y el  auto privado cuesta CLP 20.000.
+
+- Reserva en el teléfono [+562 63 222 5533](tel:+562632225533)
 
 ## ¿Qué hacer en el tiempo libre?
 
