@@ -1,6 +1,6 @@
 ---
 title: "¡Haz que tu próximo destino sea Valdivia con 9punto5!"
-description: "Algunos tipos de qué hacer en Vladivia al preparar tu viaje a la ciudad"
+description: "Idea de qué hacer en Valdivia para aprovechar la conferencia y la ciudad."
 date: 2024-08-30
 image: "/blog/images/posts/valdivia.webp"
 categories: ["Valdivia"]
