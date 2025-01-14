@@ -3,9 +3,9 @@ title: "¿Cómo cambiarse a vivir a la ciudad que quisieras?"
 description: "Me gustaría vivir en (o volver a) ¿qué hago ahora?"
 date: 2017-12-23
 image: "/blog/images/posts/tips.webp"
-categories: ["tips"]
+categories: ["Columna"]
 authors: ["fabian-acuna"]
-tags: ["comunidades"]
+tags: ["comunidades", "trabajo remoto"]
 draft: false
 ---
 **Me gustaría vivir en (o volver a) ¿qué hago ahora?**

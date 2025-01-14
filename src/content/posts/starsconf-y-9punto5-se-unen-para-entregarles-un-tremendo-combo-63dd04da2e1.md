@@ -3,9 +3,9 @@ title: "Starsconf y 9punto5 se unen para entregarles un tremendo combo"
 description: "Con nuestro amigos de “Starsconf”, hemos decidido lanzar un super mega ticket con doble pase y un increíble descuento. La Starsconf (antes Startech Conf), es una conferencia que seguimos hace ya…"
 date: 2018-07-12
 image: "/blog/images/posts/1*ICyJvyZjDNsyv31AjQyF4Q.png"
-categories: ["categoria"]
+categories: ["Conferencia"]
 authors: ["felipe-pena"]
-tags: ["Chile"]
+tags: ["9punto5", "Starsconf"]
 draft: false
 ---
 

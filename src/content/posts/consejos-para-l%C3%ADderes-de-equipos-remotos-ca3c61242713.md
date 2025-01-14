@@ -3,7 +3,7 @@ title: "Consejos para líderes de equipos remotos"
 description: "Consejos de Rafael Galaz para gestionar equipos remotos: comunicación efectiva, condiciones técnicas óptimas, pantalla compartida, seguimiento en línea, retroalimentación clara y creatividad para cohesión."
 date: 2020-04-03T15:57:30.350Z
 image: "/blog/images/posts/rafa.webp"
-categories: ["Tips"]
+categories: ["Cultura"]
 authors: ["fran-daforno"]
 tags: ["Trabajo Remoto"]
 draft: false
