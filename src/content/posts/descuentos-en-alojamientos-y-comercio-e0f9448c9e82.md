@@ -1,7 +1,7 @@
 ---
-title: "Precios especiales en alojamientos y otros descuentos ad portas de 9punto5"
+title: "Descuentos en alojamientos y comercio 9punto5"
 description: ""
-date: 2019-08-26T02:58:07.291Z
+date: 2019-08-16T02:58:07.291Z
 image: "/blog/images/posts/villa-del-rio.webp"
 categories: ["Conferencia"]
 authors: ["sandra-cartagena"]
