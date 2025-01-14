@@ -5,7 +5,7 @@ date: 2018-03-29
 image: "/blog/images/posts/1_YSyrBYMJwcI2HIF2kZz1pg.jpg"
 categories: ["conferencia"]
 authors: ["felipe-pena"]
-tags: ["charlista", "cfp", "postular", "9punto5"]
+tags: ["speaker", "charlista", "cfp", "convocatoria"]
 draft: false
 ---
 
