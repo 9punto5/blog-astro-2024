@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Inicio",
+      "name": "Blog",
       "url": "/blog"
     },
     {
@@ -24,6 +24,10 @@
         {
           "name": "RSS",
           "url": "/blog/rss.xml"
+        },
+        {
+          "name": "9punto5.cl",
+          "url": "https://9punto5.cl/"
         }
       ]
     }
