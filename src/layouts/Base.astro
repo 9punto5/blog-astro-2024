@@ -40,8 +40,8 @@ const { title, meta_title, description, image, noindex, canonical } =
   Astro.props;
 ---
 
-<!doctype html>
-<html lang="es">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
@@ -106,11 +106,9 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
-
-    <ViewTransitions />
 
     <!-- author from config.json -->
     <meta name="author" content={config.metadata.meta_author} />
@@ -119,7 +117,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       property="og:title"
       content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title,
+        meta_title ? meta_title : title ? title : config.site.title
       )}
     />
 
@@ -127,7 +125,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       property="og:description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
     <meta property="og:type" content="website" />
@@ -140,7 +138,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="twitter:title"
       content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title,
+        meta_title ? meta_title : title ? title : config.site.title
       )}
     />
 
@@ -148,7 +146,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta
       name="twitter:description"
       content={plainify(
-        description ? description : config.metadata.meta_description,
+        description ? description : config.metadata.meta_description
       )}
     />
 
@@ -168,6 +166,8 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+
+    <ViewTransitions />
   </head>
   <body>
     <TwSizeIndicator />
@@ -176,5 +176,10 @@ const { title, meta_title, description, image, noindex, canonical } =
       <slot />
     </main>
     <Footer />
+    <script>
+      // Initialize PostHog
+      import { initPostHog } from "@/lib/posthog";
+      initPostHog();
+    </script>
   </body>
 </html>
