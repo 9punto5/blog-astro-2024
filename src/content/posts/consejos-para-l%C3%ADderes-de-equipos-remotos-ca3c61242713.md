@@ -4,7 +4,7 @@ description: "Consejos de Rafael Galaz para gestionar equipos remotos: comunicac
 date: 2020-04-03T15:57:30.350Z
 image: "/blog/images/posts/rafa.webp"
 categories: ["Tips"]
-authors: ["9punto5"]
+authors: ["fran-daforno"]
 tags: ["Trabajo Remoto"]
 draft: false
 ---
