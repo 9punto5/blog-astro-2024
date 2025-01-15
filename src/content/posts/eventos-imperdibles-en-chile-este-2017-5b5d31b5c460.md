@@ -1,6 +1,6 @@
 ---
 title: "Eventos imperdibles en Chile este 2017"
-description: "Tecnología, ciencia y trabajo remoto. Conoce eventos imperdibles como StarsConf, Agile Open Camp y 9punto5 que fomentan la innovación"
+description: "Tecnología, ciencia y trabajo remoto. Conoce eventos imperdibles como StarsConf, Agile Open Camp y 9punto5"
 date: 2017-02-09
 image: "/blog/images/posts/StartechConf.webp"
 categories: ["Oportunidades"]

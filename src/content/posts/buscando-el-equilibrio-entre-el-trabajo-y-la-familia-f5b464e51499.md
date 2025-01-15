@@ -5,7 +5,7 @@ date: 2020-04-30T04:31:05.374Z
 image: "/blog/images/posts/platzi.webp"
 categories: ["Desarrollo"]
 authors: ["felipe-pena"]
-tags: ["Platzi", "cursos"]
+tags: ["Platzi", "Cursos"]
 draft: false
 ---
 

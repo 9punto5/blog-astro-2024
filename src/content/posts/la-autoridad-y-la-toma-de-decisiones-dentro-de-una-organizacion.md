@@ -3,9 +3,9 @@ title: "La autoridad y la toma de decisiones dentro de una organización"
 description: "Definir cómo se toman decisiones y distribuye la autoridad en una organización es crucial. La claridad evita conflictos, mejorando la eficiencia y el bienestar del equipo."
 date: 2023-01-25
 image: "/blog/images/posts/autoridad.webp"
-categories: ["Desarrollo"]
+categories: ["Cultura"]
 authors: ["fabian-acuna"]
-tags: ["decisiones", "autoridad", "poder"]
+tags: ["Decisiones", "Autoridad", "Poder"]
 draft: false
 ---
 Hoy te quiero hablar sobre lo importante que es para una organización **definir claramente cómo se toman las decisiones y cómo se distribuye la autoridad en los diferentes roles y cargos**. Seguido de esto escribiré, en un próximo artículo, sobre los desafíos para comunicar esto.

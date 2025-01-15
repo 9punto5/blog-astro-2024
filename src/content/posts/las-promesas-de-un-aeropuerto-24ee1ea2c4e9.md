@@ -3,9 +3,9 @@ title: "Las promesas de un aeropuerto"
 description: "En el año 2010 me fui a vivir a Santiago desde Valdivia, a trabajar, y comenzar con uno de mis emprendimientos. Desde ese momento, comencé a notar la falta de vuelos y gran mediocridad del servicio…"
 date: 2019-07-30T17:01:01.450Z
 image: "/blog/images/posts/1_wCoWChKww2ymukt11tjUhQ.webp"
-categories: ["columna"]
+categories: ["Columna"]
 authors: ["felipe-pena"]
-tags: ["aeropuerto", "valdivia"]
+tags: ["Aeropuerto", "Valdivia"]
 draft: false
 ---
 

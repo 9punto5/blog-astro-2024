@@ -1,9 +1,9 @@
 ---
 title: "Mi propio éxito de 9punto5"
-description: " "
+description: "Fran se inspiró en esta reflexión sobre el impacto de 9punto5 y la tarea de construir desde Valdivia la conferencia líder en trabajo remoto en Latinoamérica"
 date: 2019-04-23T18:25:29.402Z
 image: "/blog/images/posts/0_P4yXT-AATj04ASxS.webp"
-categories: ["columna"]
+categories: ["Columna"]
 authors: ["fran-daforno"]
 tags: ["9punto5"]
 draft: false

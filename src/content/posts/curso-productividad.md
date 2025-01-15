@@ -1,11 +1,11 @@
 ---
 title: "Primera edición curso de productividad, 1er trimestre 2023"
-description: "Conónce los detalles del curso de productividad."
+description: "Curso de productividad de 9punto5: sesiones en vivo y grabadas para aprender a fijar objetivos, medir resultados y mejorar tu eficiencia. Cupos limitados."
 date: 2023-01-20
 image: "/blog/images/posts/curso-productividad.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["productividad", "cursos"]
+tags: ["Productividad", "Cursos"]
 draft: false
 ---
 Serán 3 sesiones de una hora y media, una vez por semana, en vivo y que además quedará grabado para que lo veas a tu ritmo.

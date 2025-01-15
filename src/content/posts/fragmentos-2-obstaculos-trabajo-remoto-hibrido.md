@@ -5,7 +5,7 @@ date: 2023-01-30
 image: "/blog/images/posts/fragmentos-2.webp"
 categories: ["Fragmentos"]
 authors: ["fabian-acuna"]
-tags: ["despidos"]
+tags: ["Despidos"]
 draft: false
 ---
 Partimos esta semana con la selección de cuatro artículos. Antes de ir a ello no olvides estos dos puntos:

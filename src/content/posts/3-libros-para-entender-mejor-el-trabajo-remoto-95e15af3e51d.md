@@ -1,11 +1,11 @@
 ---
 title: "3 libros para entender mejor el trabajo remoto"
-description: "meta description"
+description: "Aprende sobre las ventajas, desafíos y estrategias del trabajo remoto con estas lecturas esenciales para profesionales y empresas"
 date: 2017-06-29
 image: "/blog/images/posts/3-libros-trabajo-remoto.webp"
 categories: ["Desarrollo"]
 authors: ["romy-valenta"]
-tags: ["libros", "trabajo remoto"]
+tags: ["Libros", "Trabajo remoto"]
 draft: false
 ---
 

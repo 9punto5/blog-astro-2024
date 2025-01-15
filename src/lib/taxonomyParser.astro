@@ -1,20 +1,31 @@
 ---
 import { getSinglePage } from "@/lib/contentParser.astro";
-import { slugify } from "@/lib/utils/textConverter";
 
 // get taxonomy from frontmatter
 export const getTaxonomy = async (collection: any, name: string) => {
   const singlePages = await getSinglePage(collection);
   const taxonomyPages = singlePages.map((page: any) => page.data[name]);
   let taxonomies: string[] = [];
+  
+  // Crear un Map para mantener un registro de las versiones únicas
+  const uniqueTaxonomies = new Map();
+  
   for (let i = 0; i < taxonomyPages.length; i++) {
     const categoryArray = taxonomyPages[i];
     for (let j = 0; j < categoryArray.length; j++) {
-      taxonomies.push(slugify(categoryArray[j])!);
+      const item = categoryArray[j];
+      const lowerItem = item.toLowerCase();
+      // Si no existe una versión de este item o si la versión existente tiene menos mayúsculas, actualizamos
+      if (!uniqueTaxonomies.has(lowerItem) || 
+          (item.match(/[A-Z]/g) || []).length > (uniqueTaxonomies.get(lowerItem).match(/[A-Z]/g) || []).length) {
+        uniqueTaxonomies.set(lowerItem, item);
+      }
     }
   }
-  const taxonomy = [...new Set(taxonomies)];
-  return taxonomy;
+  
+  // Convertir el Map a array
+  taxonomies = Array.from(uniqueTaxonomies.values());
+  return taxonomies;
 };
 
 // get all taxonomies from frontmatter
@@ -22,12 +33,23 @@ export const getAllTaxonomy = async (collection: any, name: string) => {
   const singlePages = await getSinglePage(collection);
   const taxonomyPages = singlePages.map((page: any) => page.data[name]);
   let taxonomies: string[] = [];
+  
+  // Crear un Map para mantener un registro de las versiones únicas
+  const uniqueTaxonomies = new Map();
+  
   for (let i = 0; i < taxonomyPages.length; i++) {
     const categoryArray = taxonomyPages[i];
     for (let j = 0; j < categoryArray.length; j++) {
-      taxonomies.push(slugify(categoryArray[j])!);
+      const item = categoryArray[j];
+      const lowerItem = item.toLowerCase();
+      if (!uniqueTaxonomies.has(lowerItem) || 
+          (item.match(/[A-Z]/g) || []).length > (uniqueTaxonomies.get(lowerItem).match(/[A-Z]/g) || []).length) {
+        uniqueTaxonomies.set(lowerItem, item);
+      }
     }
   }
+  
+  taxonomies = Array.from(uniqueTaxonomies.values());
   return taxonomies;
 };
 ---

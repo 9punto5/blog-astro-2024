@@ -1,6 +1,6 @@
 ---
-title: "Descubre la “Semana Valdiviana” de 9punto5"
-description: "Hemos creado un nuevo ticket llamado “Semana Valdiviana” para que disfrutes la ciudad durante tu visita a la conferencia."
+title: "Descubre la 'Semana Valdiviana' de 9punto5"
+description: "Hemos creado un nuevo ticket llamado 'Semana Valdiviana' para que disfrutes la ciudad durante tu visita a la conferencia."
 date: 2019-07-24T02:58:07.291Z
 image: "/blog/images/posts/punucapa.webp"
 categories: ["Conferencia"]

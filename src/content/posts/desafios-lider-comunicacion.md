@@ -5,7 +5,7 @@ date: 2023-02-07
 image: "/blog/images/posts/comunicacion.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["liderazgo"]
+tags: ["Liderazgo"]
 draft: false
 ---
 La claridad es el factor más importante en el compromiso de los equipos de trabajo, o al menos eso es lo que encontró [un estudio de dos años](https://www.businessinsider.com/john-doerr-management-performance-theory-goals-2018-6) realizado por Deloitte que mostró que tener metas claras, compartidas abierta y regularmente es fundamental para la alineación y la satisfacción laboral.

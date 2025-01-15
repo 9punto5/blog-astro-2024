@@ -1,11 +1,11 @@
 ---
 title: "Cómo escribir para que tu equipo te lea"
-description: "Escribir de manera sencilla y clara mejora la comunicación en equipos de trabajo asíncrono. Se recomienda comenzar con la información clave, hacer solicitudes claras y simplificar el mensaje eliminando lo innecesario. Utilizar formatos estructurados, lenguaje simple y elementos visuales facilita la comprensión y efectividad de la escritura"
+description: "Aprende a escribir de forma clara y efectiva para mejorar la comunicación asíncrona en tu equipo"
 date: 2023-02-16
 image: "/blog/images/posts/escribir-1.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["Escribir","comunicacion"]
+tags: ["Escribir","Comunicación"]
 draft: false
 ---
 La comunicación es clave en los equipos, es lo que habilita o entorpece la colaboración. Pero en contextos de trabajo asíncrono, es aún más importante aprender a escribir de forma sencilla, clara y efectiva.

@@ -3,9 +3,9 @@ title: "Todos podemos ser héroes"
 description: "Únete como voluntario en 9punto5 y sé parte de un equipo diverso que promueve nuevas formas de trabajar. ¡Vive una experiencia transformadora y significativa!"
 date: 2019-04-23T18:25:29.402Z
 image: "/blog/images/posts/0_F5ayOYtFeoYjkL3F.webp"
-categories: ["conferencia"]
+categories: ["Conferencia"]
 authors: ["fran-daforno"]
-tags: ["voluntariado", "9punto5"]
+tags: ["Voluntariado", "9punto5"]
 draft: false
 ---
 >En 9punto5 estamos buscando heroínas y héroes para la conferencia

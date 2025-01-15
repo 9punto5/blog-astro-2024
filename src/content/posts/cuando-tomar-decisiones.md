@@ -1,11 +1,11 @@
 ---
 title: "Cuándo tomar decisiones"
-description: "Un idea esencial para ayudarte a tomar decisiones: Divide las grandes decisiones en pasos pequeños y actúa cuando ya no hay más información valiosa que recabar."
+description: "Aprende a tomar decisiones importantes con claridad y confianza. Descubre cuándo actuar y cómo dividir grandes decisiones para minimizar riesgos"
 date: 2022-11-22
 image: "/blog/images/posts/cuando-tomar-decisiones.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["decisiones"]
+tags: ["Decisiones"]
 draft: false
 ---
 Nuestra historia y contexto han incidido en cómo somos. Pero si creemos que somos solo eso, nos dominaría una visión de locus externo (no tener control sobre lo que nos pasa). Aunque también somos producto de nuestras condiciones y circunstancia, también somos producto de decisiones que tomamos.

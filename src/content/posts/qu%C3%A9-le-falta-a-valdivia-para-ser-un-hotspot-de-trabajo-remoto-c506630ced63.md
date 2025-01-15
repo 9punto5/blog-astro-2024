@@ -5,7 +5,7 @@ date: 2017-02-14
 image: "/blog/images/posts/event-support.webp"
 categories: ["Columna"]
 authors: ["romy-valenta"]
-tags: ["trabajo remoto","valdivia"]
+tags: ["Trabajo remoto","Valdivia"]
 draft: false
 ---
 Hace unos días grabábamos junto a parte del team organizador el tercer episodio de nuestro nuevo podcast, el cual debutará el 21 de febrero. Se armó una conversación bien interesante.

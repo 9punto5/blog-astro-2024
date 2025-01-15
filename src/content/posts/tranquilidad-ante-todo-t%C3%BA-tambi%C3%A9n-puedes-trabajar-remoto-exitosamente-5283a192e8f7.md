@@ -3,9 +3,9 @@ title: "¡Tranquilidad ante todo! Guía para trabajar remoto exitosamente"
 description: "Consejos prácticos sobre trabajo remoto, herramientas esenciales y cómo mantener la productividad desde casa. Mejora tu rutina y comunicación hoy mismo."
 date: 2020-03-20T15:46:29.171Z
 image: "/blog/images/posts/0_vTh5bzdB-Ljj20_q.webp"
-categories: ["columna"]
+categories: ["Guía"]
 authors: ["fran-daforno"]
-tags: ["Coronavirus", "trabajo remoto", "COVID-19", "pandemia"]
+tags: ["Coronavirus", "Trabajo remoto", "COVID-19", "Pandemia"]
 draft: false
 ---
 

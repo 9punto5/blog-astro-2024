@@ -5,7 +5,7 @@ date: 2021-06-30
 image: "/blog/images/posts/evaluation.webp"
 categories: ["conferencia"]
 authors: ["fabian-acuna"]
-tags: ["speaker", "charlista", "cfp", "convocatoria"]
+tags: ["Speaker", "Charlista", "CFP", "Convocatoria"]
 draft: false
 ---
 En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers.

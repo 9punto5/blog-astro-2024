@@ -1,6 +1,6 @@
 ---
 title: "Desarrolla software desde Valdivia"
-description: "Descubre oportunidades de empleo remoto en Valdivia con 9PUNTO5 y Zenta Group. Únete a un equipo innovador y desarrolla soluciones móviles desde cualquier lugar. ¡Postúlate ahora!"
+description: "Descubre oportunidades de empleo remoto en Valdivia con 9punto5 y Zenta Group. Únete a un equipo innovador y desarrolla soluciones móviles desde cualquier lugar. ¡Postúlate ahora!"
 date: 2020-01-28T13:36:23.112Z
 image: "/blog/images/posts/equipo-valdivia.webp"
 categories: ["Oportunidades"]

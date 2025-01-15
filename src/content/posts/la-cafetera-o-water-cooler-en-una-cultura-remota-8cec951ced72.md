@@ -3,9 +3,9 @@ title: "La “cafetera” o “water cooler” en una cultura remota"
 description: "Comúnmente, el término “cafetera” o “water cooler” es relacionado con el contacto afectivo entre personas que surge de manera espontánea en las organizaciones, dado el lugar que ocupa en los espacios…"
 date: 2019-08-08T18:23:39.801Z
 image: "/blog/images/posts/0_ZhMA7On0FptT-szr.webp"
-categories: ["cultura"]
+categories: ["Cultura"]
 authors: ["9punto5"]
-tags: ["cultura", "trabajo remoto", "doist"]
+tags: ["Cultura", "Trabajo remoto", "Doist"]
 draft: false
 ---
 **¿Cómo se da el espacio de la cafetería (o water cooler), cuando trabajamos remoto?**

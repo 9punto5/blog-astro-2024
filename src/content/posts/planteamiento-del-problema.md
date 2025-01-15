@@ -5,7 +5,7 @@ date: 2023-02-16
 image: "/blog/images/posts/planteamiento-problema.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["decisiones", "claridad", "problemas"]
+tags: ["Decisiones", "Claridad", "Problemas"]
 draft: false
 ---
 ¿Te has lanzado a implementar una solución de forma apresurada? Yo sí, me declaro culpable.

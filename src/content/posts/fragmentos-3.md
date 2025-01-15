@@ -5,7 +5,7 @@ date: 2023-02-08
 image: "/blog/images/posts/atencion.webp"
 categories: ["Fragmentos"]
 authors: ["fabian-acuna"]
-tags: ["Trabajo remoto", "oportunidades laborales"]
+tags: ["Trabajo remoto", "Oportunidades laborales"]
 draft: false
 ---
 ## [Elon Musk ahora está a favor del trabajo remoto](https://www.forbes.com/sites/glebtsipursky/2023/01/23/elon-musk-is-now-a-fan-of-remote-work/?sh=5c4a3436c663) 🤥 – Forbes

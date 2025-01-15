@@ -5,7 +5,7 @@ date: 2023-11-19
 image: "/blog/images/posts/panel.webp"
 categories: ["Columna"]
 authors: ["daniela-riquelme"]
-tags: ["conferencia","9punto5","comunidad"]
+tags: ["Conferencia","9punto5","Comunidad"]
 draft: false
 ---
 ¡Hola comunidad! Ahora se siente más bonito decir eso ¿no?

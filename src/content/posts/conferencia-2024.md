@@ -1,11 +1,11 @@
 ---
 title: "Convocatoria speakers 2024"
-description: " "
+description: "Postula como speaker en 9punto5 2024, la conferencia sobre trabajo remoto y tecnología en Valdivia. ¡Cierre de postulaciones en junio!"
 date: 2024-05-02
 image: "/blog/images/posts/temas-2024.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
-tags: ["speaker", "charlista", "cfp", "convocatoria", "titulo"]
+tags: ["Speaker", "Charlista", "CFP", "Convocatoria", "Título"]
 draft: false
 ---
 ¡Tenemos fecha para la 8va versión de 9punto5!

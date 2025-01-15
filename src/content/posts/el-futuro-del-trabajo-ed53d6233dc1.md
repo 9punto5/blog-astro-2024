@@ -3,9 +3,9 @@ title: "El futuro del trabajo"
 description: "Varias veces me he preguntado por qué me pasa esto y creo que hoy por hoy es lo que le sucede a bastante gente. Nadie quiere verse 40 años haciendo lo mismo hasta morir. Para la generación de…"
 date: 2018-08-16T02:04:17.017Z
 image: "/blog/images/posts/0_9aB5b6fssLP2icVd.webp"
-categories: ["cultura"]
+categories: ["Cultura"]
 authors: ["romy-valenta"]
-tags: ["futuro del trabajo", "trabajo remoto", "futuro del trabajo"]
+tags: ["Futuro del trabajo", "Trabajo remoto"]
 draft: false
 ---
 

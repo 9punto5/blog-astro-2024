@@ -1,11 +1,11 @@
 ---
 title: "Las tendencias más importantes en tecnología para el 2023, según Get on Board"
-description: "Conoce Get on Board Insights un reporte sobre las tendencias más importantes del mercado laboral tecnológico latino y en tiempo real"
+description: "Conoce este reporte sobre las tendencias más importantes del mercado laboral tecnológico latino y en tiempo real"
 date: 2023-01-18
 image: "/blog/images/posts/tendencias-gob-2023.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["Get on Board", "oportunidades laborales", "sueldos"]
+tags: ["Get on Board", "Oportunidades laborales", "Sueldos"]
 draft: false
 ---
 Hace unos días Annelis de [getonbrd.com](http://www.getonbrd.com/), nos compartió su reporte anual Insights donde reúnen las tendencias del mercado laboral en Latinoamérica.

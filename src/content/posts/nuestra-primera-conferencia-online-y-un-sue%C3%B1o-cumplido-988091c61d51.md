@@ -3,7 +3,7 @@ title: "Nuestra primera conferencia online y un sueño cumplido"
 description: "Estamos en un momento de redescubrir la forma en que nos comunicamos, relacionamos y trabajamos. “9punto5” también se está re-definiendo como negocio y equipo. Desde 2016, cada año hemos realizado…"
 date: 2020-06-05T20:08:11.042Z
 image: "/blog/images/posts/1_TiuEma3n7KsQClDJBHDsOQ.webp"
-categories: ["conferencia"]
+categories: ["Conferencia"]
 authors: ["felipe-pena"]
 tags: ["Basecamp"]
 draft: false

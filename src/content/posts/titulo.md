@@ -1,11 +1,11 @@
 ---
 title: "Cómo escribir un buen título"
-description: "Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo y lo hará más memorable"
+description: "Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Un buen título 'recomendará' tu trabajo y lo hará más memorable"
 date: 2024-05-13
 image: "/blog/images/posts/titulo.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["speaker", "charlista", "cfp", "convocatoria", "titulo"]
+tags: ["Speaker", "Charlista", "CFP", "Convocatoria", "Título"]
 draft: false
 ---
 **Usa palabras clave, asegúrate de que el título suene bien, sea fácil de entender y pronunciar. Esto recomendará tu trabajo, lo hará más memorable y atraerá a nuevas personas.**

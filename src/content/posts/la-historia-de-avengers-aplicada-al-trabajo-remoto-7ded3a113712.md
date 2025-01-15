@@ -3,9 +3,9 @@ title: "La historia de Avengers aplicada al trabajo remoto"
 description: "La cosa es que vi Endgame, la última de Avengers. La película terminó y probablemente todos salimos del cine con los mocos colgando de tanto llorar, pero yo soy especial y salí pensando en toda la…"
 date: 2019-08-12T18:14:47.705Z
 image: "/blog/images/posts/1*MuQ2l5UTEvfblRnSHkfd5Q.gif"
-categories: ["columna"]
+categories: ["Columna"]
 authors: ["sandra-cartagena"]
-tags: ["avengers", "trabajo remoto"]
+tags: ["Avengers", "Trabajo remoto"]
 draft: false
 ---
 

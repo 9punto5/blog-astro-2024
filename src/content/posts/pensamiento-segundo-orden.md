@@ -1,11 +1,11 @@
 ---
 title: "Pensamiento de segundo orden para tomar mejores decisiones"
-description: "Descubre el poder del pensamiento de segundo orden para tomar decisiones más inteligentes y considerar las consecuencias a largo plazo de tus acciones"
+description: "Conoce el poder del 'pensamiento de segundo orden' para tomar decisiones más inteligentes y considerar las consecuencias a largo plazo de tus acciones"
 date: 2023-03-16
 image: "/blog/images/posts/segundo-orden.webp"
-categories: ["Desarrollo"]
+categories: ["Cultura"]
 authors: ["fabian-acuna"]
-tags: ["decisiones"]
+tags: ["Decisiones"]
 draft: false
 ---
 Usar un “pensamiento de segundo orden” o pensar en “las consecuencias de segundo orden” se refiere a realizar un análisis que va más allá de la simple consideración de las consecuencias inmediatas de una acción.

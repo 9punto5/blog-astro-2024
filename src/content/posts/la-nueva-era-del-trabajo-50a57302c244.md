@@ -5,7 +5,7 @@ date: 2017-03-30
 image: "/blog/images/posts/new-work-era.webp"
 categories: ["Columna"]
 authors: ["romy-valenta"]
-tags: ["trabajo remoto"]
+tags: ["Trabajo remoto"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: 2023-01-23
 image: "/blog/images/posts/fragmentos-1.webp"
 categories: ["Fragmentos"]
 authors: ["fabian-acuna"]
-tags: ["Trabajo remoto", "oportunidades laborales"]
+tags: ["Trabajo remoto", "Oportunidades laborales"]
 draft: false
 ---
 El newsletter se me quedó corto para escribir y desarrollar ideas. Ahora mismo estoy terminando dos artículos que vivirán mejor en el formato de post individual. Por eso desde esta semana comenzarás a recibir artículo por separado, así como esta sección con recordatorio de las próximas actividades y (algunas veces) con recopilación de artículos.

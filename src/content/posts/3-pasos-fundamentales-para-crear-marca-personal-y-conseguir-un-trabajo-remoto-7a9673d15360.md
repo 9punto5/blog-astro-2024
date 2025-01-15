@@ -1,11 +1,11 @@
 ---
 title: "3 pasos fundamentales para crear marca personal y conseguir un trabajo remoto"
-description: "3 ideas para aportar a tu marca personal y la posibiildad de consguir tu próximo trabajo remoto: comparte tu conocimiento, escribe en blogs y promociona tus proyectos en eventos y redes sociales"
+description: "Descubre cómo construir tu marca personal, destacar en comunidades y fortalecer tu reputación online y offline."
 date: 2017-01-24
 image: "/blog/images/posts/alvaro.webp"
 categories: ["Desarrollo"]
 authors: ["romy-valenta"]
-tags: ["marca personal"]
+tags: ["Marca Personal"]
 draft: false
 ---
 

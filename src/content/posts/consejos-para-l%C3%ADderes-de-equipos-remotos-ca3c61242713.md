@@ -5,7 +5,7 @@ date: 2020-04-03T15:57:30.350Z
 image: "/blog/images/posts/rafa.webp"
 categories: ["Cultura"]
 authors: ["fran-daforno"]
-tags: ["Trabajo Remoto"]
+tags: ["Trabajo remoto"]
 draft: false
 ---
 **Te compartimos consejos para gestionar equipos remotos: comunicación efectiva, condiciones técnicas óptimas, pantalla compartida, seguimiento en línea, retroalimentación clara y creatividad para cohesión.**

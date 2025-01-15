@@ -1,11 +1,11 @@
 ---
-title: "Postula a ser charlista en 9punto5 (v.2018)"
+title: "Postula a ser charlista | 9punto5 2018"
 description: "Estamos buscando speakers que se tomen el escenario de 9punto5 para compartir su historia — y nos encantaría que fueras tu. Este año, queremos enfocarnos en experiencias de equipos con culturas de…"
 date: 2018-03-29
 image: "/blog/images/posts/1_YSyrBYMJwcI2HIF2kZz1pg.jpg"
-categories: ["conferencia"]
+categories: ["Conferencia"]
 authors: ["felipe-pena"]
-tags: ["speaker", "charlista", "cfp", "convocatoria"]
+tags: ["Speaker", "Charlista", "CFP", "Convocatoria"]
 draft: false
 ---
 

@@ -5,11 +5,11 @@ date: 2024-08-30
 image: "/blog/images/posts/valdivia.webp"
 categories: ["Conferencia"]
 authors: ["9punto5"]
-tags: ["9punto5", "valdivia"]
+tags: ["9punto5", "Valdivia"]
 draft: false
 ---
 
->  Entértate del inicio de venta de entradas en [9punto5.cl](https://9punto5.cl/)
+> Con tu credencial de 9punto5 podrás acceder a descuentos exclusivos. Conoce todos los detalles en [nuestra cuenta de Instagram](https://www.instagram.com/9punto5_/).
 
 9punto5 no solo es una conferencia, es descubrir la belleza de Valdivia. Una invitación a sumergirte en un encuentro sobre sobre tecnología, cultura y futuro laboral, mientras exploras los encantos esta ciudad, navegando por sus ríos, disfrutando de su gastronomía y perdiéndote en su belleza natural.
 
@@ -63,20 +63,20 @@ Reserva en el teléfono [+562 63 222 5533](tel:+56632225533), o escríbeles por 
 
 Hay muchas alternativas, aquí te dejamos una selección:
 
-Disfrutar una cerveza en la Cervecería Kunstmann o en bares como [El Growler](https://www.instagram.com/el_growler/), [Bundor](https://www.instagram.com/cervezabundor/) y muchos más.
+- Disfrutar una cerveza en la Cervecería Kunstmann o en bares como [El Growler](https://www.instagram.com/el_growler/), [Bundor](https://www.instagram.com/cervezabundor/) y muchos más.
+- Comer un crudo en el clásico [@dashaus1959](https://www.instagram.com/dashaus1959/).
+- Disfruta un exquisito chocolate en Entrelagos.
+- Paseo por el río en los Taxis Solares de [@puertosolar.val](https://www.instagram.com/puertosolar.val/).
+- Visita la Feria Fluvial a orillas del río (acá podrás ver los Lobos Marinos).
+- Atraviesa al Mercado Municipal. Sí lo que buscas es un regalo típico, no puede faltar esta visita, donde además podrás probar gastronomía típica de la zona.
 
-Comer un crudo en el clásico [@dashaus1959](https://www.instagram.com/dashaus1959/).
+### Hore de museos
+- Vistia el [mut.museum](https://mut.museum/) (único en Chile).
+- Recorre los diferentes [Museos de la Universidad Austral](https://www.instagram.com/museosaustral/)
+- Vistia el **submarino** ubicado en plena costanera. 
 
-Disfruta un exquisito chocolate en Entrelagos.
 
-Paseo por el río en los Taxis Solares de [@puertosolar.val](https://www.instagram.com/puertosolar.val/).
-
-**Hora de Museos**. Ve al [mut.museum](https://mut.museum/) (único en Chile), o a los [Museos de la Universidad Austral](https://www.instagram.com/museosaustral/) o al conocido submarino ubicado en plena costanera. 
-
-Visita la Feria Fluvial a orillas del río (acá podrás ver los Lobos Marinos).
-
-Atraviesa al Mercado Municipal. Sí lo que buscas es un regalo típico, no puede faltar esta visita, donde además podrás probar gastronomía típica de la zona.
-
+### Niebla
 ¡No te pierdas la feria costumbrista en Niebla! Es el destino preferido de muchas personas que visitan la costa valdiviana.
 
 ¿Conoces el Fuerte Niebla? Tienes que ir [museodeniebla.gob.cl](https://www.museodeniebla.gob.cl/)
@@ -85,28 +85,23 @@ Atraviesa al Mercado Municipal. Sí lo que buscas es un regalo típico, no puede
 
 Y hay más lugares que típicos valdivianos, aquí te recomendamos algunos para que te planifiques y pases a visitarlos con tiempo:
 
-Jardín Botánico ubicado en la Universidad Austral de Chile. Caminando por acá verás la inmensa variedad de vegetación que existe en Valdivia.
+- Jardín Botánico ubicado en la Universidad Austral de Chile. Caminando por acá verás la inmensa variedad de vegetación que existe en Valdivia.
+- Parque Saval, un lugar para disfrutar de la naturaleza, puestos de comida, canopy, zonas de picnic, juegos infantiles y ¡mucho más!
+- La costanera. El río, la feria fluvial, el péndulo y los lobos marinos. ¡De todo! También hay paseos fluviales que duran un par de horas en los catamaranes.
+- Y en el sector regional, un parque hecho a medida, cruzado por un hermoso humedal [Parque Urbano El Bosque](https://www.instagram.com/parqueurbanoelbosque/).
 
-Parque Saval, un lugar para disfrutar de la naturaleza, puestos de comida, canopy, zonas de picnic, juegos infantiles y ¡mucho más!
-
-La costanera. El río, la feria fluvial, el péndulo y los lobos marinos. ¡De todo! También hay paseos fluviales que duran un par de horas en los catamaranes.
-
-Y en el sector regional, un parque hecho a medida, cruzado por un hermoso humedal [Parque Urbano El Bosque](https://www.instagram.com/parqueurbanoelbosque/).
-
-- Bonus: Niebla-Corral, para ir más allá. Si tienes tiempo, intenta hacer este paseo a las afueras de la ciudad.
-
+**Bonus:** Niebla-Corral, para ir más allá. Si tienes tiempo, intenta hacer este paseo a las afueras de la ciudad.
 
 ## Dónde almorzar o tomarse un café
 
-Dentro del evento 9punto5 tendrás tiempo para poder salir a almorzar algo o tomar un rico café, te dejamos algunos lugares para ir:
+Antes y durante el evento tendrás tiempo para poder salir a almorzar algo o tomar un rico café, te dejamos algunos lugares para ir:
 
-Si vienes a la conferencia tendrás un café en el mismo lugar del evento en el campus de la Universidad Austral.
+- En nuestra opinión **Panaka es el mejor café de Valdivia**. Es tanto así que varios cafés de la ciudad lo venden. Pero también puedes ir directo a sus [locales](https://www.instagram.com/panaka_cafe/).
+- Conoce [Café Cosas Ricas](https://www.cosasricas.cl/) y [Café de Luis](https://www.instagram.com/cafedeluis/), para un buen café (también para almorzar).
+- 
 
-Conoce [Café Cosas Ricas](https://www.cosasricas.cl/) y [Café de Luis](https://www.instagram.com/cafedeluis/), para un buen café o para almorzar.
-
-Anda al [@dashaus1959](https://www.instagram.com/dashaus1959/) , clásico valdiviano, además de céntrico y concurrido.
-
-Si tienes más tiempo para moverte, vista la cocina innovadora y local en [Espacio Cocina Restaurant](https://goo.gl/maps/X6Am8rSwz8dQomQo6).
+### Los mejores crudos
+Un imperdible si te gustan los crudos, sandwiches y cervezas. Visita [@dashaus1959](https://www.instagram.com/dashaus1959/) , clásico valdiviano, además de céntrico y concurrido.
 
 ## ¿Dónde puedo ir a tomarme una cosita y comer?
 
@@ -119,8 +114,7 @@ Algunos que no fallan:
 - [Otomano](https://goo.gl/maps/ZkEweYo3QspvzbYB9), ricas hamburguesas y, por supuesto, cervezas.
 - Carnes y pastas, en la [Parrilla de Thor](https://www.instagram.com/parrilladethor/), [Sello de Raza](https://www.instagram.com/selloderaza_restaurant/) y [Mercato](https://www.instagram.com/mercato_pasta_fresca/), u otros más innovadores como [Bar 55](https://www.instagram.com/55barycocina/) y [Mía](https://www.instagram.com/miavaldiviacl/)
 - **¿Standups y humor?** [Cava del Buho](https://www.instagram.com/cava_del_buho_restaurant/) y [La Bota](https://www.instagram.com/labotacervecera/)
- 
-Y por qué no, el [Sky Bar](https://www.instagram.com/skybarvaldivia/) de Dreams Valdivia, para ver la ciudad desde lo alto.
+- Y por qué no, el [Sky Bar](https://www.instagram.com/skybarvaldivia/) de Dreams Valdivia, para ver la ciudad desde lo alto.
  
 Ahora, si quieres bailar, no te puedes perder [Bimba](https://www.instagram.com/valdiviaesbimba/).
 

@@ -1,11 +1,11 @@
 ---
 title: "Descuentos en alojamientos y comercio 9punto5"
-description: ""
+description: "Descuentos exclusivos en alojamientos, comercios y coworking para asistentes a 9punto5. Disfruta Valdivia con beneficios únicos."
 date: 2019-08-16T02:58:07.291Z
 image: "/blog/images/posts/villa-del-rio.webp"
 categories: ["Conferencia"]
 authors: ["sandra-cartagena"]
-tags: ["9punto5"]
+tags: ["9punto5", "Descuentos", "Valdivia"]
 draft: false
 ---
 

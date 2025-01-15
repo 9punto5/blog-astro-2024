@@ -9,22 +9,28 @@ export const slugify = (content: string) => {
 };
 
 // markdownify
-export const markdownify = (content: string) => {
+export const markdownify = (content: string, div_class: string = "") => {
   if (!content) return null;
 
   return marked.parseInline(content);
 };
 
 // humanize
-export const humanize = (content: string) => {
-  if (!content) return null;
+export const humanize = (text: string) => {
+  return text
+    .replace(/^[\s_-]+|[\s_-]+$/g, "")
+    .replace(/[-_\s]+/g, " ")
+    .toLowerCase()
+    .replace(/^[a-z]/, (letter) => letter.toUpperCase());
+};
 
-  return content
-    .replace(/^[\s_]+|[\s_]+$/g, "")
-    .replace(/[_\s]+/g, " ")
-    .replace(/^[a-z]/, function (m) {
-      return m.toUpperCase();
-    });
+// Función para normalizar texto (quitar tildes y caracteres especiales)
+export const normalizeText = (text: string) => {
+  return text
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/\s+/g, "-");
 };
 
 // plainify

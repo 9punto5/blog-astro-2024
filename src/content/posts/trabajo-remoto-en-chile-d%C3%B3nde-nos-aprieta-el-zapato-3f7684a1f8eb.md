@@ -5,7 +5,7 @@ date: 2017-03-17
 image: "/blog/images/posts/pressure.webp"
 categories: ["Columna"]
 authors: ["romy-valenta"]
-tags: ["trabajo remoto"]
+tags: ["Trabajo remoto"]
 draft: false
 ---
 

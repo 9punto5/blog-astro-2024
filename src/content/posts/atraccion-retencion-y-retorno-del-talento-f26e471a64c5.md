@@ -1,26 +1,26 @@
 ---
-title: "¿Cómo cambiarse a vivir a la ciudad que quisieras?"
-description: "Me gustaría vivir en (o volver a) ¿qué hago ahora?"
+title: "Consejos prácticos para cambiarte a vivir a la 'ciudad de tus sueños'"
+description: "Descubre cómo hacer una transición exitosa a una nueva ciudad y trabajar remotamente desde allí"
 date: 2017-12-23
 image: "/blog/images/posts/tips.webp"
 categories: ["Columna"]
 authors: ["fabian-acuna"]
-tags: ["comunidades", "trabajo remoto"]
+tags: ["Comunidades", "Trabajo remoto"]
 draft: false
 ---
-**Me gustaría vivir en (o volver a) ¿qué hago ahora?**
+**Me gustaría vivir en.... O quisier volver a... ¿Qué hago ahora?**
 
-Esta pregunta es regular entre quienes se mueven entre ciudades por razones como,
+Esta pregunta es común entre quienes deciden cambiar de ciudad por diversas razones, como:  
 
-- Mejorar sus competencias, cursar algún posgrado (a través de programas como Becas Chile u otras vías).
-- Alguien tiene ganas de conocer otros lugares, culturas, ganar experiencia y desarrollo profesional.
-- Otros lo hacen más bien con un gusto amargo, movidos por la necesidad, al no encontrar oportunidades.
+- Perfeccionar sus habilidades o cursar un posgrado, aprovechando programas como Becas Chile u otras alternativas.  
+- Explorar nuevos lugares, culturas diferentes y adquirir experiencia profesional para su desarrollo personal.
+- Buscar nuevos orizontes, debido a la falta de oportunidades que hay en el lugar donde viven hoy. O bien, atraídos por la calidad de vida que ofrece otro país o ciudad.
 
 El origen de este post viene de un correo relacionado con esto mismo, que nos alegró mucho recibir, y que sirve para compartir ideas de lo que podría hacer alguien que esté explorando formas de instalarse en una nueva ciudad.
 
 
 ![mail](/blog/images/posts/mail.webp)
-(Gracias María José por tu mail y dejar que lo compartiéramos)
+<figcaption>Gracias María José por tu mail y dejar que lo compartiéramos.</figcaption>
 
 Al organizar 9punto5 hemos conocido muchos casos de chilenos y extranjeros que se han movido de país y/o ciudad (yo mismo me vine al sur de Chile el 2013), entre ellos varios vivien el trabajo remoto.
 
