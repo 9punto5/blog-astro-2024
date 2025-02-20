@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "npm install @rollup/rollup-linux-x64-gnu --no-save && astro build",
     "format": "prettier -w .",
     "preview": "astro preview"
   },
