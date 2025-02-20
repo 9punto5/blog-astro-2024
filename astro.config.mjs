@@ -17,21 +17,24 @@ export default defineConfig({
     service: { entrypoint: "astro/assets/services/sharp" },
   },
   build: {
-    format: 'file',
+    format: 'directory',
     assets: '_astro'
   },
   vite: {
     build: {
+      modulePreload: true,
+      target: 'esnext',
       rollupOptions: {
-        external: ['astro:content'],
         output: {
-          format: 'esm'
+          format: 'esm',
+          entryFileNames: 'entry.[hash].mjs',
+          chunkFileNames: 'chunks/chunk.[hash].mjs',
+          assetFileNames: 'assets/asset.[hash][extname]'
         }
-      },
-      target: 'esnext'
+      }
     },
-    ssr: {
-      noExternal: ['astro:*']
+    optimizeDeps: {
+      include: ['astro:content', 'astro:assets']
     }
   },
   integrations: [

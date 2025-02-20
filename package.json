@@ -5,10 +5,11 @@
   "engines": {
     "node": ">=18.19"
   },
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "NODE_OPTIONS='--experimental-loader=astro/vite-loader.js' npm install @rollup/rollup-linux-x64-gnu --no-save && astro build",
+    "build": "NODE_OPTIONS='--experimental-import-meta-resolve' npm install @rollup/rollup-linux-x64-gnu --no-save && astro build",
     "format": "prettier -w .",
     "preview": "astro preview"
   },
