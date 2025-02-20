@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build --legacy-peer-deps",
+    "build": "npm install --legacy-peer-deps && astro build",
     "format": "prettier -w .",
     "preview": "astro preview"
   },
