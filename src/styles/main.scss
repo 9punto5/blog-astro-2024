@@ -3,17 +3,17 @@
 @tailwind utilities;
 
 @layer base {
-  @import "base";
+  @use "base";
 }
 
 @layer components {
-  @import "components";
-  @import "navigation";
-  @import "buttons";
+  @use "components";
+  @use "navigation";
+  @use "buttons";
 }
 
 @layer utilities {
-  @import "utilities";
+  @use "utilities";
 }
 
 .prose :where(h4):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
