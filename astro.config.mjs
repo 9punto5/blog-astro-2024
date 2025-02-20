@@ -23,8 +23,15 @@ export default defineConfig({
   vite: {
     build: {
       rollupOptions: {
-        external: ['astro:content']
-      }
+        external: ['astro:content'],
+        output: {
+          format: 'esm'
+        }
+      },
+      target: 'esnext'
+    },
+    ssr: {
+      noExternal: ['astro:*']
     }
   },
   integrations: [
