@@ -1,46 +1,64 @@
-html {
-  @apply text-base;
-}
+@mixin base-styles {
+  html {
+    font-size: var(--font-base);
+  }
 
-body {
-  @apply bg-body font-primary font-normal leading-relaxed text-text;
-}
+  body {
+    background-color: var(--bg-body);
+    font-family: var(--font-primary);
+    font-weight: var(--font-normal);
+    line-height: var(--leading-relaxed);
+    color: var(--text-base);
+  }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  @apply font-primary font-bold leading-tight text-dark;
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-primary);
+    font-weight: var(--font-bold);
+    line-height: var(--leading-tight);
+    color: var(--text-dark);
+  }
 
-h1,
-.h1 {
-  @apply text-h1-sm md:text-h1;
-}
+  h1,
+  .h1 {
+    font-size: var(--text-h1-sm);
+    @media (min-width: var(--screen-md)) {
+      font-size: var(--text-h1);
+    }
+  }
 
-h2,
-.h2 {
-  @apply text-h2-sm md:text-h2;
-}
+  h2,
+  .h2 {
+    font-size: var(--text-h2-sm);
+    @media (min-width: var(--screen-md)) {
+      font-size: var(--text-h2);
+    }
+  }
 
-h3,
-.h3 {
-  @apply text-h3-sm md:text-h3;
-}
+  h3,
+  .h3 {
+    font-size: var(--text-h3-sm);
+    @media (min-width: var(--screen-md)) {
+      font-size: var(--text-h3);
+    }
+  }
 
-h4,
-.h4 {
-  @apply text-h4;
-}
+  h4,
+  .h4 {
+    font-size: var(--text-h4);
+  }
 
-h5,
-.h5 {
-  @apply text-h5;
-}
+  h5,
+  .h5 {
+    font-size: var(--text-h5);
+  }
 
-h6,
-.h6 {
-  @apply text-h6;
+  h6,
+  .h6 {
+    font-size: var(--text-h6);
+  }
 }

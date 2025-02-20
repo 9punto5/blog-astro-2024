@@ -1,0 +1,63 @@
+:root {
+  /* Colors */
+  --color-primary: theme('colors.primary');
+  --color-white: theme('colors.white');
+  --color-light: theme('colors.light');
+  --bg-body: theme('colors.body');
+  --bg-theme-light: theme('colors.theme-light');
+  --text-base: theme('colors.text');
+  --text-dark: theme('colors.dark');
+  --border-base: theme('borderColor.DEFAULT');
+
+  /* Typography */
+  --font-primary: theme('fontFamily.primary');
+  --font-secondary: theme('fontFamily.secondary');
+  --font-normal: theme('fontWeight.normal');
+  --font-semibold: theme('fontWeight.semibold');
+  --font-bold: theme('fontWeight.bold');
+  --leading-tight: theme('lineHeight.tight');
+  --leading-relaxed: theme('lineHeight.relaxed');
+  --leading-8: theme('lineHeight.8');
+  --leading-10: theme('lineHeight.10');
+
+  /* Font Sizes */
+  --text-base: theme('fontSize.base');
+  --text-sm: theme('fontSize.sm');
+  --text-lg: theme('fontSize.lg');
+  --text-xl: theme('fontSize.xl');
+  --text-h1: theme('fontSize.h1');
+  --text-h1-sm: theme('fontSize.h1-sm');
+  --text-h2: theme('fontSize.h2');
+  --text-h2-sm: theme('fontSize.h2-sm');
+  --text-h3: theme('fontSize.h3');
+  --text-h3-sm: theme('fontSize.h3-sm');
+  --text-h4: theme('fontSize.h4');
+  --text-h5: theme('fontSize.h5');
+  --text-h6: theme('fontSize.h6');
+
+  /* Spacing */
+  --space-1: theme('spacing.1');
+  --space-2: theme('spacing.2');
+  --space-3: theme('spacing.3');
+  --space-4: theme('spacing.4');
+  --space-5: theme('spacing.5');
+  --space-6: theme('spacing.6');
+  --space-7: theme('spacing.7');
+  --space-8: theme('spacing.8');
+  --space-20: theme('spacing.20');
+
+  /* Border Radius */
+  --rounded-md: theme('borderRadius.md');
+  --rounded-lg: theme('borderRadius.lg');
+
+  /* Shadows */
+  --shadow-default: theme('boxShadow.DEFAULT');
+
+  /* Transitions */
+  --transition-default: all 0.2s ease-in-out;
+
+  /* Breakpoints */
+  --screen-sm: theme('screens.sm');
+  --screen-md: theme('screens.md');
+  --screen-2xl: theme('screens.2xl');
+} 
