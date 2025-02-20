@@ -16,6 +16,17 @@ export default defineConfig({
   image: {
     service: { entrypoint: "astro/assets/services/sharp" },
   },
+  build: {
+    format: 'file',
+    assets: '_astro'
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        external: ['astro:content']
+      }
+    }
+  },
   integrations: [
     react(),
     sitemap(),
@@ -35,7 +46,10 @@ export default defineConfig({
         "@/shortcodes/Tab",
       ],
     }),
-    mdx(),
+    mdx({
+      optimize: true,
+      extendPlugins: 'astro'
+    }),
   ],
   markdown: {
     remarkPlugins: [
