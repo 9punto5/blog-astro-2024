@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "El blog de 9punto5",
-    "base_url": "https://9punto5.cl/blog",
+    "base_url": "https://9punto5.cl",
     "base_path": "/blog",
     "trailing_slash": "ignore",
     "favicon": "/blog/images/favicon.ico",
