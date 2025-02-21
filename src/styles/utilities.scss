@@ -1,14 +1,12 @@
-@mixin utility-styles {
-  b,
-  strong {
-    font-weight: var(--font-semibold);
-  }
+b,
+strong {
+  @apply font-semibold;
+}
 
-  img {
-    display: inline-block;
-  }
+img {
+  @apply inline-block;
+}
 
-  .shadow {
-    box-shadow: 0 10px 30px rgb(22 28 45 / 10%);
-  }
+.shadow {
+  box-shadow: 0 10px 30px rgb(22 28 45 / 10%);
 }

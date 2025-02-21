@@ -1,26 +1,19 @@
-@use "variables";
-@use "base" as *;
-@use "components" as *;
-@use "navigation" as *;
-@use "buttons" as *;
-@use "utilities" as *;
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
-  @include base-styles;
+  @import "base";
 }
 
 @layer components {
-  @include component-styles;
-  @include navigation-styles;
-  @include button-styles;
+  @import "components";
+  @import "navigation";
+  @import "buttons";
 }
 
 @layer utilities {
-  @include utility-styles;
+  @import "utilities";
 }
 
 .prose :where(h4):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
@@ -35,8 +28,8 @@
   font-size: 1em;
 }
 
-@media (min-width: var(--screen-2xl)) {
-  :root {
+@screen 2xl {
+  :root  {
     font-size: 20px;
   }
 }
