@@ -2,10 +2,6 @@
   "name": "bookworm-light-astro",
   "version": "2.0.0",
   "license": "MIT",
-  "engines": {
-    "node": ">=18.19"
-  },
-  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

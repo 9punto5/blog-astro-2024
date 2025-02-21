@@ -2,40 +2,21 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
+import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import AutoImport from "astro-auto-import";
+import { defineConfig, squooshImageService } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url,
-  base: config.site.base_path,
+  site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
+  base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash,
   image: {
-    service: { entrypoint: "astro/assets/services/sharp" },
-  },
-  build: {
-    format: 'directory',
-    assets: '_astro'
-  },
-  vite: {
-    build: {
-      modulePreload: true,
-      target: 'esnext',
-      rollupOptions: {
-        output: {
-          format: 'esm',
-          entryFileNames: 'entry.[hash].mjs',
-          chunkFileNames: 'chunks/chunk.[hash].mjs',
-          assetFileNames: 'assets/asset.[hash][extname]'
-        }
-      }
-    },
-    optimizeDeps: {
-      include: ['astro:content', 'astro:assets']
-    }
+    service: squooshImageService(),
   },
   integrations: [
     react(),
@@ -56,10 +37,7 @@ export default defineConfig({
         "@/shortcodes/Tab",
       ],
     }),
-    mdx({
-      optimize: true,
-      extendPlugins: 'astro'
-    }),
+    mdx(),
   ],
   markdown: {
     remarkPlugins: [
