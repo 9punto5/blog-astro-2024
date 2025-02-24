@@ -1,20 +1,14 @@
+// Importar todos los archivos de estilos usando la sintaxis moderna de Sass
+@use "base" as *;
+@use "components" as *;
+@use "navigation" as *;
+@use "buttons" as *;
+@use "utilities" as *;
+
+// Directivas de Tailwind
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base {
-  @import "base";
-}
-
-@layer components {
-  @import "components";
-  @import "navigation";
-  @import "buttons";
-}
-
-@layer utilities {
-  @import "utilities";
-}
 
 .prose :where(h4):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   font-size: 0;
