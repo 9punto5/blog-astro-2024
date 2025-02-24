@@ -1,0 +1,111 @@
+---
+// Archivo de redirecciones para URLs con caracteres especiales
+
+export function getStaticPaths() {
+  // Define un mapa de redirecciones desde URLs antiguas a nuevas
+  const redirects: Record<string, string> = {
+    '/blog/lo-m%C3%A1s-dif%C3%ADcil-de-trabajar-de-manera-remota-57b65f83b374': '/blog/lo-mas-dificil-de-trabajar-de-manera-remota-57b65f83b374',
+    '/blog/spike-una-empresa-que-naci%C3%B3-entre-valdivia-y-boston-c6169d7c6126': '/blog/spike-una-empresa-que-nacio-entre-valdivia-y-boston-c6169d7c6126',
+    '/blog/consejos-para-l%C3%ADderes-de-equipos-remotos-ca3c61242713': '/blog/consejos-para-lideres-de-equipos-remotos-ca3c61242713',
+    '/blog/cu%C3%A1l-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060': '/blog/cual-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060',
+    '/blog/eficiencia-de-capital-en-las-empresas-de-tecnolog%C3%ADa-a5123d3943b2': '/blog/eficiencia-de-capital-en-las-empresas-de-tecnologia-a5123d3943b2',
+    '/blog/mi-propio-%C3%A9xito-de-9punto5': '/blog/mi-propio-exito-de-9punto5',
+    '/blog/nuestra-primera-conferencia-online-y-un-sue%C3%B1o-cumplido-988091c61d51': '/blog/nuestra-primera-conferencia-online-y-un-sueno-cumplido-988091c61d51',
+    '/blog/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63': '/blog/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63',
+    '/blog/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb': '/blog/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb',
+    '/blog/todos-podemos-ser-h%C3%A9roes-441ae188d6f7': '/blog/todos-podemos-ser-heroes-441ae188d6f7',
+    '/blog/tranquilidad-ante-todo-t%C3%BA-tambi%C3%A9n-puedes-trabajar-remoto-exitosamente-5283a192e8f7': '/blog/tranquilidad-ante-todo-tu-tambien-puedes-trabajar-remoto-exitosamente-5283a192e8f7'
+  };
+
+  // Redirecciones sin el prefijo /blog
+  const blogPrefixRedirects: Record<string, string> = {
+    '/lo-m%C3%A1s-dif%C3%ADcil-de-trabajar-de-manera-remota-57b65f83b374': '/lo-mas-dificil-de-trabajar-de-manera-remota-57b65f83b374',
+    '/spike-una-empresa-que-naci%C3%B3-entre-valdivia-y-boston-c6169d7c6126': '/spike-una-empresa-que-nacio-entre-valdivia-y-boston-c6169d7c6126',
+    '/consejos-para-l%C3%ADderes-de-equipos-remotos-ca3c61242713': '/consejos-para-lideres-de-equipos-remotos-ca3c61242713',
+    '/cu%C3%A1l-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060': '/cual-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060',
+    '/eficiencia-de-capital-en-las-empresas-de-tecnolog%C3%ADa-a5123d3943b2': '/eficiencia-de-capital-en-las-empresas-de-tecnologia-a5123d3943b2',
+    '/mi-propio-%C3%A9xito-de-9punto5': '/mi-propio-exito-de-9punto5',
+    '/nuestra-primera-conferencia-online-y-un-sue%C3%B1o-cumplido-988091c61d51': '/nuestra-primera-conferencia-online-y-un-sueno-cumplido-988091c61d51',
+    '/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63': '/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63',
+    '/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb': '/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb',
+    '/todos-podemos-ser-h%C3%A9roes-441ae188d6f7': '/todos-podemos-ser-heroes-441ae188d6f7',
+    '/tranquilidad-ante-todo-t%C3%BA-tambi%C3%A9n-puedes-trabajar-remoto-exitosamente-5283a192e8f7': '/tranquilidad-ante-todo-tu-tambien-puedes-trabajar-remoto-exitosamente-5283a192e8f7'
+  };
+
+  // Crear rutas para todas las redirecciones
+  const paths: { params: { redirect: string } }[] = [];
+  
+  // Agregar rutas para redirects
+  Object.keys(redirects).forEach(oldPath => {
+    paths.push({
+      params: { redirect: oldPath.substring(1) } // Quitar el slash inicial
+    });
+  });
+  
+  // Agregar rutas para blogPrefixRedirects
+  Object.keys(blogPrefixRedirects).forEach(oldPath => {
+    paths.push({
+      params: { redirect: oldPath.substring(1) } // Quitar el slash inicial
+    });
+  });
+  
+  return paths;
+}
+
+const { redirect } = Astro.params;
+const path = '/' + redirect;
+
+// Define nuevamente las redirecciones aquí para usarlas en el componente
+const redirects: Record<string, string> = {
+  '/blog/lo-m%C3%A1s-dif%C3%ADcil-de-trabajar-de-manera-remota-57b65f83b374': '/blog/lo-mas-dificil-de-trabajar-de-manera-remota-57b65f83b374',
+  '/blog/spike-una-empresa-que-naci%C3%B3-entre-valdivia-y-boston-c6169d7c6126': '/blog/spike-una-empresa-que-nacio-entre-valdivia-y-boston-c6169d7c6126',
+  '/blog/consejos-para-l%C3%ADderes-de-equipos-remotos-ca3c61242713': '/blog/consejos-para-lideres-de-equipos-remotos-ca3c61242713',
+  '/blog/cu%C3%A1l-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060': '/blog/cual-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060',
+  '/blog/eficiencia-de-capital-en-las-empresas-de-tecnolog%C3%ADa-a5123d3943b2': '/blog/eficiencia-de-capital-en-las-empresas-de-tecnologia-a5123d3943b2',
+  '/blog/mi-propio-%C3%A9xito-de-9punto5': '/blog/mi-propio-exito-de-9punto5',
+  '/blog/nuestra-primera-conferencia-online-y-un-sue%C3%B1o-cumplido-988091c61d51': '/blog/nuestra-primera-conferencia-online-y-un-sueno-cumplido-988091c61d51',
+  '/blog/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63': '/blog/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63',
+  '/blog/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb': '/blog/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb',
+  '/blog/todos-podemos-ser-h%C3%A9roes-441ae188d6f7': '/blog/todos-podemos-ser-heroes-441ae188d6f7',
+  '/blog/tranquilidad-ante-todo-t%C3%BA-tambi%C3%A9n-puedes-trabajar-remoto-exitosamente-5283a192e8f7': '/blog/tranquilidad-ante-todo-tu-tambien-puedes-trabajar-remoto-exitosamente-5283a192e8f7'
+};
+
+const blogPrefixRedirects: Record<string, string> = {
+  '/lo-m%C3%A1s-dif%C3%ADcil-de-trabajar-de-manera-remota-57b65f83b374': '/lo-mas-dificil-de-trabajar-de-manera-remota-57b65f83b374',
+  '/spike-una-empresa-que-naci%C3%B3-entre-valdivia-y-boston-c6169d7c6126': '/spike-una-empresa-que-nacio-entre-valdivia-y-boston-c6169d7c6126',
+  '/consejos-para-l%C3%ADderes-de-equipos-remotos-ca3c61242713': '/consejos-para-lideres-de-equipos-remotos-ca3c61242713',
+  '/cu%C3%A1l-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060': '/cual-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060',
+  '/eficiencia-de-capital-en-las-empresas-de-tecnolog%C3%ADa-a5123d3943b2': '/eficiencia-de-capital-en-las-empresas-de-tecnologia-a5123d3943b2',
+  '/mi-propio-%C3%A9xito-de-9punto5': '/mi-propio-exito-de-9punto5',
+  '/nuestra-primera-conferencia-online-y-un-sue%C3%B1o-cumplido-988091c61d51': '/nuestra-primera-conferencia-online-y-un-sueno-cumplido-988091c61d51',
+  '/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63': '/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63',
+  '/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb': '/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb',
+  '/todos-podemos-ser-h%C3%A9roes-441ae188d6f7': '/todos-podemos-ser-heroes-441ae188d6f7',
+  '/tranquilidad-ante-todo-t%C3%BA-tambi%C3%A9n-puedes-trabajar-remoto-exitosamente-5283a192e8f7': '/tranquilidad-ante-todo-tu-tambien-puedes-trabajar-remoto-exitosamente-5283a192e8f7'
+};
+
+// Buscar la redirección en los mapas
+let redirectTo = redirects[path] || blogPrefixRedirects[path];
+
+// Si no se encuentra una redirección, redirigir a la página 404
+if (!redirectTo) {
+  return Astro.redirect('/404');
+}
+
+// Redirigir a la nueva URL
+return Astro.redirect(redirectTo, 301);
+---
+
+<!-- Este contenido nunca se renderizará porque siempre habrá una redirección -->
+<html>
+  <head>
+    <title>Redireccionando...</title>
+    <meta http-equiv="refresh" content="0;url=/404">
+  </head>
+  <body>
+    <p>Redireccionando...</p>
+    <script>
+      window.location.href = "/404";
+    </script>
+  </body>
+</html> 
