@@ -1,3 +1,69 @@
 [build]
   command = "yarn build"
   publish = "dist"
+
+[[redirects]]
+  from = "/lo-m%C3%A1s-dif%C3%ADcil-de-trabajar-de-manera-remota-57b65f83b374/*"
+  to = "/lo-mas-dificil-de-trabajar-de-manera-remota-57b65f83b374/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/spike-una-empresa-que-naci%C3%B3-entre-valdivia-y-boston-c6169d7c6126/*"
+  to = "/spike-una-empresa-que-nacio-entre-valdivia-y-boston-c6169d7c6126/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mi-propio-%C3%A9xito-de-9punto5/*"
+  to = "/mi-propio-exito-de-9punto5/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tranquilidad-ante-todo-t%C3%BA-tambi%C3%A9n-puedes-trabajar-remoto-exitosamente-5283a192e8f7/*"
+  to = "/tranquilidad-ante-todo-tu-tambien-puedes-trabajar-remoto-exitosamente-5283a192e8f7/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/trabajo-remoto-en-chile-d%C3%B3nde-nos-aprieta-el-zapato-3f7684a1f8eb/*"
+  to = "/trabajo-remoto-en-chile-donde-nos-aprieta-el-zapato-3f7684a1f8eb/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/consejos-para-l%C3%ADderes-de-equipos-remotos-ca3c61242713/*"
+  to = "/consejos-para-lideres-de-equipos-remotos-ca3c61242713/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/qu%C3%A9-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63/*"
+  to = "/que-le-falta-a-valdivia-para-ser-un-hotspot-de-trabajo-remoto-c506630ced63/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cu%C3%A1l-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060/*"
+  to = "/cual-es-tu-nivel-de-seniority-en-el-desarrollo-de-software-c5b0d80a1060/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/nuestra-primera-conferencia-online-y-un-sue%C3%B1o-cumplido-988091c61d51/*"
+  to = "/nuestra-primera-conferencia-online-y-un-sueno-cumplido-988091c61d51/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/eficiencia-de-capital-en-las-empresas-de-tecnolog%C3%ADa-a5123d3943b2/*"
+  to = "/eficiencia-de-capital-en-las-empresas-de-tecnologia-a5123d3943b2/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/todos-podemos-ser-h%C3%A9roes-441ae188d6f7/*"
+  to = "/todos-podemos-ser-heroes-441ae188d6f7/:splat"
+  status = 301
+  force = true
