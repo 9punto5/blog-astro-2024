@@ -26,6 +26,25 @@ Bookworm Light is a minimal multi-author free Astro blog theme which is perfect 
 - 📱 Fully Responsive on Desktops, Tablets, and Smartphones
 - 🔍 SEO Friendly
 
+## 🎨 Control de Estilos
+
+Los estilos en este proyecto se controlan a través de varios archivos clave:
+
+### Archivos principales de estilos
+
+- **`/src/styles/base.scss`**: Define los estilos base, incluyendo la tipografía y tamaños de texto para los encabezados (h1-h6).
+- **`/src/styles/main.scss`**: Archivo principal que importa todos los demás archivos SCSS.
+- **`/tailwind.config.js`**: Configura Tailwind CSS, incluyendo los tamaños de fuente, colores y otros valores personalizados.
+- **`/src/config/theme.json`**: Contiene la configuración del tema, como colores y fuentes.
+
+### Estilos específicos de componentes
+
+- **`/src/layouts/PostSingle.astro`**: Controla la visualización de los posts individuales, incluyendo el tamaño del título principal (h1).
+
+### Modificación de estilos
+
+Para modificar los estilos globales, edita los archivos de configuración mencionados anteriormente. Para cambios específicos de componentes, modifica directamente las clases de Tailwind en los archivos Astro correspondientes.
+
 <!-- installation -->
 ## 🔧Installation
 
