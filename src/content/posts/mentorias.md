@@ -55,6 +55,8 @@ Si estás en un momento donde **necesitas claridad, tomar una decisión importan
 
 Es un espacio para detenerte, pensar con alguien que ya ha pasado por lo que tú estás viviendo, y salir con más claridad sobre tus próximos pasos.
 
-No es una fórmula mágica, pero puede ser justo el impulso que necesitabas.
+Según [el estudio The Nature and Evolution of the Mentoring Relationship in Academic Health Centers](https://pmc.ncbi.nlm.nih.gov/articles/PMC9243938/?__readwiseLocation=), las mentorías efectivas facilitan el crecimiento del mentee no solo por los consejos que recibe, sino porque crean un espacio de confianza donde puede reflexionar, tomar perspectiva y avanzar con mayor claridad y seguridad (Hill et al., 2022).
+
+Una mentoría no es acceder a una fórmula mágica, pero puede ser justo el impulso que necesitabas.
 
 Con esto en mente te invitamos a visitar [https://9punto5.cl/mentorias](https://9punto5.cl/mentorias). Te esperamos.
