@@ -3,7 +3,7 @@ title: "¿Qué es exactamente una mentoría?"
 description: "Y por qué no es lo mismo que una clase o una asesoría"
 date: 2025-04-07
 image: "/blog/images/posts/mentorship.webp"
-categories: ["Conferencia"]
+categories: ["Mentorías"]
 authors: ["9punto5"]
 tags: ["9punto5", "Mentorías"]
 draft: false
@@ -22,15 +22,15 @@ Cuando hablamos de mentorías, es común que surjan dudas.
 - Una mentoría es un espacio de conversación individual, donde alguien con experiencia te ayuda a pensar mejor.  
 - No viene a darte la receta ni a imponerte su forma de hacer las cosas. Tampoco viene a evaluarte ni a enseñarte teoría.
 - Viene a escucharte, hacerte preguntas, entregarte feedback y ayudarte a encontrar claridad en medio de tus dudas.  
-- Una buena mentoría no te da un camino prefabricado. Te ayuda a construir el tuyo.
+- Una buena mentoría no te da un camino prefabricado. Te ayuda a construir tu propio camino.
 
-Muchas veces una mentoría es también un encuentro entre pares. Con el bénéfico de que tienes una estrucura de sesiones que te fuerzan a avanzar en algo que es importante para ti.
+Muchas veces, una mentoría también es un encuentro entre pares, con la ventaja de una estructura que te ayuda a avanzar en algo que realmente importa para ti.
 
 ### ¿Y en qué se diferencia de una clase o una asesoría?
 
 En simple:
 
-![Medium-Image](/blog/images/posts/Table.webp)
+![mentoring](/blog/images/posts/Table.webp)
 
 En una clase, el foco está en el contenido. En una asesoría, en la solución. En una mentoría, el foco está en ti.
 
@@ -55,6 +55,6 @@ Si estás en un momento donde **necesitas claridad, tomar una decisión importan
 
 Es un espacio para detenerte, pensar con alguien que ya ha pasado por lo que tú estás viviendo, y salir con más claridad sobre tus próximos pasos.
 
-No es una fórmula mágica. Pero puede ser justo lo que te faltaba.
+No es una fórmula mágica, pero puede ser justo el impulso que necesitabas.
 
 Con esto en mente te invitamos a visitar [https://9punto5.cl/mentorias](https://9punto5.cl/mentorias). Te esperamos.
