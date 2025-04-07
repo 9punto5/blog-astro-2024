@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es exactamente una mentoría?"
-description: "Y por qué no es lo mismo que una clase o una asesoría"
+description: "Un apoyo para ordenar tus ideas, recibir feedback honesto y avanzar con claridad en tus decisiones."
 date: 2025-04-07
 image: "/blog/images/posts/mentorship.webp"
 categories: ["Mentorías"]
