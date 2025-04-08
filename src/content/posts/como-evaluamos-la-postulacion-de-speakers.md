@@ -3,7 +3,7 @@ title: "Cómo evaluamos la postulación de Speakers"
 description: "Conoce los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers"
 date: 2021-06-30
 image: "/blog/images/posts/evaluation.webp"
-categories: ["conferencia"]
+categories: ["Conferencia"]
 authors: ["fabian-acuna"]
 tags: ["Speaker", "Charlista", "CFP", "Convocatoria"]
 draft: false

@@ -3,7 +3,7 @@ title: "Certeza psicológica: Cómo Google descubrió las claves del éxito de l
 description: "Google revela cómo la certeza psicológica impulsa equipos de alto desempeño"
 date: 2023-02-16
 image: "/blog/images/posts/certeza-psicologica.webp"
-categories: ["cultura"]
+categories: ["Cultura"]
 authors: ["fabian-acuna"]
 tags: ["Equipos","Alto desemepeño", "Certeza psicológica", "Google"]
 draft: false
