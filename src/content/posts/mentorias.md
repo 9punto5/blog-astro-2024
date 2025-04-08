@@ -26,13 +26,15 @@ Cuando hablamos de mentorías, es común que surjan dudas.
 
 Muchas veces, una mentoría también es un encuentro entre pares, con la ventaja de una estructura que te ayuda a avanzar en algo que realmente importa para ti.
 
-### ¿Y en qué se diferencia de una clase o una asesoría?
+Como lo define *[David Nour en Harvard Business Review](https://hbr.org/2022/01/the-best-mentorships-help-both-people-grow)*, **"una mentoría ofrece algo poderoso tanto para quien la recibe como para quien la entrega"**, destacando la profundidad y el beneficio mutuo que puede alcanzar esta relación.
+
+### ¿En qué se diferencia de una clase o una asesoría?
 
 En simple:
 
 ![mentoring](/blog/images/posts/Table.webp)
 
-En una clase, el foco está en el contenido. En una asesoría, en la solución. En una mentoría, el foco está en ti.
+En una clase, el foco está en **el contenido**. En una asesoría, en **la solución**. En una mentoría, el foco está en **lo que tú necesitas**.
 
 ### Qué sí (y qué no) esperar de una mentoría
 
@@ -49,13 +51,13 @@ En una clase, el foco está en el contenido. En una asesoría, en la solución. 
 - Un plan ya hecho
 - Un checklist genérico de pasos a seguir
 
-### ¿Entonces vale la pena?
+### Cuándo tomar una mentoría
 
 Si estás en un momento donde **necesitas claridad, tomar una decisión importante, repensar tu carrera o avanzar con más foco en tu producto**, una mentoría puede ayudarte a ver lo que no estás viendo.
 
 Es un espacio para detenerte, pensar con alguien que ya ha pasado por lo que tú estás viviendo, y salir con más claridad sobre tus próximos pasos.
 
-Según [el estudio The Nature and Evolution of the Mentoring Relationship in Academic Health Centers](https://pmc.ncbi.nlm.nih.gov/articles/PMC9243938/?__readwiseLocation=), las mentorías efectivas facilitan el crecimiento del mentee no solo por los consejos que recibe, sino porque crean un espacio de confianza donde puede reflexionar, tomar perspectiva y avanzar con mayor claridad y seguridad (Hill et al., 2022).
+Según el estudio *[The Nature and Evolution of the Mentoring Relationship in Academic Health Centers](https://pmc.ncbi.nlm.nih.gov/articles/PMC9243938/?__readwiseLocation=)*, las mentorías efectivas impulsan la planificación estratégica de la carrera, el avance profesional, y generan mayor satisfacción y binestar laboral.
 
 Una mentoría no es acceder a una fórmula mágica, pero puede ser justo el impulso que necesitabas.
 
