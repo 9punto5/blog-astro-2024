@@ -4,7 +4,9 @@ import config from "@/config/config.json";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, markdownify, slugify, normalizeText, plainify } from "@/lib/utils/textConverter";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+import { format } from "date-fns";
+import { es } from "date-fns/locale";
+// import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
 const { className, posts, fluid } = Astro.props;
@@ -30,8 +32,8 @@ const { className, posts, fluid } = Astro.props;
             />
           </a>
         )}
-        <ul class="mt-6 mb-4 flex flex-wrap items-center text-text">
-          <li class="mr-3">
+        <ul class="mt-6 mb-4 flex flex-nowrap items-center justify-start text-text text-sm md:text-base md:flex-wrap">
+          <li class="pr-2">
             {authors
               .filter((author) => post.data.authors.includes(author.slug))
               .map((author) => (
@@ -45,37 +47,31 @@ const { className, posts, fluid } = Astro.props;
                       alt={author.data.title}
                       height={50}
                       width={50}
-                      class="mr-2 h-6 w-6 rounded-full flex-shrink-0"
+                      class="mr-1 md:mr-2 h-5 w-5 md:h-6 md:w-6 rounded-full flex-shrink-0"
                     />
                   )}
-                  <span class="truncate max-w-[120px]">{author.data.title}</span>
+                  <span class="text-sm md:text-base">{author.data.title}</span>
                 </a>
               ))}
           </li>
-          <li class="mr-3 flex items-center flex-wrap font-medium whitespace-nowrap">
-            <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600 flex-shrink-0" />
-            <>{dateFormat(post.data.date)}</>
-          </li>
-          <li class="flex items-center flex-wrap">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600 flex-shrink-0" />
-            <>
-              <ul>
-                {post.data.categories.map((category: string, i: number) => (
-                  <li class="inline-block">
-                    <a
-                      href={`/blog/categories/${normalizeText(category)}`}
-                      class="mr-2 hover:text-primary font-medium"
-                    >
-                      {category}
-                      {i !== post.data.categories.length - 1 && ","}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </>
+          <li class="relative px-3">
+            <span class="absolute left-0 top-1/2 -translate-y-1/2 w-1 h-1 rounded-full bg-gray-400"></span>
+            <ul>
+              {post.data.categories.map((category: string, i: number) => (
+                <li class="inline-block">
+                  <a
+                    href={`/blog/categories/${normalizeText(category)}`}
+                    class="hover:text-primary font-medium text-sm md:text-base"
+                  >
+                    {category}
+                    {i !== post.data.categories.length - 1 && ", "}
+                  </a>
+                </li>
+              ))}
+            </ul>
           </li>
         </ul>
-        <h3 class="mb-4">
+        <h3 class="mb-4 text-lg md:text-xl font-bold">
           <a
             href={`/blog/${post.slug}`}
             class="block hover:text-primary transition duration-300"
@@ -83,7 +79,7 @@ const { className, posts, fluid } = Astro.props;
             {post.data.title}
           </a>
         </h3>
-        <div class="text-text">
+        <div class="text-text text-base md:text-lg">
           {post.data.description}
         </div>
       </div>
