@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding: Antes de usar v0, Lovable, Replit, Bolt o Cursor, crea esto"
 description: "Un documento que puede cambiar por completo tu experiencia con herramientas de Vibe Coding impulsadas por IA."
-date: 2025-04-16
+date: 2025-04-16T10:10:06-04:00
 image: "/blog/images/posts/vibe_coding.webp"
 categories: ["Tecnología"]
 authors: ["9punto5"]
