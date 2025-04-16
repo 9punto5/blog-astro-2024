@@ -3,7 +3,7 @@ import { es } from "date-fns/locale";
 
 const dateFormat = (
   date: Date | string,
-  pattern: string = "dd MMM, yyyy",
+  pattern: string = "dd 'de' MMMM yyyy",
 ): string => {
   const dateObj = new Date(date);
   const output = format(dateObj, pattern, {

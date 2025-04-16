@@ -21,7 +21,22 @@ const { title, description, authors, categories, image, date, tags } =
   <div class="container w-full px-4 sm:px-6 lg:max-w-[700px] mx-auto" style="max-width: min(100%, 800px);">
     <article class="row justify-center">
       <div class="text-left">
-        <h1 class="text-2xl md:text-3xl font-bold lg:text-4xl" set:html={markdownify(title)} />
+        {categories.length > 0 && (
+  <ul class="mb-2 flex flex-wrap items-center justify-start text-muted text-sm md:text-base">
+    {categories.map((category: string, i: number) => (
+      <li class="inline-block">
+        <a
+          href={`/blog/categories/${normalizeText(category)}`}
+          class="hover:text-primary font-medium text-sm md:text-base"
+        >
+          {humanize(category)}
+          {i !== categories.length - 1 && ', '}
+        </a>
+      </li>
+    ))}
+  </ul>
+)}
+<h1 class="text-2xl md:text-3xl font-bold lg:text-4xl" set:html={markdownify(title)} />
         
         <ul class="flex flex-wrap items-center justify-start mt-2 mb-4 -ml-2">
           {
@@ -48,56 +63,37 @@ const { title, description, authors, categories, image, date, tags } =
             style="max-width:100%;height:auto;"
           />
         )}
-        <div class="mt-4 flex flex-wrap gap-x-3 gap-y-2 items-center text-text py-2">
-          {/* Autor */}
-          <div class="flex items-center">
-            {
-              allAuthors
-                .filter((author) => authors.includes(author.slug))
-                .map((author) => (
-                  <a
-                    href={`/blog/authors/${slugify(author.slug)}`}
-                    class="flex items-center hover:text-primary font-medium"
-                  >
-                    {author.data.image && (
-                      <Image
-                        src={author.data.image}
-                        alt={author.data.title}
-                        height={50}
-                        width={50}
-                        class="mr-2 h-6 w-6 rounded-full"
-                      />
-                    )}
-                    <span>{author.data.title}</span>
-                  </a>
-                ))
-            }
-          </div>
+        <ul class="mt-4 mb-4 flex flex-nowrap items-center justify-start text-text text-sm md:text-base md:flex-wrap">
+  <li class="pr-2">
+    {allAuthors
+      .filter((author) => authors.includes(author.slug))
+      .map((author) => (
+        <a
+          href={`/blog/authors/${slugify(author.slug)}`}
+          class="flex items-center hover:text-primary font-medium"
+        >
+          {author.data.image && (
+            <Image
+              src={author.data.image}
+              alt={author.data.title}
+              height={50}
+              width={50}
+              class="mr-1 md:mr-2 h-5 w-5 md:h-6 md:w-6 rounded-full flex-shrink-0"
+            />
+          )}
+          <span class="text-sm md:text-base">{author.data.title}</span>
+        </a>
+      ))}
+  </li>
 
-          {/* Fecha */}
-          <div class="flex items-center font-medium">
-            <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-            <span>{dateFormat(date)}</span>
-          </div>
+  <li class="relative px-3">
+    <span class="absolute left-0 top-1/2 -translate-y-1/2 w-1 h-1 rounded-full bg-gray-400"></span>
+    <div class="flex items-center font-medium">
+      <span>{dateFormat(date)}</span>
+    </div>
+  </li>
+</ul>
 
-          {/* Categorías */}
-          <div class="flex items-center">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-            <div class="flex flex-row flex-nowrap">
-              {
-                categories.map((category: string, i: number) => (
-                  <a
-                    href={`/blog/categories/${normalizeText(category)}`}
-                    class="hover:text-primary font-medium"
-                  >
-                    {humanize(category)}
-                    {i !== categories.length - 1 && ", "}
-                  </a>
-                ))
-              }
-            </div>
-          </div>
-        </div>
 
 
 
