@@ -14,7 +14,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 
 <Base>
   <section class="section">
-    <div class="container">
+    <div class="container w-full px-4 sm:px-6 md:max-w-[720px] lg:max-w-[920px] xl:max-w-[1020px] mx-auto">
       <Posts posts={currentPosts} className="mb-16" />
       <Pagination currentPage={1} totalPages={totalPages} />
     </div>

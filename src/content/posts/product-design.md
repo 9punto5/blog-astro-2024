@@ -3,7 +3,7 @@ title: "Repensar el Product Design: Eficiencia, reflexión y decisión"
 description: "Un enfoque renovado para el diseño de productos, centrado en la eficiencia, la reflexión crítica y la toma de decisiones informadas."
 date: 2025-04-16T12:09:21-04:00
 image: "/blog/images/posts/product_design.webp"
-categories: ["Diseño de Productos"]
+categories: ["Producto"]
 authors: ["daniela-riquelme"]
 tags: ["Diseño de Productos", "Eficiencia", "Reflexión", "Toma de Decisiones"]
 draft: false

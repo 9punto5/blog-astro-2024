@@ -6,7 +6,7 @@ let h3 = 1.35;
 let h4 = h3 * 0.9;
 let h5 = h4;
 let h6 = font_base / font_base;
-let h2 = 1.5;
+let h2 = 1.35;
 let h1 = h2 * 1.5;
 let fontPrimary, fontPrimaryType, fontSecondary, fontSecondaryType;
 if (theme.fonts.font_family.primary) {
