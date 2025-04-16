@@ -15,7 +15,7 @@ draft: false
 
 ## ¿Qué es el Vibe Coding?
 
-Es un enfoque de programación asistida por inteligencia artificial donde no escribes el código manualmente, sino que describes en lenguaje natural lo que quieres lograr y la IA genera el código funcional a partir de esa descripción. Fue acuñado por Andrej Karpathy en 2025 y representa un cambio de paradigma en el desarrollo de software, donde el programador actúa más como un director creativo que define la intención o “vibra” del proyecto, mientras la IA se encarga de la implementación técnica.
+Es una forma distinta de programar software usando inteligencia artificial. En vez de escribir el código a mano, le dices a la IA —en lenguaje natural— qué quieres construir, y ella se encarga de hacerlo. El término lo propuso **Andrej Karpathy** y plantea un giro interesante: no se trata de escribir código, sino más bien de dar la dirección, la intención, la “vibra” del proyecto, para que la IA lo ejecuta.
 
 ![andrej_karpathy](/blog/images/posts/andrej_karpathy.webp)
 
