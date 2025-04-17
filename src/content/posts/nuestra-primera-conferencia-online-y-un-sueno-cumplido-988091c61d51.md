@@ -31,7 +31,8 @@ Empecé a usar los productos de Basecamp hace 10 años. En ese momento el produc
 Continuamente seguía los posts de la empresa, la radicalidad de sus procesos de selección de empleados y modelos de negocio innovadores y que contradecían todo patrón de startup en ese momento.
 
 Para los que no están muy familiarizados con esta empresa:
-- Han implementado y escrito libros sobre **trabajo remoto**  antes que cualquier otra empresa.
+
+- Han implementado y escrito libros sobre **trabajo remoto** antes que cualquier otra empresa.
 - Innovan con un framework de diseño de producto llamado “Shape Up” que tiene una duración por sprint de 6 semanas.
 - Tienen opiniones radicales sobre metas en una empresa, Sillicon Valley y modelos de negocio en internet. Artículos relevantes para comenzar en su blog son este y este.
 

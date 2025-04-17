@@ -11,31 +11,34 @@ draft: false
 
 > Buscamos talentos para contratar. ¿Te animas?
 
-Comenzamos 9PUNTO5 en 2016 (como idea el 2015). Una de las motivaciones que tuvimos desde el comienzo fue aportar a **crear nuevas oportunidades de trabajo, negocios, de crear redes** , y que estas cosas pasaran **fuera de los lugares que regularmente concentra las oportunidades**. Un problema que nosotros mismos teníamos  y tenemos.
+Comenzamos 9PUNTO5 en 2016 (como idea el 2015). Una de las motivaciones que tuvimos desde el comienzo fue aportar a **crear nuevas oportunidades de trabajo, negocios, de crear redes** , y que estas cosas pasaran **fuera de los lugares que regularmente concentra las oportunidades**. Un problema que nosotros mismos teníamos y tenemos.
 
 Desde la primera versión de la conferencia que hicimos, esto empezó a pasar y supimos a través del tiempo de diferentes personas que iniciaron conversaciones en la conferencia, que luego se transformaron en nuevos trabajos, negocios, incluso amistades. Algo que siguió pasando de forma, más o menos orgánica en todas las siguientes versiones de la conferencia.
 
-Por más de la mitad de su historia (2016 — 2018) 9PUNTO5 fue un proyecto paralelo (un *side project*  como dicen los gringos), al que en 2019 decidimos ponerle “pantalones largos” y que pasara a ser un proyecto con dedicación exclusiva. El año pasado aprendimos mucho, empezamos a trabajar con empresas para ayudarlas a desarrollar su cultura para el trabajo remoto y mejoramos varias cosas en la cuarta versión de la conferencia.
+Por más de la mitad de su historia (2016 — 2018) 9PUNTO5 fue un proyecto paralelo (un _side project_ como dicen los gringos), al que en 2019 decidimos ponerle “pantalones largos” y que pasara a ser un proyecto con dedicación exclusiva. El año pasado aprendimos mucho, empezamos a trabajar con empresas para ayudarlas a desarrollar su cultura para el trabajo remoto y mejoramos varias cosas en la cuarta versión de la conferencia.
 
-Pero las ganas de aportar a **crear nuevas oportunidades de empleo relacionadas a Trabajo Remoto**  partiendo por Chile nunca se nos pasaron. Así que por varios meses fuimos explorando formas de hacer que esto pasara. Y…
+Pero las ganas de aportar a **crear nuevas oportunidades de empleo relacionadas a Trabajo Remoto** partiendo por Chile nunca se nos pasaron. Así que por varios meses fuimos explorando formas de hacer que esto pasara. Y…
 
 ## Equipo de desarrollo de software en Valdivia para Zenta Group
 
-Comenzamos 2020 con una experiencia que nos alegra y es super concreta en esta dirección. Ayudaremos a **Zenta Group**  a crear **un primer equipo de cuatro personas** **que trabajará desde Valdivia, y funcionará como lo hacen los *“equipos distribuidos”*** . Hasta ahora la empresa no tenía operaciones en Valdivia (¡bien Zenta!).
+Comenzamos 2020 con una experiencia que nos alegra y es super concreta en esta dirección. Ayudaremos a **Zenta Group** a crear **un primer equipo de cuatro personas** **que trabajará desde Valdivia, y funcionará como lo hacen los _“equipos distribuidos”_** . Hasta ahora la empresa no tenía operaciones en Valdivia (¡bien Zenta!).
 
-Estas **4 personas**  estarán orientadas al desarrollo de soluciones móviles. Estamos buscando 3 perfiles:
+Estas **4 personas** estarán orientadas al desarrollo de soluciones móviles. Estamos buscando 3 perfiles:
 
 **Java (Android) — Perfil Junior**
+
 - Conocimiento requerido: Java (Android)
 - Nivel de experiencia: Junior
 - Más información y postulación 👉 aquí
 
 **Java (Android) + Angular — Perfil Semi Senior**
+
 - Conocimiento requerido: Java (Android) + Angular
 - Nivel de experiencia: Mid
 - Más información y postulación 👉 aquí
 
 **Mobile Nativo — Perfil Senior**
+
 - Conocimiento requerido: Mobile Nativo
 - Nivel de experiencia: Senior
 - Más información y postulación👉 aquí
@@ -57,6 +60,7 @@ Si te animas a ser parte de este equipo en Valdivia, además **podrás aprender 
 Otra cosa interesante es que esperamos que esta experiencia permita que, si así lo quieres, en el futuro puedas trabajar en la empresa sin importar el lugar donde estés. Es decir, 100% remoto.
 
 ### Beneficios
+
 - Trabajar directamente para Zenta. Con todos sus beneficios incluidos (caja de compensación, seguro de salud, bonos de fiestas, acceso a convenios, etc.)
 - Esperamos que puedas seguir desarrollando tu carrera. Para esto podrás acceder a entrenamiento para certificación en GCP, AWS, ML y Agilidad entre otros. También podrás acceder a capacitaciones internas y a cursos de Coursera y Platzi.
 - Entrega de equipo de alta gama

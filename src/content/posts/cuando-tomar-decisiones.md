@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Decisiones"]
 draft: false
 ---
+
 Nuestra historia y contexto han incidido en cómo somos. Pero si creemos que somos solo eso, nos dominaría una visión de locus externo (no tener control sobre lo que nos pasa). Aunque también somos producto de nuestras condiciones y circunstancia, también somos producto de decisiones que tomamos.
 
 Por eso es importante aprender a tomar decisiones, especialmente las importantes. Pero, ¿Qué es una decisión importante? Podemos ubicar las decisiones en algún punto de estos cuatro extremos:

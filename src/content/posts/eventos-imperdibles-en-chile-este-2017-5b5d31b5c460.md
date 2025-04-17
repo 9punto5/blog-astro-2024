@@ -8,6 +8,7 @@ authors: ["romy-valenta"]
 tags: ["StarsConf", "Agile Open Camp", "9punto5"]
 draft: false
 ---
+
 Es un hecho. En nuestro país están pasando cosas interesantes en relación a la tecnología, la ciencia y el trabajo remoto. Algo pasó, **nos aburrimos de lo convencional, nos agarró la ola de la modernidad, se nos cayó la venda de los ojos**.
 
 Sin duda, un gran responsable de este salto es internet y la globalización, que para bien o para mal nos ha pegado a todos en la cara. Entonces, el conectarnos con el mundo debemos asumirlo como un _must_ de los tiempos que corren y sacarle el mayor provecho.
@@ -26,6 +27,7 @@ El equipo detrás de StartechConf 2015 (Continuum + Synaptic).
 También quiero hablarles sobre el Agile Open Camp a realizarse del 4 al 7 de mayo. Un evento comunitario, sin fines de lucro, auto-organizado y en contacto con la naturaleza, donde la Comunidad Ágil de Latinoamérica podrá compartir en un mismo sitio actividades de divulgación, exploración y creación de actividades y temáticas relacionadas con el agilismo, gastronomía, turismo, deporte y/o de entretenimiento en un formato relajado y desestructurado. Esta comunidad se reúne en torno a la temática de la agilidad en todos sus dominios (marcos de trabajo, desarrollo de software, habilidades blandas, trabajo en equipo, entre otros). Su objetivo es lograr que el evento sea lo más abierto posible en cuanto a la diversidad de los participantes, temáticas y actividades propuestas. En los 4 días del evento, se enriquecerá la experiencia a través de la conexión con la naturaleza, actividades turísticas, deportivas y entretenimiento, además de encuentros y debates casuales, en un lugar el cual facilita todo lo anteior.
 
 ![AgileOpenCamp](/blog/images/posts/AgileOpenCamp.webp)
+
 > Versión 2016 de Agile Open Camp
 
 Y por supuesto no podíamos dejar fuera a “9punto5”, evento que se ha concebido como un gran evento para desarrolladores de software que el 1 y 2 de septiembre de 2016 celebró su primera versión de manera exitosa. Este año, espera el 31 de agosto y 1 de septiembre de 2017 convertirse en referente mundial en la temática del trabajo remoto posicionando a Valdivia y el sur de Chile en un lugar donde se ofrecen servicios digitales al mundo. De esta manera se impulsa la creación de un nuevo hotspot para programadores, desarrolladores, ingenieros informáticos y emprendedores digitales. Además el evento permitirá, a través de charlas, talleres y meetups, desarrollar este talento en torno construcción, calidad, validación y comercialización de software todo con especial énfasis en trabajo remoto. Más información, pronto en [9punto5.cl](https://9punto5.cl/)

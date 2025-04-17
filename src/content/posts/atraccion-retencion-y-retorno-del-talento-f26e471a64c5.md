@@ -8,18 +8,19 @@ authors: ["fabian-acuna"]
 tags: ["Comunidades", "Trabajo remoto"]
 draft: false
 ---
+
 **Me gustaría vivir en.... O quisier volver a... ¿Qué hago ahora?**
 
-Esta pregunta es común entre quienes deciden cambiar de ciudad por diversas razones, como:  
+Esta pregunta es común entre quienes deciden cambiar de ciudad por diversas razones, como:
 
-- Perfeccionar sus habilidades o cursar un posgrado, aprovechando programas como Becas Chile u otras alternativas.  
+- Perfeccionar sus habilidades o cursar un posgrado, aprovechando programas como Becas Chile u otras alternativas.
 - Explorar nuevos lugares, culturas diferentes y adquirir experiencia profesional para su desarrollo personal.
 - Buscar nuevos orizontes, debido a la falta de oportunidades que hay en el lugar donde viven hoy. O bien, atraídos por la calidad de vida que ofrece otro país o ciudad.
 
 El origen de este post viene de un correo relacionado con esto mismo, que nos alegró mucho recibir, y que sirve para compartir ideas de lo que podría hacer alguien que esté explorando formas de instalarse en una nueva ciudad.
 
-
 ![mail](/blog/images/posts/mail.webp)
+
 <figcaption>Gracias María José por tu mail y dejar que lo compartiéramos.</figcaption>
 
 Al organizar 9punto5 hemos conocido muchos casos de chilenos y extranjeros que se han movido de país y/o ciudad (yo mismo me vine al sur de Chile el 2013), entre ellos varios vivien el trabajo remoto.
@@ -27,11 +28,13 @@ Al organizar 9punto5 hemos conocido muchos casos de chilenos y extranjeros que s
 Así que aprovecho de compartir algunas ideas que hemos aprendido y pueden servir para comenzar a prepara el viaje.
 
 ## Trabajar en el lugar donde quieres vivir
+
 Claro, una vía es encontrar trabajo en el mismo lugar, pero en el caso de ciudades pequeñas (Valdivia tiene unos 160 mil habitantes) claramente existen menos posibilidades, aunque la razón de sus muchas virtudes y buena calidad de vida vienen también precisamente de su tamaño.
 
 Claramente desde 9punto5 buscar trabajo a nivel local, no es nuestra única o primera opción, porque sabemos que vivir en una ciudad no significa necesariamente trabajar en y para esa ciudad, sino que es perfectamente posible trabajar desde ella. Lo que además genera beneficios a nivel local, ya que tener talento instalado aporta a su desarrollo (genera conocimiento, diversidad, movilidad, redes, consumo, incluso empleo).
 
 ## Trabajar desde el lugar donde quieres vivir
+
 Entonces ¿cómo hacer para moverme a una nueva ciudad?, acá van las ideas,
 
 1. Aprende todo lo que puedas sobre como funciona el medio del que te gustaría ser parte (comunidad), conversa mucho en el, abre los ojos y oídos para detectar dolores, problemas y oportunidades.

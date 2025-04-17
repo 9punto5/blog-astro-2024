@@ -24,6 +24,7 @@ Para ver el detalle de este ticket, ve a la web de venta de entradas de 9punto5.
 ## La letra chica
 
 Nada crítico, realmente.
+
 - El ticket te da pase a los dos eventos y tiene un descuento del 35% automático en los dos tickets.
 - **Los tickets son hasta agotar stock o hasta el 3 de Agosto. El stock son 50 tickets.**
 - Si necesitas hacer un upgrade a 9punto5 “VIP” o “Valdiviano”, nos puedes mandar un correo a hola@9punto5.cl y lo arreglamos por ti.

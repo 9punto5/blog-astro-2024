@@ -7,7 +7,7 @@ const dateFormat = (
 ): string => {
   const dateObj = new Date(date);
   const output = format(dateObj, pattern, {
-    locale: es
+    locale: es,
   });
   return output;
 };

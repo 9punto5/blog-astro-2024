@@ -18,6 +18,7 @@ Otro punto importante y a favor del libro es que lo digital, más allá de matar
 Pero hoy no voy a hablar del hábito de lectura propiamente tal, sino más bien de aquellos libros, digitales o impresos, que nos aportarán una nueva visión sobre el trabajo remoto o reforzarán aquello que ya sabemos en relación a esta modalidad que ha venido para instalarse. He aquí tres recomendaciones:
 
 ## 1. Remote: Office Not Required
+
 El fenómeno del “trabajo desde casa” se explora a fondo en este libro de los fundadores de Basecamp, Fried y Hansson, que señalan la creciente tendencia de los empleados que trabajan desde casa (y en cualquier otro lugar) y explican los desafíos y beneficios inesperados que esta modalidad tiene.
 
 Lo más importante, muestran por qué algunas empresas como Yahoo y otras mundialmente conocidas, quieren promover este nuevo modelo de hacer las cosas. La figura laboral jerárquica “bajo un mismo techo” está disminuyendo constantemente debido a la tecnología que está creando rápidamente espacios de trabajo virtuales y permitiendo a los trabajadores aportar sin agruparse físicamente.
@@ -47,6 +48,6 @@ Por eso, esta práctica guía te abrirá la mente a la hora de planificar tu est
 Por último te dejamos otros links de interés con más lectura para los más curiosos. 🤓
 
 1. http://www.emprendedores.es/gestion/descarga-libros-gratis-trabajo-distancia-remoto
-2.  https://zapier.com/learn/remote-work/
+2. https://zapier.com/learn/remote-work/
 3. http://scottberkun.com/yearwithoutpants/
 4. http://blog.arkency.com/async-remote/

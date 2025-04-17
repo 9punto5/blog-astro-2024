@@ -8,13 +8,14 @@ authors: ["fran-daforno"]
 tags: ["Voluntariado", "9punto5"]
 draft: false
 ---
->En 9punto5 estamos buscando heroínas y héroes para la conferencia
+
+> En 9punto5 estamos buscando heroínas y héroes para la conferencia
 
 Hoy estamos en un proceso de búsqueda de héroes y heroínas en 9PUNTO5. Las postulaciones son hasta el próximo 3 de mayo de 2019.
 
 ## Mi experiencia como vuluntaria
 
-Al empezar este proceso pensé: *¿Qué significa ser voluntari@?* *¿Será más habitual que la gente en algún momento lo sea o serlo resulta extraño para el común de las personas?*
+Al empezar este proceso pensé: _¿Qué significa ser voluntari@?_ _¿Será más habitual que la gente en algún momento lo sea o serlo resulta extraño para el común de las personas?_
 
 Por mi parte, fui voluntaria 4 años en una organización social grande. Entré cuando estaba en cuarto medio, 11 años atrás y aún disfruto de todo lo que esos 4 años me dieron. Suena un cliché, pero me hace sentido cuando dicen que en esas instancias finalmente uno recibe más de lo que da.
 ![Medium-Image](/blog/images/posts/1_sn38qjF3eGdxKzVOL2V6wQ.webp)
@@ -22,14 +23,16 @@ Por mi parte, fui voluntaria 4 años en una organización social grande. Entré 
 Entonces... ¿qué significa ser voluntario? Creo que a veces es más complejo que ser trabajador, porque nos comprometemos con alguien o una tarea que no es remunerada económicamente, por lo tanto, quizás podríamos querer prescindir de ella de forma rápida, sobretodo si no marcha como esperábamos, pero para mi el compromiso era mayor porque aportaba en un sueño, cambiamos significativamente las condiciones de vida de las familias, eso tiene otra retribución gigante y también demanda lo mejor de uno.
 
 Aprendí que ser voluntaria implicaba dejar en la cancha lo mejor de mi, específicamente me implicaba:
-- Ser **responsable,**  para hacer lo que decía que haría,
-- debía ser **organizada**  y así tener suficiente tiempo para hacer todo (para esa fecha yo había entrado a la u, era empaque universitaria, voluntaria, tenía pololo, familia y amigos que ver, así que corría todo el día),
-- estar **comprometida**  para hacerlo de la mejor manera no solo hacerlo y ya,
+
+- Ser **responsable,** para hacer lo que decía que haría,
+- debía ser **organizada** y así tener suficiente tiempo para hacer todo (para esa fecha yo había entrado a la u, era empaque universitaria, voluntaria, tenía pololo, familia y amigos que ver, así que corría todo el día),
+- estar **comprometida** para hacerlo de la mejor manera no solo hacerlo y ya,
 - **empática** y así poder entender la importancia de mi tarea en el proceso completo, esto evitaba que me atrase y afecte las demás tareas. Fue también entender en la práctica qué era ser parte de un equipo.
-- Debía **ser humilde**  para aceptar las sugerencias que me hacían y por sobretodo
+- Debía **ser humilde** para aceptar las sugerencias que me hacían y por sobretodo
 - poder **comunicarme** , no sólo entendiéndose como decir lo que me pasaba, también ser consciente de lo que mis expresiones, posturas y comportamiento comunicaban. Era muy importante que mi mensaje sea uno, que estuviera lo más alineado posible, para que me puedan entender rápido y claro.
 
 Del otro lado de mi lista de “deberes” como voluntaria, que se pueden leer fáciles pero en la práctica es difícil compatibilizarlos y practicarlos día a día, lo bonito y bueno del voluntariado ¡es mucho más!
+
 - Además de todo el desarrollo personal que me implicó vivir y cultivar los puntos que mencioné anteriormente
 - Me rodié de gente linda que estaba muy agradecida por las tareas que hacíamos y nos entregaba mucho cariño por lo mismo
 - Conocí personas muy diferente a mi y pares a la vez. Ya no éramos todos del mismo colegio, ni teníamos los mismos intereses en común, pero nos complementábamos, compartíamos todos la visión de lo que estábamos construyendo juntos, y las experiencias de vida al ser diferentes se volvían mucho más enriquecedoras, formamos equipos más diversos, con todos los beneficios que eso implica.

@@ -9,7 +9,6 @@ tags: ["Trabajo remoto"]
 draft: false
 ---
 
-
 Si bien durante el último tiempo el trabajo remoto se ha convertido en un “tema país” (debo confesar que ese término me produce cierto escozor, pero encaja perfecto), todavía nos queda un largo trecho por recorrer para poder decir con propiedad que estamos realmente avanzando en esta materia, o instalando una cultura de trabajo sólida que permita a personas y empresas desenvolverse con soltura en sus ocupaciones, resolviendo compromisos a distancia.
 
 Lo más lógico, es pensar que la distancia es la principal enemiga.

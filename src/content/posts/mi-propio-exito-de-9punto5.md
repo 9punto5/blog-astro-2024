@@ -8,7 +8,8 @@ authors: ["fran-daforno"]
 tags: ["9punto5"]
 draft: false
 ---
->En 9punto5 estamos buscando heroínas y héroes para la conferencia
+
+> En 9punto5 estamos buscando heroínas y héroes para la conferencia
 
 9punto5 aún no se acaba, sigo con muchos to dos en mi cabeza para los días que vienen.
 

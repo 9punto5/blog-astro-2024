@@ -20,9 +20,11 @@ Y como queremos que tu viaje sea completo, también te contamos que gracias al p
 ¿Planifiquemos el viaje?
 
 ## Prepárate
+
 Valdivia posee un centro compacto y seguro, ideal para recorrer a pie. La conferencia será en plena primavera por lo que podrás disfrutar de un entorno natural muy variado donde, por supuesto, nunca faltará la clásica lluvia. No olvides traer un paraguas, una chaqueta impermeable y unas buenas zapatillas para disfrutar al máximo.
 
 ## Valdivia para los paladares
+
 No importa el clima, siempre encontrarás un lugar cálido para degustar una cerveza artesanal, un chocolate caliente, una pichanga caliente o el famoso “crudo” valdiviano. Te animamos a reservar este tour gastronómico en tu agenda para que no te quedes con hambre.
 
 ¿Listo para embarcarte en esta aventura?
@@ -40,8 +42,8 @@ Para reservar, escribe un mail con asunto que incluya “9punto5” a reservas@v
 
 Por ahora esa es nuestra primera recomendación, y pronto agregaremos más alternativas.
 
-
 ## ¿Cómo me muevo?
+
 En taxi, en colectivo o caminando.
 
 Si te encuentras en el centro y el clima te lo permite, te recomendamos trasladarte caminando. Y si necesitas indicaciones, no dudes en pedírnosla.
@@ -55,6 +57,7 @@ Puedes pedir taxi desde el mismo lugar sede del evento o desde el hotel u hostal
 (Precio de referencia taxi: $2.000 CLP del centro a Isla Teja, precio de referencia colectivo: $700 CLP).
 
 ### Transfer del aeropuerto
+
 El precio del transfer en van compartida es de CLP 5.000 y el auto privado cuesta CLP 20.000.
 
 Reserva en el teléfono [+562 63 222 5533](tel:+56632225533), o escríbeles por [WhatsApp](https://wa.me/56632225533).
@@ -71,12 +74,13 @@ Hay muchas alternativas, aquí te dejamos una selección:
 - Atraviesa al Mercado Municipal. Sí lo que buscas es un regalo típico, no puede faltar esta visita, donde además podrás probar gastronomía típica de la zona.
 
 ### Hore de museos
+
 - Vistia el [mut.museum](https://mut.museum/) (único en Chile).
 - Recorre los diferentes [Museos de la Universidad Austral](https://www.instagram.com/museosaustral/)
-- Vistia el **submarino** ubicado en plena costanera. 
-
+- Vistia el **submarino** ubicado en plena costanera.
 
 ### Niebla
+
 ¡No te pierdas la feria costumbrista en Niebla! Es el destino preferido de muchas personas que visitan la costa valdiviana.
 
 ¿Conoces el Fuerte Niebla? Tienes que ir [museodeniebla.gob.cl](https://www.museodeniebla.gob.cl/)
@@ -98,9 +102,10 @@ Antes y durante el evento tendrás tiempo para poder salir a almorzar algo o tom
 
 - En nuestra opinión **Panaka es el mejor café de Valdivia**. Es tanto así que varios cafés de la ciudad lo venden. Pero también puedes ir directo a sus [locales](https://www.instagram.com/panaka_cafe/).
 - Conoce [Café Cosas Ricas](https://www.cosasricas.cl/) y [Café de Luis](https://www.instagram.com/cafedeluis/), para un buen café (también para almorzar).
-- 
+-
 
 ### Los mejores crudos
+
 Un imperdible si te gustan los crudos, sandwiches y cervezas. Visita [@dashaus1959](https://www.instagram.com/dashaus1959/) , clásico valdiviano, además de céntrico y concurrido.
 
 ## ¿Dónde puedo ir a tomarme una cosita y comer?
@@ -115,11 +120,11 @@ Algunos que no fallan:
 - Carnes y pastas, en la [Parrilla de Thor](https://www.instagram.com/parrilladethor/), [Sello de Raza](https://www.instagram.com/selloderaza_restaurant/) y [Mercato](https://www.instagram.com/mercato_pasta_fresca/), u otros más innovadores como [Bar 55](https://www.instagram.com/55barycocina/) y [Mía](https://www.instagram.com/miavaldiviacl/)
 - **¿Standups y humor?** [Cava del Buho](https://www.instagram.com/cava_del_buho_restaurant/) y [La Bota](https://www.instagram.com/labotacervecera/)
 - Y por qué no, el [Sky Bar](https://www.instagram.com/skybarvaldivia/) de Dreams Valdivia, para ver la ciudad desde lo alto.
- 
+
 Ahora, si quieres bailar, no te puedes perder [Bimba](https://www.instagram.com/valdiviaesbimba/).
 
 ### ¿Te sientes con ganas de más?
- 
+
 En Valdivia hay mucho más por hacer.
- 
-Rodéate de naturaleza con un trekking en el [Parque Oncol](https://www.parqueoncol.cl/) o navegando por el Santuario de la Naturaleza en Cutipay. 
+
+Rodéate de naturaleza con un trekking en el [Parque Oncol](https://www.parqueoncol.cl/) o navegando por el Santuario de la Naturaleza en Cutipay.

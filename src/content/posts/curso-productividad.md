@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Productividad", "Cursos"]
 draft: false
 ---
+
 Serán 3 sesiones de una hora y media, una vez por semana, en vivo y que además quedará grabado para que lo veas a tu ritmo.
 
 La primera versión del curso será para máximo 20 personas y será necesario tener la membresía de 9punto5 para poder participar.

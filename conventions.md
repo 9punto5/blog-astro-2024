@@ -1,4 +1,3 @@
-
 Conventional Commits 1.0.0
 Summary
 
@@ -135,4 +134,3 @@ One recommendation is to use the revert type, and a footer that references the c
 revert: let us never again speak of the noodle incident
 
 Refs: 676104e, a215868
-

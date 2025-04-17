@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Liderazgo"]
 draft: false
 ---
+
 La claridad es el factor más importante en el compromiso de los equipos de trabajo, o al menos eso es lo que encontró [un estudio de dos años](https://www.businessinsider.com/john-doerr-management-performance-theory-goals-2018-6) realizado por Deloitte que mostró que tener metas claras, compartidas abierta y regularmente es fundamental para la alineación y la satisfacción laboral.
 
 Esta es una de las razones por las que, cuando me preguntan sobre **la primera cosa a la que un equipo debe poner atención**, respondo que partan por la comunicación.

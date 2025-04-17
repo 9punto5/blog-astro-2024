@@ -46,6 +46,7 @@ Los estilos en este proyecto se controlan a través de varios archivos clave:
 Para modificar los estilos globales, edita los archivos de configuración mencionados anteriormente. Para cambios específicos de componentes, modifica directamente las clases de Tailwind en los archivos Astro correspondientes.
 
 <!-- installation -->
+
 ## 🔧Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -73,6 +74,7 @@ npm run dev
 After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live-reload the browser when changes are saved.
 
 <!-- licence -->
+
 ## 📄License
 
 Copyright (c) 2023 - Present, Designed & Developed by [Themefisher](https://themefisher.com)

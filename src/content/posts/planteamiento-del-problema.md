@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Decisiones", "Claridad", "Problemas"]
 draft: false
 ---
+
 ¿Te has lanzado a implementar una solución de forma apresurada? Yo sí, me declaro culpable.
 
 Esto pasa cuando **te apresuras a intentar una solución, pero sin pensar en serio el problema**. Ponemos personas, tiempo, energía y recursos buscando alcanzar algún objetivo, pero la aguja no se mueve, no pasa nada relevante.
@@ -23,6 +24,7 @@ Puede que esto implique incluso aprender a pensar distinto, ya que desde la educ
 > La parte más importante de resolver un desafío, no es llegar a la solución, es entender bien el problema.
 
 ## Qué es un planteamiento del problema
+
 El método de _"planteamiento del problema"_ consiste en **describir de forma precisa** lo que queremos resolver o mejorar y **definir cómo evaluaremos que hemos resuelto** el problema.
 
 Podría implicar explicar los “5W” –quién, qué, por qué, dónde y cuándo– del problema. Así como mostrar la brecha entre el estado actual y el deseado.
@@ -37,6 +39,7 @@ El objetivo del planteamiento del problema es **actuar después de que conocemos
 Redactar el planteamiento de un problema ayuda a **identificarlo y definirlo con precisión** para luego pasar a explorar los posibles caminos de solución.
 
 ## Cómo escribir un planteamiento del problema
+
 Para escribir bien un problema es necesario **definir el objetivo que se quiere conseguir**.
 
 El primer paso es **explicar lo que está funcionado mal y por qué**. Para lo que podrías querer responder a preguntas cómo:
@@ -52,6 +55,7 @@ El primer paso es **explicar lo que está funcionado mal y por qué**. Para lo q
 - ¿Cómo le explicarías el problema a alguien que no tiene conocimientos de esta área?
 
 ### Identificar la causa raíz
+
 El segundo paso es **encontrar la verdadera causa del problema**, no solo los síntomas. Para esto podrías preguntarte:
 
 - ¿Qué hace falta para que esto no vuelva a pasar de nuevo?
@@ -67,6 +71,7 @@ Además, al describir el problema es aconsejable:
 - Considera que un problema puede tener múltiples causas de fondo, y tus primeras impresiones podrían estar equivocadas.
 
 ## Propiedades de los problemas complejos
+
 El artículo académico _[“Dilemmas in a General Theory of Planning”](https://www.sympoetic.net/Managing_Complexity/complexity_files/1973%20Rittel%20and%20Webber%20Wicked%20Problems.pdf)_ de Horst Rittel y Melvin Webber describía, ya hace 50 años, **diez propiedades** de este tipo de problemas:
 
 1. No hay una forma definitiva de describir un problema complejo

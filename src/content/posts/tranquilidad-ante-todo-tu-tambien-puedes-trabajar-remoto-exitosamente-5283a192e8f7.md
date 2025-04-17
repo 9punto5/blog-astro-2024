@@ -11,7 +11,7 @@ draft: false
 
 El trabajo remoto ha sido tan mencionada como el coronavirus. Claro está, es una de las muchas consecuentes que la pandemia actual está teniendo sobre nuestro comportamiento.
 
-Si estás escuchándolo y no sabes de qué va, menos aún tienes ideas de lo que implica, espero poder ayudarte. Llevo 4 años relacionada al tema, soy socia de **9punto5** , promovemos y facilitamos el trabajo remoto, porque creo que esta modalidad da oportunidades para tener una **mejor calidad de vida para todos, compatibilizando trabajo y “vida”.**  Entonces, opero un alto porcentaje de mi jornada de forma remota, no soy experta en todas las herramientas que el mercado ofrece, pero sé cómo funcionan las que ocupo a diario y te aconsejaré algunos links relacionados.
+Si estás escuchándolo y no sabes de qué va, menos aún tienes ideas de lo que implica, espero poder ayudarte. Llevo 4 años relacionada al tema, soy socia de **9punto5** , promovemos y facilitamos el trabajo remoto, porque creo que esta modalidad da oportunidades para tener una **mejor calidad de vida para todos, compatibilizando trabajo y “vida”.** Entonces, opero un alto porcentaje de mi jornada de forma remota, no soy experta en todas las herramientas que el mercado ofrece, pero sé cómo funcionan las que ocupo a diario y te aconsejaré algunos links relacionados.
 
 Trabajar remoto significa que estás trabajando en un lugar distinto a la oficina, conectado a través de canales digitales. Yo por ejemplo, trabajo algunos días desde casa, en menor medida desde algún café y otros días voy a un cowork, un espacio de trabajo colaborativo el cual simula nuestra oficina. Sea donde sea que estemos, lo más importante es confiar en el otro, en que sabe por qué, cómo y cuándo hacer su trabajo.
 
@@ -21,9 +21,10 @@ Quiero enfatizar que este post es para quien tiene poca o nula experiencia traba
 
 Asumiremos que con la contingencia del coronavirus todos estamos 100% trabajando desde casa, pero esta no es la única alternativa cuando hablamos de trabajo remoto. No viene al caso profundizar más, pero si gustas puedes leer sobre las diferentes modalidades de trabajar a distancia.
 
-Trabajar remoto tiene muchas libertades, una de ellas es el horario. **Es fundamental que los equipos conversen y acuerden el nivel de sincronía**  al trabajar remoto desde el comienzo, esto podrá evitar posibles inconvenientes a futuro como por ejemplo: expectativas de que te contesten una duda de forma inmediata o rápida, horarios de reuniones, entre otras.
+Trabajar remoto tiene muchas libertades, una de ellas es el horario. **Es fundamental que los equipos conversen y acuerden el nivel de sincronía** al trabajar remoto desde el comienzo, esto podrá evitar posibles inconvenientes a futuro como por ejemplo: expectativas de que te contesten una duda de forma inmediata o rápida, horarios de reuniones, entre otras.
 
 Las opciones son tres:
+
 - Estar todos conectados al mismo tiempo, quizás manteniendo el horario de oficina, **síncrono.**
 - Cada quien define sus tiempos de trabajo siempre que cumpla con sus objetivos, **asíncrono.**
 - Están conectados todos en un determinado periodo de tiempo, el resto cada quien trabaja cuando estime conveniente, **overlap** .
@@ -31,13 +32,15 @@ Las opciones son tres:
 [Aquí puedes leer de estos con más detalles](https://www.notion.so/9punto5/Tipos-de-comunicaci-n-Sync-Async-Overlap-65a7399309cb4034bc72ece20164ece8) (creamos una base de conocimiento con recursos e ideas para tomar en cuenta al trabajar remoto).
 
 ## Rutina y trabajo
+
 ![Medium-Image](/blog/images/posts/1_7YOlefRPXwExLOGHwnPQcA.webp)
 
 Ya no debes trasladarte para llegar a la oficina y trabajar, uno de los beneficios que más me gusta, pero te aconsejo que sigas más o menos la misma rutina — **trabajar remoto requiere de mucha autodisciplina** , ésta nueva rutina ya puede ser difícil, entonces trata de alterarla lo menos posible.
 
-Levántate de la cama, toma desayuno y **busca un** **lugar cómodo para trabajar en casa**  (si la cama lo es, no hay problema que lo hagas desde ahí), lo importante es que puedas concentrarte para trabajar, entonces idealmente no tengas muchas distracciones cerca.
+Levántate de la cama, toma desayuno y **busca un** **lugar cómodo para trabajar en casa** (si la cama lo es, no hay problema que lo hagas desde ahí), lo importante es que puedas concentrarte para trabajar, entonces idealmente no tengas muchas distracciones cerca.
 
 Si por la cuarentena también hay más personas en casa, elige un espacio donde puedas tener un tiempo tranquilo y en silencio, que entiendan estás trabajando en ese lugar. Considera que es altamente probable que si menos te ven, menos interrupciones tengas.
+
 - [Consejo: Rutina para empezar y terminar el día](https://www.notion.so/9punto5/Rutina-para-empezar-y-terminar-el-d-a-485e1bc8c5994b63adbac12cd2a6dd91)
 - [Consejo: Define los límites en la casa, sobretodo para con tu familia](https://www.notion.so/9punto5/Consejo-Define-los-l-mites-en-la-casa-sobretodo-para-con-tu-familia-65a7399309cb4034bc72ece20164ece8)
 - [Consejo: Pomodoro, una técnica para concentrarte](https://www.notion.so/9punto5/T-cnicas-de-concentraci-n-de09963fc11043f696fc338bd371d6b9)
@@ -48,7 +51,7 @@ Independiente de la modalidad de trabajo, es un hecho que la comunicación es mu
 
 El uso de Whatsapp es universal, pero es ideal si pueden tener una **herramienta de comunicación específica para el trabajo** , esto permite una separación clara de los temas.
 
-La aplicación de comunicación más conocida para trabajar, por lo menos en el mundo tecnológico, es **Slack** , aunque yo en mi día a día utilizo **Twist** **.**  Ambos son plataformas de chat para descargar en tu note/celular desde las que puedes hablar directamente a una persona o crear canales por equipo, proyecto o un tema de conversación específico. Te permiten limitar el acceso a las conversaciones, para que las vean todos o solo ciertos miembros de la empresa, por ejemplo cuando es por proyecto o un canal con el cliente.
+La aplicación de comunicación más conocida para trabajar, por lo menos en el mundo tecnológico, es **Slack** , aunque yo en mi día a día utilizo **Twist** **.** Ambos son plataformas de chat para descargar en tu note/celular desde las que puedes hablar directamente a una persona o crear canales por equipo, proyecto o un tema de conversación específico. Te permiten limitar el acceso a las conversaciones, para que las vean todos o solo ciertos miembros de la empresa, por ejemplo cuando es por proyecto o un canal con el cliente.
 
 ¿Por qué no ocupo la que todos ocupan? Me gusta más Twist porque dentro de cada canal puedo crear subtemas. Slack lo tiene a modo de “hilo” de una conversación, pero en mi experiencia Twist es más ordenada, claro si somos capaces de abrir un canal o subtema para ideas distintas. De esta forma, cuando pasas un tiempo desconectada, evitas volver a la aplicación y tener una conversación de 200 mensajes, en cambio puedes tener quizás 5 conversaciones con 40 líneas cada uno. A mi esto último me da la sensación que puedo abordar y opinar en los temas, antes me pasaba que cuando llegaba al inicio de una conversación infinita, con muchos temas, algunos en ciertas ocasiones ya estaban zanjados.
 
@@ -56,14 +59,17 @@ Como las herramientas son muy variadas, te aconsejo no te quedes solo con la que
 ![Medium-Image](/blog/images/posts/1_DcBz3PxUrAURm20igldczQ.png)
 
 **¡Errores más comunes!**
+
 - Personalmente siempre escribo bien acotado, grave error, debemos pensar que no nos están viendo, no saben el tono de voz, claro lo pueden imaginar quizás, pero mientras más clara y específica sea el desarrollo de la idea será mejor.
 
 **Consejo: Desarrolla tu habilidad para escribir**
+
 - Pensar que es imposible mantener las conversaciones de pasillo. Ciertamente estas conversaciones cuando se está remoto son más difíciles de darse, pero sí están acostumbrados a conversar el lunes qué hicieron el fin de semana se puede crear un canal para conversar éste u otros temas random.
 
 Te invito a leer La “cafetera” o “water cooler” en una cultura remota
 
 **Links relacionados**
+
 - [Cómo funciona Twist](https://youtu.be/gXpAQaY3L4Q?si=k7crG79rxJG2iurO) [Video]
 - [Cómo funciona Twist](https://twist.com/home#featureSection) [Post]
 - [Los 5 consejos primordiales para comenzar a usar Slack](https://slack.com/intl/es-cl/resources/using-slack/top-5-tips-for-getting-started-in-slack?geocode=es-cl) [Post]
@@ -76,10 +82,11 @@ Otra opción para comunicarse es que se reúnan por una videollamada. La primera
 Para todas mis reuniones online utilizo Meet, es una herramienta de Google. Me gusta porque no debes instalar nada ni agregar a alguien a tu cuenta (como en Skype). Ingresas, te registras con tu email y pasas a crear una reunión, esto generará un link, el cual puedes compartir o envías invitaciones por email a los demás participantes. También te permitirá definir día, hora de inicio y término, agregar una descripción de la llamada, entre otras opciones configurables.
 
 Otras alternativas son Zoom, Skype, Slack, Facetime, entre otras.
-- [Buenas prácticas de reuniones remotas](https://www.notion.so/9punto5/Buenas-pr-cticas-de-reuniones-remotas-30d70c95cff74735a68395a6604b5c67) 
+
+- [Buenas prácticas de reuniones remotas](https://www.notion.so/9punto5/Buenas-pr-cticas-de-reuniones-remotas-30d70c95cff74735a68395a6604b5c67)
 - [Haz saber que estás ahí](https://www.notion.so/9punto5/Haz-saber-que-est-s-ah-77483cfb093940b9b3bab6662542d22b)
 - [Esta reunión debió ser un mail](https://www.notion.so/9punto5/Esta-reuni-n-debi-ser-un-mail-c638ffa072e34ec4b059f2dee59c7424)
-![Medium-Image](/blog/images/posts/1_ibt4M6Dmy_8h8Hlg4OLl7Q.webp)
+  ![Medium-Image](/blog/images/posts/1_ibt4M6Dmy_8h8Hlg4OLl7Q.webp)
 
 Con todo lo que has leído hasta ahora me imagino ya sientes la necesidad de tener una agenda. Con el tiempo, y con tanto libertad, uno entiende esta es super importante, **debemos ser ordenado sobretodo en los tiempos de actividades y más si involucra el tiempo de otra persona.**
 
@@ -88,6 +95,7 @@ Yo amaba las agendas de papel, pero debo confesar que hace años prefiero Google
 Otra opción es Fantastical.
 
 **Links relacionados**
+
 - Iniciar videollamadas en meet [Post]
 - Programar una reunión en el sitio web de Zoom [Video]
 - Comenzar a usar el Calendario de Google [Post]
@@ -114,6 +122,7 @@ La idea de utilizar una herramienta así es que de un proyecto, vas creando tare
 Algunas de las alternativas que conozco son Todoist, Monday, Trello y Asana.
 
 **Links relacionados**
+
 - Post: [Creación de documentos — Gsuite](https://gsuite.google.es/intl/es/products/docs/)
 - Post: [Creación de hojas de cálculo — Gsuite](https://gsuite.google.com/intl/es-419/products/sheets/)
 - Post: [Creación de hojas de cálculo — Gsuite](https://gsuite.google.com/intl/es-419/products/slides/)

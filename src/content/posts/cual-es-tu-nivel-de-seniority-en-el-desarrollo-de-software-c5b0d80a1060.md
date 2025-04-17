@@ -45,7 +45,8 @@ Del punto de vista del código, tiene las habilidades para realizar comentarios 
 
 En base a mis proyectos del pasado, el “Intermediate” es el que copia/pega código de StackOverflow y algunas veces se queda corto con la explicación de que hace ese código. O sea, no existe una capacidad madura de discernir porque estoy añadiendo más líneas y/o como impactan a otras áreas del mismo software.
 
-En resumen, **¿cuáles a mi parecer son las habilidades esenciales a empezar a aprender en este nivel?**  Tres principalmente.
+En resumen, **¿cuáles a mi parecer son las habilidades esenciales a empezar a aprender en este nivel?** Tres principalmente.
+
 - Responsabilidad y/o ownership. Te gradúas de “Intermediate” cuando eres el principal responsable de una parte de un proyecto y eres capaz de ejecutar ciertas tareas sin la necesidad de una dirección clara. Algunas veces incluso, ambigua.
 - La capacidad de manejo de emociones en un proyecto. Frustración, ansiedad, enojo deben ser contrastadas con paciencia y humildad.
 - Opinión madura en al menos un área de código fuente. Puede ser arquitectura, estilos, patrones, entre otras.
@@ -61,6 +62,7 @@ Si bien podemos concordar que un senior puede tomar decisiones en un equipo, ele
 ¿A qué me refiero con eso? **Que hay algunos devs que se convierten en líderes de equipo, y otros en “tech leads”** . La diferencia es que los primeros ahondan en “soft skills” y los últimos en “hard skills”. Los dos caminos son válidos y necesarios.
 
 Independiente del camino, existen ciertas habilidades del futuro que nadie me contó, y a las cuales debí haberle puesto más atención para ser “Senior” (escribí esto en mi blog hace un tiempo).
+
 - “Olvidar” lo que has aprendido. Después de 5–7 años de desarrollo, olvídate de todo lo que aprendiste. Es fácil a esta altura tener verdades, estilos y hábitos que son difíciles de cambiar. Para mi, esto decanta en que un senior siempre debe tener una actitud de curiosidad y cuestionamiento hacia lo que hace.
 - Comunicarse de forma simple. A menos que trabajes solo, deberás comunicarte con más personas. **Un “Senior” debe “encender” la comunicación** . Sentirse cómodo con la ambigüedad y encontrar el balance entre lo simple y lo complejo. En este punto, clarificar que la comunicación también implica escuchar a los demás, no solo ser escuchado.
 - Crear un estilo de liderazgo centrado y descentralizado. Dejar que otros opinen y que fallen. Y como si esto fuera poco, dejar las expectativas y buenas prácticas claras.
@@ -72,7 +74,8 @@ Un “Tech Lead” es un “Senior” con bonus en manejo de proyectos y entendi
 En este tipo de cargo, existen ciertas consideraciones que debes diariamente, y que por ello tu tiempo se vuelve más demandado. Un “Tech Lead” pasa más tiempo conversando, comunicándose, en reuniones y generando documentación, en vez de programar.
 
 ¿Otras diferencias esenciales con el “Senior”?
-- **Es el principal ejemplo (no el único) a seguir en un equipo.**  No solo técnicamente, si no también en términos de responsabilidad y ownership.
+
+- **Es el principal ejemplo (no el único) a seguir en un equipo.** No solo técnicamente, si no también en términos de responsabilidad y ownership.
 - Como mencioné al inicio de esta sección, es capaz de entender información y procesos de distintos dominos (diseño, UX, negocio y marketing). Al entender esto, es capaz de traducirlo a su dominio y cómo impacta en el desarrollo de software.
 - Crea un estándar profesional de buenas prácticas y procesos en un proyecto. Y en los casos más extremos, incluso para una empresa.
 
@@ -104,4 +107,4 @@ Muchas gracias a Jonathan Gonzalez y Fabián por los aportes a este post.
 
 **Sigamos la conversación**
 
-En Twitter: [@nerdfromchile](https://twitter.com/nerdfromchile) / [@9punto5_](https://twitter.com/9punto5_)
+En Twitter: [@nerdfromchile](https://twitter.com/nerdfromchile) / [@9punto5\_](https://twitter.com/9punto5_)

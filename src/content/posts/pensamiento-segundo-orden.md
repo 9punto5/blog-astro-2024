@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Decisiones"]
 draft: false
 ---
+
 Usar un “pensamiento de segundo orden” o pensar en “las consecuencias de segundo orden” se refiere a realizar un análisis que va más allá de la simple consideración de las consecuencias inmediatas de una acción.
 
 Esta es una herramienta poderosa que permite analizar los problemas en segundo, tercer y enésimo orden. Implica pensar en las consecuencias de las consecuencias, en los efectos que siguen al primer resultado de una acción o decisión. El pensamiento de segundo orden es más difícil, pero permite ver cosas que no son evidentes.
@@ -25,6 +26,7 @@ El pensamiento de segundo orden es más **deliberado** e implica considerar las 
 Ocurre cuando piensas, por ejemplo, en las consecuencias a largo plazo de alimentarte repetidamente con comida chatarra o muy procesada. Si piensas así, es más probable que elijas comer algo sano.
 
 ## Para mejorar tu capacidad de tomar decisiones:
+
 1. Pregúntate “¿Y luego qué?”
 2. Piensa a través del tiempo. ¿Qué consecuencias tendrá esto en 10 minutos, 10 horas, 10 meses, 10 años?
 3. Toma una hoja y divídela en tres columnas. Anota en la primera columna las consecuencias inmediatas, positivas y negativas. En la siguiente columna, anota las consecuencias de segundo orden y en la tercera, las consecuencias de tercer orden.

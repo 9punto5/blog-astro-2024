@@ -19,18 +19,18 @@ Es una forma distinta de programar software usando inteligencia artificial. En v
 
 ![andrej_karpathy](/blog/images/posts/andrej_karpathy.webp)
 
-Pero si quieres ir más allá del experimento —crear algo que realmente funcione, que otras personas usen, o que puedas integrar a tu flujo de trabajo diario— necesitas algo más que una idea escrita al vuelo.  
+Pero si quieres ir más allá del experimento —crear algo que realmente funcione, que otras personas usen, o que puedas integrar a tu flujo de trabajo diario— necesitas algo más que una idea escrita al vuelo.
 
 El truco está en cómo le das las instrucciones:
 
-- Si son vagas, obtendrás resultados pobres.  
+- Si son vagas, obtendrás resultados pobres.
 - Si son claras y estructuradas, los avances pueden ser impresionantes.
 
 ## La clave: preparar un documento base
 
-Después de varios intentos fallidos, hay un aprendizaje compartido por muchas personas que han probado estas herramientas: **la diferencia está en empezar con un documento claro, completo y bien estructurado**.  
+Después de varios intentos fallidos, hay un aprendizaje compartido por muchas personas que han probado estas herramientas: **la diferencia está en empezar con un documento claro, completo y bien estructurado**.
 
-Una mezcla de *Product Requirements Document (PRD)*, especificaciones técnicas y guías prácticas de implementación.
+Una mezcla de _Product Requirements Document (PRD)_, especificaciones técnicas y guías prácticas de implementación.
 
 [Fabián](https://9punto5.cl/blog/authors/fabian-acuna/) escribió sobre esto y compartió un ejemplo práctico que puedes revisar:
 
@@ -38,11 +38,11 @@ Una mezcla de *Product Requirements Document (PRD)*, especificaciones técnicas 
 
 ### ¿Qué incluye ese documento?
 
-- Objetivos del producto y del negocio  
-- Flujo de uso y funcionalidades  
-- Stack tecnológico y estructura de carpetas  
-- Modelo de datos y entorno de desarrollo  
-- Guías de diseño UX/UI y métricas de éxito  
+- Objetivos del producto y del negocio
+- Flujo de uso y funcionalidades
+- Stack tecnológico y estructura de carpetas
+- Modelo de datos y entorno de desarrollo
+- Guías de diseño UX/UI y métricas de éxito
 - Diagramas de flujo y entidad-relación
 
 No es un documento definitivo, pero seguro puedes sacar ideas útiles de la estructura.
@@ -51,7 +51,7 @@ No es un documento definitivo, pero seguro puedes sacar ideas útiles de la estr
 
 ## Aprendizajes clave
 
-- ❌ **Lo que no funciona:** pedirle a la IA que cree una app sin un contexto detallado.  
+- ❌ **Lo que no funciona:** pedirle a la IA que cree una app sin un contexto detallado.
 - ✅ **Lo que sí funciona:** entregar una visión clara desde el inicio, con límites, estructura e instrucciones detalladas.
 
 ---

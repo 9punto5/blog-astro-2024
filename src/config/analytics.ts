@@ -9,9 +9,9 @@ interface AnalyticsConfig {
 
 const config: AnalyticsConfig = {
   posthog: {
-    apiKey: 'phc_aeXY6kBjlMThb7BicNBUONqsrwn4ATcrHVpNH4gTXtO', 
-    hostUrl: 'https://us.i.posthog.com' 
-  }
+    apiKey: "phc_aeXY6kBjlMThb7BicNBUONqsrwn4ATcrHVpNH4gTXtO",
+    hostUrl: "https://us.i.posthog.com",
+  },
 } as const;
 
-export default config; 
+export default config;

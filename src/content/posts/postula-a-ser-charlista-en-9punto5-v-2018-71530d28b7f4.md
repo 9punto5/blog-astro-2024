@@ -34,6 +34,7 @@ Los asistentes de 9punto5 están buscando mejorar sus habilidades blandas para a
 Estamos buscando postulaciones de dos tipos. Primero, una charla de 20 minutos (presentación más preguntas). Este es el formato más estándar. Por otro lado, habrá un bloque de “lightning talks”. Cada una de estas dura 5 minutos.
 
 ### Consideraciones
+
 - Si eres seleccionado para la charla, obtendrás un ticket gratuito de acceso a los dos días del evento. Si eres seleccionado para una “lightning talk”, deberás adquirir un ticket.
 - El equipo de 9punto5 será responsable de elegir las charlas.
 - Para las “lightning talks”, habrá un sistema de votación abierto comenzando en el mes de Junio 2018. Para obtener más votaciones, no te olvides de incluir un video ;)
@@ -46,4 +47,4 @@ Estamos buscando postulaciones de dos tipos. Primero, una charla de 20 minutos (
 
 ¡Mucha suerte! (y nos vemos en Septiembre)
 
-*Comenzamos la* *venta de tickets* *para 9punto5 2018. Aprovecha la venta en blanco y un descuento que no se volverá a repetir, para tickets generales, VIP y valdiviano.*
+_Comenzamos la_ _venta de tickets_ _para 9punto5 2018. Aprovecha la venta en blanco y un descuento que no se volverá a repetir, para tickets generales, VIP y valdiviano._

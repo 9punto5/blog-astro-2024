@@ -11,7 +11,6 @@ draft: false
 
 Participa del del primer Launchpad Build dirigido a startups, y que se llevará a cabo en el marco de la segunda versión de “9punto5”.
 
-
 Después de tanto tiempo sin publicar, queremos empezar anunciando las primeras sesiones y speakers de la versión 2017 de “9punto5”.
 
 Y nos complace anunciar, que Valdivia será el epicentro de evento inédito de Google en Chile.
@@ -27,7 +26,6 @@ O sea, cualquier persona con ticket para “9punto5”, tendrá acceso a estas s
 Para la venta de tickets, puedes ver más información acá.
 
 Ahora, la pregunta. ¿Qué tiene que ver Google y un “Launchpad Build” con el trabajo remoto?
-
 
 Launchpad de Google previamente en Latinoamérica.
 Creemos que varias interrogantes que tiene la comunidad van por el lado de “como partir en el ecosistema”, “como desarrollar habilidades de negocio”, “como iniciar un negocio”, “como conseguir un trabajo remoto”, etc.

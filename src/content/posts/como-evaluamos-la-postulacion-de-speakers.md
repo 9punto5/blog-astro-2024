@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Speaker", "Charlista", "CFP", "Convocatoria"]
 draft: false
 ---
+
 En este artículo te comparto los criterios de evaluación que utilizamos para calificar las postulaciones de Speakers.
 
 Aunque este artículo no pretende ser una guía universal que te permita sabe cómo piensan todas las organizaciones de conferencias, en nuestra experiencia otras conferencias buscan aspectos similares.

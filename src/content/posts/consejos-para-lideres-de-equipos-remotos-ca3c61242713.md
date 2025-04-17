@@ -8,9 +8,9 @@ authors: ["fran-daforno"]
 tags: ["Trabajo remoto"]
 draft: false
 ---
+
 **Te compartimos consejos para gestionar equipos remotos: comunicación efectiva, condiciones técnicas óptimas, pantalla compartida, seguimiento en línea, retroalimentación clara y creatividad para cohesión.**
 ––
-
 
 Hoy tenemos un invitado especial en nuestro Blog.
 
@@ -21,10 +21,11 @@ Durante **10 años ha trabajado en remoto coordinando proyectos y equipos de dif
 Si deseas contactarlo su email es rafagalaz@gmail.com.
 
 A continuación compartimos contigo los 10 consejos que nos comentó.
-- **Aquí rigen otras reglas del juego. ¿Ya escuchaste la frase: desaprender para volver a aprender?.**
-![Medium-Image](/blog/images/posts/0-SQBZNL7lBaNPc14P.webp)
 
-El primer gran consejo es: recuerda que **en el trabajo remoto rigen otras reglas de comunicación que para el trabajo presencial.**  Punto. No es llevar lo que hacías en forma presencial y hacerlo ahora a través de *zoom, hangout o skype* . Nope, aquí las reglas cambian y debes re-aprenderlas. La comunicación entre humanos es compleja y no se limita únicamente a la voz o el texto como canal de transferencia de información sino que se complementa con varios factores que completan la experiencia de comunicación (tono de voz, microgestos, feromonas etc.).
+- **Aquí rigen otras reglas del juego. ¿Ya escuchaste la frase: desaprender para volver a aprender?.**
+  ![Medium-Image](/blog/images/posts/0-SQBZNL7lBaNPc14P.webp)
+
+El primer gran consejo es: recuerda que **en el trabajo remoto rigen otras reglas de comunicación que para el trabajo presencial.** Punto. No es llevar lo que hacías en forma presencial y hacerlo ahora a través de _zoom, hangout o skype_ . Nope, aquí las reglas cambian y debes re-aprenderlas. La comunicación entre humanos es compleja y no se limita únicamente a la voz o el texto como canal de transferencia de información sino que se complementa con varios factores que completan la experiencia de comunicación (tono de voz, microgestos, feromonas etc.).
 
 En el trabajo remoto toda la riqueza de estos diferentes canales de comunicación se ven limitados, y junto con ello aparecen grandes distractivos: varios dispositivos electrónicos funcionando a la vez, un lugar de trabajo móvil o poco adecuado, redes sociales, etc. Todo esto atenta contra la calidad del tiempo y la atención que pueden prestar los miembros del equipo a sus tareas. Por ello, liderar un equipo en estas nuevas condiciones supondrá el desarrollo de nuevas habilidades y familiarizarse con nuevas tecnología.
 
@@ -52,23 +53,23 @@ Otro buen aliado será tener algún sistema en línea que le permita a tu equipo
 **5. Retroalimentar a los miembros de tu equipo y cómo dar feedback duro a distancia.**
 ![Medium-Image](/blog/images/posts/0-dkKY3r64dL2E7gM0.webp)
 
-El arte de retroalimentar mejora si se ha instalado una cultura de comunicación fluida donde el equipo se ha acostumbrado a verbalizar lo que piensa y siente. Los equipos presenciales pueden darse el lujo de usar cierto *“metalenguaje”* , donde actitudes informan al entorno, pero en el caso del teletrabajo debe existir con el equipo una cultura de verbalizar todo en tanto sea posible, esto genera un efecto a largo plazo donde los conflictos se solucionan de mejor manera. Como líder del equipo al momento de retroalimentar **debe ser en forma directa, clara y sobre todo precedida de haber promovido una cultura de diálogo permanente.**
+El arte de retroalimentar mejora si se ha instalado una cultura de comunicación fluida donde el equipo se ha acostumbrado a verbalizar lo que piensa y siente. Los equipos presenciales pueden darse el lujo de usar cierto _“metalenguaje”_ , donde actitudes informan al entorno, pero en el caso del teletrabajo debe existir con el equipo una cultura de verbalizar todo en tanto sea posible, esto genera un efecto a largo plazo donde los conflictos se solucionan de mejor manera. Como líder del equipo al momento de retroalimentar **debe ser en forma directa, clara y sobre todo precedida de haber promovido una cultura de diálogo permanente.**
 
-Cuando toca regañar, sepa **distinguir los elementos objetivos de la conducta o acción que se quiere hacer ver, sabiendo separarlo de los sentimientos que generan el malestar.**  Dígalo todo, pero recuerda que sólo lo que sea verbalizado será lo que se reciba, favorezca la conversación para desarrollar los elementos de su malestar y utilice el lenguaje escrito para formular los acuerdos que dan por solucionado el asunto. Y dígalo o escríbalo, no asuma que el asunto está resuelto si no lo ha dicho expresamente. En contextos internacionales la regla cobra mayor importancia, en algunas culturas decir todo frontalmente es lo habitual, pero en otras se debe trabajar en construir esa cultura de trabajo.
+Cuando toca regañar, sepa **distinguir los elementos objetivos de la conducta o acción que se quiere hacer ver, sabiendo separarlo de los sentimientos que generan el malestar.** Dígalo todo, pero recuerda que sólo lo que sea verbalizado será lo que se reciba, favorezca la conversación para desarrollar los elementos de su malestar y utilice el lenguaje escrito para formular los acuerdos que dan por solucionado el asunto. Y dígalo o escríbalo, no asuma que el asunto está resuelto si no lo ha dicho expresamente. En contextos internacionales la regla cobra mayor importancia, en algunas culturas decir todo frontalmente es lo habitual, pero en otras se debe trabajar en construir esa cultura de trabajo.
 
 **6. Para el trabajo internacional: buscar horarios y cumplir una regla de oro.**
 ![Medium-Image](/blog/images/posts/0-lYs97lhZTGMjtyQO.webp)
 
 Si trabajas en un ambiente internacional, existen varias herramientas para fijar el trabajo sincrónico y las reuniones con distintos husos horarios, mi recomendación es plataforma tipo www.time.is que permiten coordinar varias locaciones y está siempre actualizada con los cambios de hora.
 
-Busca el horario que permita a la mayoría estar cómodos, pero si no es posible, ten en cuenta que tu equipo con el horario menos conveniente estará agradecido que las **reuniones sean breves, ejecutivas, claras y con algún material que resuma los acuerdos**  para ser revisado en otro momento.
+Busca el horario que permita a la mayoría estar cómodos, pero si no es posible, ten en cuenta que tu equipo con el horario menos conveniente estará agradecido que las **reuniones sean breves, ejecutivas, claras y con algún material que resuma los acuerdos** para ser revisado en otro momento.
 
-Y LA REGLA DE ORO para el trabajo con equipo internacionales….. **“NO DAR NADA POR SENTADO”**  (“don’t take anything for granted”) Diferencias culturales, significado de las palabras, usos y modismos hacen indispensable que tus canales de comunicaciones consideren la repetición de la información ya sea de manera oral, escrita o visual. Hasta tener certeza que cada miembro del equipo comprendió sus responsabilidades y tareas.
+Y LA REGLA DE ORO para el trabajo con equipo internacionales….. **“NO DAR NADA POR SENTADO”** (“don’t take anything for granted”) Diferencias culturales, significado de las palabras, usos y modismos hacen indispensable que tus canales de comunicaciones consideren la repetición de la información ya sea de manera oral, escrita o visual. Hasta tener certeza que cada miembro del equipo comprendió sus responsabilidades y tareas.
 
 **7. Creatividad al servicio de la cohesión del equipo.**
 ![Medium-Image](/blog/images/posts/0-fTiFb1s0Umiari_F.webp)
 
-**No escatimes en recursos creativos** para dar a los espacios de cohesión del equipo la experiencia mas cercana a estar compartiendo un espacio físico. Ojo en esto, recursos creativos no significa necesariamente invertir dinero en ello, sino buscar **dinámicas para hacer online,**  dibujar, hacer videos o photoshop de baja calidad.
+**No escatimes en recursos creativos** para dar a los espacios de cohesión del equipo la experiencia mas cercana a estar compartiendo un espacio físico. Ojo en esto, recursos creativos no significa necesariamente invertir dinero en ello, sino buscar **dinámicas para hacer online,** dibujar, hacer videos o photoshop de baja calidad.
 
 Favorecer lo hecho “a mano” por encima de reenviar un meme o un post o un video que construya una narrativa del trabajo del equipo, de sus logros y anécdotas. Hacer algo con tus manos con una textura “amateur” puede dar un sello más cercano y animará a otros miembros del equipo a hacer lo mismo.
 
@@ -97,11 +98,12 @@ En este sentido “evaluar” el desempeño debe darse a entender cómo **“aco
 
 Así como los británicos tienen la sana costumbre de incorporar una nota de humor en todo momento (aunque sea un tipo humor que a veces parece presuntuoso) te recomiendo agregar un nota de humor en un margen del 3% de tus comunicaciones.
 
-Por supuesto **humor que tenga como objeto reírse de uno mismo, juegos de palabras y observaciones sutiles,**  jamás a costa de algún miembro de tu equipo.
+Por supuesto **humor que tenga como objeto reírse de uno mismo, juegos de palabras y observaciones sutiles,** jamás a costa de algún miembro de tu equipo.
 
 **El objetivo es crear un ambiente donde se haga explícito lo ameno y cercano** , no habiendo tantos canales de comunicación para crear ambiente en el equipo, el humor es una forma de hacerlo explícito. Como apuntábamos antes, en contextos de trabajo remoto, algunas cosas que no se explicitan (como el buen ambiente), puede que no se presuman.
 
 Si te gustó este post te aconsejamos veas la charla de Rafael, en la última versión de 9punto5, titulada “Cómic y el visual thinking claves para el trabajo remoto ¡En una red de 82 países!”.
 
 ## Por Rafael Galaz
+
 ![Medium-Image](/blog/images/posts/0-oP8wi2ack9MS2UUu.webp)

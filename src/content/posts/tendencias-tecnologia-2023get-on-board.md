@@ -8,6 +8,7 @@ authors: ["fabian-acuna"]
 tags: ["Get on Board", "Oportunidades laborales", "Sueldos"]
 draft: false
 ---
+
 Hace unos días Annelis de [getonbrd.com](http://www.getonbrd.com/), nos compartió su reporte anual Insights donde reúnen las tendencias del mercado laboral en Latinoamérica.
 
 Los datos del reporte son interesantes porque como Job Board tienen visibilidad directa de **450,000 profesionales** de todo Latinoamérica**, 1.4 millones de postulaciones** enviadas a través de Get on Board y **30,000** empleos publicados.
