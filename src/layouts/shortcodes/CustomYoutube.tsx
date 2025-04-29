@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 interface CustomYoutubeProps {
   id: string;
@@ -6,15 +6,22 @@ interface CustomYoutubeProps {
   [key: string]: any;
 }
 
-const CustomYoutube: React.FC<CustomYoutubeProps> = ({ id, title, ...rest }) => {
+const CustomYoutube: React.FC<CustomYoutubeProps> = ({
+  id,
+  title,
+  ...rest
+}) => {
   const [isLoaded, setIsLoaded] = useState(false);
-  
+
   const onThumbClick = () => {
     setIsLoaded(true);
   };
 
   return (
-    <div className="youtube-container relative rounded-lg overflow-hidden" style={{ paddingBottom: '56.25%', height: 0 }}>
+    <div
+      className="youtube-container relative rounded-lg overflow-hidden"
+      style={{ paddingBottom: "56.25%", height: 0 }}
+    >
       {!isLoaded ? (
         <button
           type="button"
@@ -23,16 +30,12 @@ const CustomYoutube: React.FC<CustomYoutubeProps> = ({ id, title, ...rest }) => 
           onClick={onThumbClick}
           style={{
             backgroundImage: `url(https://i.ytimg.com/vi/${id}/hqdefault.jpg)`,
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
+            backgroundSize: "cover",
+            backgroundPosition: "center",
           }}
         >
           <div className="play-button w-16 h-12 bg-red-600 rounded-lg flex items-center justify-center">
-            <svg 
-              viewBox="0 0 24 24" 
-              fill="white" 
-              className="w-8 h-8"
-            >
+            <svg viewBox="0 0 24 24" fill="white" className="w-8 h-8">
               <path d="M8 5v14l11-7z" />
             </svg>
           </div>

@@ -20,7 +20,7 @@ Y sí, muchas veces funcionan. Pero otras tantas, simplemente no alcanzan.
 
 Nos obsesionamos tanto con “hacer bien la metodología” que olvidamos mirar el problema con una perspectiva fresca.
 
-Seguimos avanzando con convicción, como quien intenta cruzar un pantano en bote. Y claro, el bote es nuestra metodología… 
+Seguimos avanzando con convicción, como quien intenta cruzar un pantano en bote. Y claro, el bote es nuestra metodología…
 
 **¿Pero qué pasa si el camino no es atravesarlo, sino rodearlo?**
 
@@ -57,7 +57,7 @@ Entonces, ¿cómo elegir un buen camino?
 1. **Conoce tu producto:** ¿Qué busca el negocio? ¿Dónde está fallando? ¿Qué dolores son constantes? ¿Qué limitaciones hay? Si no entendemos eso, estamos trabajando en falso.
 2. **Conoce el mercado:**¿Qué productos comparten el espacio con el tuyo? ¿Qué expectativas tienen los usuarios de una solución en esta categoría? A veces la clave está en las referencias externas, no internas.
 
-3. **Conoce a tus usuarios, de verdad**:  No se trata de que entiendan tu producto. Se trata de que sientan que resuelven algo con él. Que recuerden que funciona, que confíen, que lo elijan. Observa qué marcas usan, cómo compran, qué promesas creen. Eso también es diseño.
+3. **Conoce a tus usuarios, de verdad**: No se trata de que entiendan tu producto. Se trata de que sientan que resuelven algo con él. Que recuerden que funciona, que confíen, que lo elijan. Observa qué marcas usan, cómo compran, qué promesas creen. Eso también es diseño.
 
 ## La metodología es una herramienta, no un camino obligatorio
 
