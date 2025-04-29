@@ -1,14 +1,12 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
-const Youtube = ({
-  id,
-  title,
-  ...rest
-}: {
+interface CustomYoutubeProps {
   id: string;
   title: string;
   [key: string]: any;
-}) => {
+}
+
+const CustomYoutube: React.FC<CustomYoutubeProps> = ({ id, title, ...rest }) => {
   const [isLoaded, setIsLoaded] = useState(false);
   
   const onThumbClick = () => {
@@ -54,4 +52,4 @@ const Youtube = ({
   );
 };
 
-export default Youtube;
+export default CustomYoutube;
