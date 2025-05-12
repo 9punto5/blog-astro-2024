@@ -108,13 +108,13 @@ Como dijo Demis Hassabis de Google DeepMind y ganador del Premio Nobel:
 
 > Estamos entrando en una nueva era de programación... donde básicamente estás programando con lenguaje natural. Podemos verlo como la evolución natural de subir cada vez más en la pila de abstracción de los lenguajes de programación.
 
-Antes se programaba en Assembler, muy cerca del hardware. Luego, surgieron lenguajes con más abstracción como Fortran, COBOL, Pascal y C. Posteriormente, lenguajes como C++, Java y Python.
+Hace décadas se programaba en Assembler, muy cerca del hardware. Luego, surgieron lenguajes con más abstracción como Fortran, COBOL, Pascal y C. Posteriormente, lenguajes como C++, Java y Python.
 
 Es como ha evolucionado la programación, y es un proceso que se repite.
 
 Pero bueno, digamos que lo que hago no se llama "programar". Pero sí estoy creando software que funciona, resolviendo problemas reales y aprendiendo sobre arquitectura, seguridad y diseño de sistemas en el proceso.
 
-Antes, mi rol en todo este proceso era completamente diferente: conceptualizar, pedir features, testear y dar feedback. Ahora puedo construir directamente.
+Antes, mi rol en todo este proceso era completamente diferente: conceptualizar ideas, compartir necesidades, pedir features, testear y dar feedback. Ahora puedo construir directamente.
 
 ## Un nuevo tipo de superpoder
 
