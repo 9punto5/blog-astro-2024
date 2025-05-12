@@ -1,6 +1,6 @@
 ---
 title: "Vibe Coding: Cómo organicé mi proyecto para hablar con la IA y construir software real"
-description: "Cómo pasé de modificar HTML a crear features completas con Vibe Coding. Mi método para organizar proyectos por funcionalidades y comunicarme eficazmente con la IA para construir software real."
+description: "Cómo pasé de modificar HTML a crear funcionalidades completas con Vibe Coding. Mi método para organizar proyectos por funcionalidades y comunicarme eficazmente con la IA para construir software real."
 date: 2025-04-29T13:37:36-04:00
 image: "/blog/images/posts/vibe_coding_implementar.webp"
 categories: ["Tecnología"]
@@ -9,15 +9,15 @@ tags: ["Vibe Coding", "Inteligencia Artificial"]
 draft: false
 ---
 
-¿Alguna vez has deseado poder crear software simplemente explicando lo que necesitas? Hace unos meses, yo estaba exactamente en esa posición. Siempre me ha fascinado la tecnología, pero nunca llegué a aprender a codear.
+Siempre me ha gustado la tecnología, pero nunca aprendí a codear. Creo que a lo sumo era un "usuario avanzado" que podía realizar algunas configuraciones complejas.
 
-Lo más lejos que había llegado antes de este método era modificar contenido, meterme con el HTML y ciertas cosas básicas. Ahora, puedo construir y actualizar features reales en un sitio web usando lo que se conoce como "Vibe Coding", una forma de programar usando lenguaje natural con IA.
+Ahora, puedo actualizar o construir funcionalidades completas de una web usando lo que se conoce como "Vibe Coding", una forma de programar usando lenguaje natural con IA.
 
 El post [**Vibe Coding: Antes de usar v0, Lovable, Replit, Bolt o Cursor, crea esto**](/blog/vibe_coding), destaca la importancia de tener una visión general del proyecto antes de pedirle algo a la IA, y hoy quiero mostrar cómo sigue ese camino.
 
 ## El genio en la botella digital
 
-Recuerdo haber visto "Three Thousand Years of Longing" de George Miller, donde Tilda Swinton libera a un Djinn o Genio de la botella (Idris Elba). El Djinn le ofrece sus tres deseos, pero ella, conocedora de las historias, duda en pedirlos porque sabe que cada deseo concedido suele esconder una trampa.
+En la película "Three Thousand Years of Longing" de George Miller, Tilda Swinton libera a un Djinn o Genio de la botella (Idris Elba). Él ofrece sus tres deseos, pero ella sabe que pedir deseos a un genio suele ser una trampa, así que desconfía.
 
 Trabajar con herramientas de Vibe Coding como v0, Lovable, Replit, Bolt, Cursor o Windsurf me recuerda a esa película. Tienes un "genio digital" dispuesto a concederte lo que pidas, pero si no formulas bien tu deseo, el resultado puede ser muy diferente a lo que esperabas.
 
@@ -114,16 +114,18 @@ Es como ha evolucionado la programación, y es un proceso que se repite.
 
 Pero bueno, digamos que lo que hago no se llama "programar". Pero sí estoy creando software que funciona, resolviendo problemas reales y aprendiendo sobre arquitectura, seguridad y diseño de sistemas en el proceso.
 
-Antes, mi rol en todo este proceso era completamente diferente: pedir features, testear y dar feedback. Ahora puedo construir directamente.
+Antes, mi rol en todo este proceso era completamente diferente: conceptualizar, pedir features, testear y dar feedback. Ahora puedo construir directamente.
 
 ## Un nuevo tipo de superpoder
 
-Esta forma de trabajar ha desbloqueado algo que siempre quise hacer pero que nunca me di el tiempo de aprender. Ahora puedo explorar ideas, crear prototipos funcionales y resolver problemas sin depender completamente de otros.
+Esta forma de trabajar ha desbloqueado algo que siempre quise hacer pero que nunca me di el tiempo de aprender. Ahora puedo explorar ideas, crear prototipos, o derechamente crear soluciones que usan otras personas.
 
-> **¿Es perfecto? Para nada**. Todavía necesito ayuda de programadores de verdad más de una vez.
+> **¿Es perfecto? Para nada**. Y varias veces he necesitado la ayuda de programadores con experiencia.
 
-El código generado a veces requiere bastante depuración. Y es seguro que todavía hay muchas cosas que desconozco.
+El código generado no es perfecto y a menudo requiere depuración. 
 
-**Pero la barrera de entrada se ha reducido dramáticamente**. Y eso, para alguien que siempre estuvo al margen del desarrollo, se siente como un superpoder.
+Sé también que solo estoy rascando la superficie de lo que significa aprender a hacer software, y que seguramente esta manera de trabajar no será la que use en el futuro. Esto que comparto no es una receta, es más una bitácora pública, algo que quizá te pueda servir si tú también quieres experimentar con esto.
+
+**El punto es que la barrera de entrada se ha reducido dramáticamente**. Y eso, para alguien que siempre estuvo al margen del desarrollo, se siente como un superpoder.
 
 Si estás en una posición similar, te animo a probar este enfoque. Organiza tu proyecto por features, usa instrucciones específicas, y aprende a "pedir deseos" claros a tu genio digital.

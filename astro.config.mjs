@@ -52,5 +52,7 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
+    // Disable smartypants to fix Markdown parsing errors
+    smartypants: false,
   },
 });
