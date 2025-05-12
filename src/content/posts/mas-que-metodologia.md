@@ -1,6 +1,6 @@
 ---
 title: "¿Y si la metodología no fuera suficiente?"
-description: "Seguir metodologías de diseño de producto no aseugra nada. Más que seguir frameworks, conviene ampliar perspectivas y resolver problemas complejos con un enfoque más flexible y contextualizado."
+description: "Seguir metodologías de diseño de producto no asegura nada. Más que seguir frameworks, conviene ampliar perspectivas y resolver problemas complejos con un enfoque más flexible y contextualizado."
 date: 2025-04-29T15:07:32.622Z
 image: "/blog/images/posts/metodologia.webp"
 categories: ["Producto"]
