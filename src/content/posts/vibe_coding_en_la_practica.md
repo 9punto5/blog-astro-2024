@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding: Cómo organicé mi proyecto para hablar con la IA y construir software real"
 description: "Cómo pasé de modificar HTML a crear funcionalidades completas con Vibe Coding. Mi método para organizar proyectos por funcionalidades y comunicarme eficazmente con la IA para construir software real."
-date: 2025-04-29T13:37:36-04:00
+date: 2025-04-29T10:37:36-04:00
 image: "/blog/images/posts/vibe_coding_implementar.webp"
 categories: ["Tecnología"]
 authors: ["fabian-acuna"]
