@@ -5,7 +5,7 @@ date: 2018-03-29
 image: "/blog/images/posts/1_YSyrBYMJwcI2HIF2kZz1pg.jpg"
 categories: ["Conferencia"]
 authors: ["felipe-pena"]
-tags: ["Speaker", "Charlista", "CFP", "Postulaciones"]
+tags: ["Speaker", "Postulaciones"]
 draft: false
 ---
 

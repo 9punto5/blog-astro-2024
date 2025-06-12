@@ -3,7 +3,7 @@ title: "3 pasos fundamentales para crear marca personal y conseguir un trabajo r
 description: "Descubre cómo construir tu marca personal, destacar en comunidades y fortalecer tu reputación online y offline."
 date: 2017-01-24
 image: "/blog/images/posts/alvaro.webp"
-categories: ["Desarrollo"]
+categories: ["Carrera"]
 authors: ["romy-valenta"]
 tags: ["Marca Personal"]
 draft: false

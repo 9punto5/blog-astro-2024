@@ -5,7 +5,7 @@ date: 2024-05-13
 image: "/blog/images/posts/titulo.webp"
 categories: ["Desarrollo"]
 authors: ["fabian-acuna"]
-tags: ["Speaker", "Charlista", "CFP", "Postulaciones", "Título"]
+tags: ["Speaker", "Postulaciones", "Títulos"]
 draft: false
 ---
 

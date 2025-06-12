@@ -5,7 +5,7 @@ date: 2018-07-12
 image: "/blog/images/posts/1*ICyJvyZjDNsyv31AjQyF4Q.png"
 categories: ["Conferencia"]
 authors: ["felipe-pena"]
-tags: ["9punto5", "Starsconf"]
+tags: ["9punto5", "StarsConf"]
 draft: false
 ---
 

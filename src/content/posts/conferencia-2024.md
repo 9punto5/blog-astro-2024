@@ -5,7 +5,7 @@ date: 2024-05-02
 image: "/blog/images/posts/temas-2024.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
-tags: ["Speaker", "Charlista", "CFP", "Postulaciones", "Título"]"
+tags: ["9punto5", "Speaker", "Postulaciones"]
 draft: false
 ---
 

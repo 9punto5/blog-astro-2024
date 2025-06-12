@@ -3,7 +3,7 @@ title: "¿Qué le falta a Valdivia para ser un hotspot de trabajo remoto?"
 description: "Nuestro podcast, debutando el 21 de febrero, explora la experiencia de visitantes en eventos como “9punto5”. Analizamos desafíos logísticos y proponemos soluciones para mejorar Valdivia como destino para el trabajo remoto."
 date: 2017-02-14
 image: "/blog/images/posts/event-support.webp"
-categories: ["Columna"]
+categories: ["Reflexiones"]
 authors: ["romy-valenta"]
 tags: ["Trabajo remoto", "Valdivia"]
 draft: false

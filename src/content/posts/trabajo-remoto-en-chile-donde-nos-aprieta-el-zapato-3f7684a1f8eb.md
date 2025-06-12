@@ -3,7 +3,7 @@ title: "Trabajo remoto en Chile: ¿Dónde nos aprieta el zapato?"
 description: "3 ideas para aportar a tu marca personal y la posibiildad de consguir tu próximo trabajo remoto: comparte tu conocimiento, escribe en blogs y promociona tus proyectos en eventos y redes sociales"
 date: 2017-03-17
 image: "/blog/images/posts/pressure.webp"
-categories: ["Columna"]
+categories: ["Reflexiones"]
 authors: ["romy-valenta"]
 tags: ["Trabajo remoto"]
 draft: false

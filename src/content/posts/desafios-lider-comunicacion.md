@@ -3,7 +3,7 @@ title: "Desafíos a resolver antes de poder comunicarte bien como líder"
 description: "Un liderazgo claro mejora la alineación y satisfacción de los equipos."
 date: 2023-02-07
 image: "/blog/images/posts/comunicacion.webp"
-categories: ["Desarrollo"]
+categories: ["Carrera"]
 authors: ["fabian-acuna"]
 tags: ["Liderazgo"]
 draft: false

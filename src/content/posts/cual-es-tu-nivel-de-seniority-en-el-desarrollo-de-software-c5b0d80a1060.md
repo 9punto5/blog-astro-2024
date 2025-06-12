@@ -3,7 +3,7 @@ title: "¿Cuál es tu nivel de seniority en el desarrollo de software?"
 description: "Lo que voy a escribir hoy en este post para 9punto5 es un tema controversial. Varios concuerdan y a la vez muchos están en desacuerdo con esta definición. Pero a pesar de estas diferencias es un…"
 date: 2020-03-23T14:02:59.520Z
 image: "/blog/images/posts/lidearzgo.webp"
-categories: ["Desarrollo"]
+categories: ["Carrera"]
 authors: ["felipe-pena"]
 tags: ["Liderazgo", "Seniority", "Developer"]
 draft: false

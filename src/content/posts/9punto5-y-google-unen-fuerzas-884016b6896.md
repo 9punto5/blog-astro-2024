@@ -3,9 +3,9 @@ title: "9punto5 y Google unen fuerzas"
 description: "Únete al primer Launchpad Build de Google en Chile en “9punto5”. Accede a charlas exclusivas, talleres y aprendizaje con líderes como Paco Solsona."
 date: 2017-06-15
 image: "/blog/images/posts/9punto5-Launchpad-Build.webp"
-categories: ["Oportunidades"]
+categories: ["Conferencia"]
 authors: ["felipe-pena"]
-tags: ["Google", "Launchpad Build", "Paco Solsona"]
+tags: ["Google", "Startups", "9punto5"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "La nueva era del trabajo"
 description: "Explora la nueva era del trabajo remoto y la inteligencia artificial. Descubre cómo está transformando el empleo y las repercusiones globales en nuestra última publicación"
 date: 2017-03-30
 image: "/blog/images/posts/new-work-era.webp"
-categories: ["Columna"]
+categories: ["Reflexiones"]
 authors: ["romy-valenta"]
 tags: ["Trabajo remoto"]
 draft: false

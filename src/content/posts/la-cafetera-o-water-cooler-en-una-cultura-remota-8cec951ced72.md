@@ -5,7 +5,7 @@ date: 2019-08-08T18:23:39.801Z
 image: "/blog/images/posts/0_ZhMA7On0FptT-szr.webp"
 categories: ["Cultura"]
 authors: ["9punto5"]
-tags: ["Cultura", "Trabajo remoto", "Doist"]
+tags: ["Trabajo remoto", "Comunicación", "Equipos"]
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "¿A quién más le pasó pensar, mientras comía en el break o tomaba un
 description: "Un invitación a expandir, profundizar y distribuir la comunidad y el conocimiento postconferencia 2023."
 date: 2023-11-19
 image: "/blog/images/posts/panel.webp"
-categories: ["Columna"]
+categories: ["Reflexiones"]
 authors: ["daniela-riquelme"]
 tags: ["Conferencia", "9punto5", "Comunidad"]
 draft: false

@@ -5,7 +5,7 @@ date: 2025-06-12
 image: "/blog/images/posts/guia_postular.webp"
 categories: ["Conferencia"]
 authors: ["9punto5"]
-tags: ["9punto5", "Speakers", "Talleres", "Conferencia", "Postulaciones"]
+tags: ["9punto5", "Speaker", "Postulaciones", "Talleres"]
 draft: false
 ---
 

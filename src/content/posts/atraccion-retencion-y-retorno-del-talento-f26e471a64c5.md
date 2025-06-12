@@ -3,7 +3,7 @@ title: "Consejos prácticos para cambiarte a vivir a la 'ciudad de tus sueños'"
 description: "Descubre cómo hacer una transición exitosa a una nueva ciudad y trabajar remotamente desde allí"
 date: 2017-12-23
 image: "/blog/images/posts/tips.webp"
-categories: ["Columna"]
+categories: ["Reflexiones"]
 authors: ["fabian-acuna"]
 tags: ["Comunidades", "Trabajo remoto"]
 draft: false

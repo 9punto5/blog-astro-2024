@@ -5,7 +5,7 @@ date: 2021-06-30
 image: "/blog/images/posts/evaluation.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
-tags: ["Speaker", "Charlista", "CFP", "Postulaciones"]"
+tags: ["Speaker", "Postulaciones"]
 draft: false
 ---
 

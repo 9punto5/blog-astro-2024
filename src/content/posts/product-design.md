@@ -5,7 +5,7 @@ date: 2025-04-16T12:09:21-04:00
 image: "/blog/images/posts/product_design.webp"
 categories: ["Producto"]
 authors: ["daniela-riquelme"]
-tags: ["Diseño de Productos", "Eficiencia", "Reflexión", "Toma de Decisiones"]
+tags: ["Diseño de Productos", "Eficiencia", "Reflexión", "Decisiones"]
 draft: false
 ---
 
