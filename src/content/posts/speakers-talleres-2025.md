@@ -11,7 +11,7 @@ draft: false
 
 **Aquí está todo lo que necesitas saber para que tu postulación destaque entre todas las que recibimos** (el año pasado recibimos más de 150).
 
-Algo que aplica tanto si [postulas](https://9punto5.cl/apply) a dar una charla como un taller.
+Estos consejos aplican tanto si [postulas](https://9punto5.cl/apply) para dar una charla como para dictar un taller.
 
 ## La pausa que marca la diferencia en tu postulación
 
