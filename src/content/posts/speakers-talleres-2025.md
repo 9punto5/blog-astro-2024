@@ -5,13 +5,17 @@ date: 2025-06-12
 image: "/blog/images/posts/guia_postular.webp"
 categories: ["Conferencia"]
 authors: ["9punto5"]
-tags: ["9punto5", "Speakers", "Talleres", "Conferencias", "Postulaciones"]
+tags: ["9punto5", "Speakers", "Talleres", "Conferencia", "Postulaciones"]
 draft: false
 ---
 
 **Aquí está todo lo que necesitas saber para que tu postulación destaque entre todas las que recibimos** (el año pasado recibimos más de 150).
 
 Estos consejos aplican tanto si [postulas](https://9punto5.cl/apply) para dar una charla como para dictar un taller.
+
+Fechas importantes:
+- 🗓️ Postulaciones abiertas hasta el **30 de junio**
+- 🗓️ Resultados comunicados el **15 de julio**
 
 ## La pausa que marca la diferencia en tu postulación
 

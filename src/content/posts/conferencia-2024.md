@@ -1,11 +1,11 @@
 ---
-title: "Convocatoria speakers 2024"
+title: "Postulaciones speakers 2024"
 description: "Postula como speaker en 9punto5 2024, la conferencia sobre trabajo remoto y tecnología en Valdivia. ¡Cierre de postulaciones en junio!"
 date: 2024-05-02
 image: "/blog/images/posts/temas-2024.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
-tags: ["Speaker", "Charlista", "CFP", "Convocatoria", "Título"]
+tags: ["Speaker", "Charlista", "CFP", "Postulaciones", "Título"]"
 draft: false
 ---
 
@@ -19,7 +19,7 @@ Pronto te entregaremos más detalle sobre los tickets, agenda y speakers.
 
 Como en todas las versiones, queremos que participes activamente de la conferencia.
 
-Ya está abierta la convocatoria para ser speaker. Buscamos temas variados y, como podrás comprobar, nuestro formulario te dará varias ideas de temas en los que confiamos podrías aportar tanto si estás partiendo en tu carrera, como si ya te salieron canas. 🧓🏼
+Ya están abiertas las postulaciones para ser speaker. Buscamos temas variados y, como podrás comprobar, nuestro formulario te dará varias ideas de temas en los que confiamos podrías aportar tanto si estás partiendo en tu carrera, como si ya te salieron canas. 🧓🏼
 
 Ten en cuenta las fechas claves:
 

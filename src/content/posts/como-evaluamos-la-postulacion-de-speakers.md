@@ -5,7 +5,7 @@ date: 2021-06-30
 image: "/blog/images/posts/evaluation.webp"
 categories: ["Conferencia"]
 authors: ["fabian-acuna"]
-tags: ["Speaker", "Charlista", "CFP", "Convocatoria"]
+tags: ["Speaker", "Charlista", "CFP", "Postulaciones"]"
 draft: false
 ---
 
@@ -19,7 +19,7 @@ Estos son los cuatro criterios de evaluación que utilizamos.
 
 ## Criterio 1: Fit con 9punto5
 
-Este criterio es muy importante, ya que buscamos propuestas que calcen con el espíritu de 9punto5. ¿Qué buscamos en las y los speakers? Cada año que hacemos una convocatoria escribimos un artículo con ese detalle.
+Este criterio es muy importante, ya que buscamos propuestas que calcen con el espíritu de 9punto5. ¿Qué buscamos en las y los speakers? Cada año que abrimos postulaciones escribimos un artículo con ese detalle.
 
 Una buena síntesis de lo que nos mueve en 9punto5, es hacer que el trabajo sea mejor. Tanto para las personas a nivel individual, como en las organizaciones. Siempre miraremos esa búsqueda en tu propuesta.
 
