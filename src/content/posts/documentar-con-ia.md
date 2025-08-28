@@ -64,7 +64,7 @@ El proceso fue un mix de:
 
 - Documentos antiguos
 - Enviar a la IA a investigar
-- Varios minutos de audios contando todo el conocimiento acumulado
+- Varios minutos de audios contando buena parte del conocimiento acumulado
 
 Esto, sumado a lo que los modelos ya saben sobre cómo organizar una conferencia, hizo que todo fuera increíblemente rápido y efectivo.
 
