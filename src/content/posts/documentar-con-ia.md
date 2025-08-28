@@ -43,7 +43,7 @@ La frase de que hoy como sociedad "estamos en hombros de gigantes" hace referenc
 
 ## Documentar puede ser diferente con IA
 
-Estamos en una revolución de la inteligencia artificial.
+Estamos en una [revolución de la inteligencia artificial](https://9punto5.cl/).
 
 Y pasan al menos dos cosas cuando conectamos IA con documentación:
 
