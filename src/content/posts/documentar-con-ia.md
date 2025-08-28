@@ -62,7 +62,7 @@ Definiciones por área, roadmap, hitos, objetivos, descripción de funciones y p
 
 El proceso fue un mix de:
 
-- Documentos antiguosw
+- Documentos antiguos
 - Enviar a la IA a investigar
 - Varios minutos de audios contando todo el conocimiento acumulado
 
@@ -74,7 +74,7 @@ Ya con esa base tienes el santo grial de la documentación.
 
 Luego es simplemente pasarle transcripciones de reuniones, pedirle que lea toda la documentación y que la actualice.
 
-¿Por qué? Porque la IA funciona mejor cuando tiene contexto completo. No es lo mismo pedirle "actualiza la documentación de marketing" que decirle "lee toda la documentación y esta transcripción de la reunión de hoy donde definimos cambios, y actualiza la sección de estrategia de contenidos. Además dime dónde tenemos puntos ciegos y dame sugernecias para la estrategia".
+¿Por qué? Porque la IA funciona mejor cuando tiene contexto completo. No es lo mismo pedirle "actualiza la documentación de marketing" que decirle "lee toda la documentación y esta transcripción de la reunión de hoy donde definimos cambios, y actualiza la sección de estrategia de contenidos. Además dime dónde tenemos puntos ciegos y dame sugerencias para la estrategia".
 
 El proceso se vuelve fluido:
 
@@ -82,7 +82,7 @@ El proceso se vuelve fluido:
 - **Le das contexto previo** → Entiende cómo encaja esta información en el sistema existente  
 - **Actualiza automáticamente** → Mantiene la coherencia, detecta contradicciones y sugiere mejoras
 
-Es nuevo nivel de visión y consistencia para el proyecto.
+Es un nuevo nivel de visión y consistencia para el proyecto.
 
 ## Herramientas para documentar con IA
 
@@ -90,9 +90,9 @@ En mi caso lo más poderoso para hacer esto es trabajar en tu computador localme
 
 Además, hay muchas soluciones para llevar documentaciones. En nuestro caso usamos Starlight de Astro, y así tenemos una versión web de nuestra documentación como un sistema vivo de conocimiento para el equipo donde es luego fácil compartir un enlace específico a una parte concreta de la documentación, tener buscador, etc.
 
-Pero la verdad es que puedes usar cualquier herramienta: Notion, Google Docs, Obsidian, wikis internas, o incluso carpetas de archivos de texto. El principio fundamental es elegir algo que la IA pueda leer de forma completa. Por eso preferimos markdown: es texto plano que cualquier IA puede procesar sin problemas, no tiene formato propietario y se puede versionar con Git. 
+Pero la verdad es que puedes usar cualquier herramienta: Notion, Google Docs, Obsidian, wikis internas, o incluso carpetas de archivos de texto. El principio fundamental es elegir algo que la IA pueda leer de forma completa. Por eso preferimos markdown: es texto plano que cualquier IA puede procesar sin problemas, no tiene formato propietario y se puede versionar con Git.
 
-Lo importante no es la herramienta, sino mantener todo en un formato accesible para que la IA pueda ser tu copiloto en la gestión del conocimiento.
+Lo importante no es la herramienta, sino mantener todo en un formato accesible para que la IA pueda acompañarte en la gestión del conocimiento.
 
 ## El interés compuesto del conocimiento
 
