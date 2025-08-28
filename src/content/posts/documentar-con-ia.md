@@ -88,9 +88,11 @@ Es un nuevo nivel de visión y consistencia para el proyecto.
 
 En mi caso lo más poderoso para hacer esto es trabajar en tu computador localmente con notas en archivos markdown y hoy, con herramientas como Cursor o Claude Code, le puedes pedir que lea, actualice y genere otros archivos markdown. Luego revisas y refinas lo que te sugiere y listo.
 
-Además, hay muchas soluciones para llevar documentaciones. En nuestro caso usamos Starlight de Astro, y así tenemos una versión web de nuestra documentación como un sistema vivo de conocimiento para el equipo donde es luego fácil compartir un enlace específico a una parte concreta de la documentación, tener buscador, etc.
+Además, los archivos markdown se llevan muy bien con la IA porque informan claramente la jerarquía de la información. No tienen formato propietario y se pueden versionar con Git.
 
-Pero la verdad es que puedes usar cualquier herramienta: Notion, Google Docs, Obsidian, wikis internas, o incluso carpetas de archivos de texto. El principio fundamental es elegir algo que la IA pueda leer de forma completa. Por eso preferimos markdown: es texto plano que cualquier IA puede procesar sin problemas, no tiene formato propietario y se puede versionar con Git.
+Hay muchas soluciones para mantener documentación viva. En nuestro caso usamos Starlight de Astro, lo que nos da una versión web navegable del conocimiento. Cualquier persona del equipo puede buscar información específica, compartir enlaces directos a secciones concretas, y ver actualizaciones en tiempo real. Es como tener una Wikipedia interna que evoluciona con el proyecto.
+
+Pero la verdad es que puedes usar cualquier herramienta: Notion, Google Docs, Obsidian, wikis internas, o incluso carpetas de archivos de texto. El principio fundamental es elegir algo que la IA pueda leer de forma completa.
 
 Lo importante no es la herramienta, sino mantener todo en un formato accesible para que la IA pueda acompañarte en la gestión del conocimiento.
 
