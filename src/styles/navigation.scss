@@ -1,58 +1,120 @@
-// navbar toggler
-input#nav-toggle:checked ~ label#show-button {
-  @apply hidden;
+.container-page {
+  @apply mx-auto w-full max-w-page;
+  width: min(1180px, calc(100% - 48px));
 }
 
-input#nav-toggle:checked ~ label#hide-button {
-  @apply flex md:hidden;
+.site-header {
+  @apply relative z-[5];
+
+  &__inner {
+    @apply flex items-center justify-between gap-6 pb-2 pt-7 max-[760px]:pb-0 max-[760px]:pt-5;
+  }
+
+  &__logo {
+    @apply inline-flex leading-none no-underline;
+
+    img {
+      @apply h-[56px] w-auto;
+    }
+  }
+
+  &__actions {
+    @apply flex items-center gap-6 max-[1100px]:gap-4;
+  }
+
+  &__tools {
+    @apply flex min-h-10 items-center gap-3;
+  }
+
+  &__search {
+    @apply inline-flex size-10 items-center justify-center rounded-md text-ink no-underline transition-colors hover:bg-indigo-50 hover:text-indigo;
+  }
+
+  &__nav {
+    @apply hidden items-center gap-[34px] min-[980px]:flex min-[980px]:max-[1100px]:gap-6;
+  }
+
+  &__nav-link {
+    @apply text-lg font-medium text-ink no-underline transition-colors hover:text-indigo;
+
+    &--active {
+      @apply text-indigo;
+    }
+  }
+
+  &__blog-nav {
+    @apply hidden items-center gap-6 border-t border-border pb-4 pt-3 min-[980px]:flex;
+  }
+
+  &__blog-link {
+    @apply text-sm font-medium text-ink/70 no-underline transition-colors hover:text-indigo;
+
+    &--active {
+      @apply text-indigo;
+    }
+  }
+
+  &__menu-button {
+    @apply inline-flex size-10 items-center justify-center rounded-md border border-border text-ink transition-colors hover:bg-indigo-50 min-[980px]:hidden;
+  }
 }
 
-input#nav-toggle:checked ~ #nav-menu {
-  @apply block md:flex;
+.site-header-menu {
+  @apply fixed inset-0 z-50 hidden;
+
+  &[data-open="true"] {
+    @apply block;
+  }
+
+  &__overlay {
+    @apply absolute inset-0 bg-black/20;
+  }
+
+  &__panel {
+    @apply absolute right-0 top-0 flex h-full w-[244px] max-w-[78vw] flex-col bg-white shadow-xl;
+  }
+
+  &__close-row {
+    @apply flex items-center justify-end px-3 pb-1 pt-2.5;
+  }
+
+  &__close {
+    @apply inline-flex size-9 items-center justify-center rounded-full border border-border text-ink transition-colors hover:bg-indigo-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-ring;
+  }
+
+  &__links {
+    @apply flex flex-col px-3 pb-8;
+
+    &--section {
+      @apply border-t border-border pb-8 pt-3;
+    }
+  }
+
+  &__section-label {
+    @apply mb-1 px-3 text-xs font-bold uppercase tracking-[0.08em] text-ink/50;
+  }
+
+  &__link {
+    @apply rounded-lg px-3 py-2.5 text-lg font-medium text-ink no-underline transition-colors hover:bg-indigo-50 hover:text-indigo;
+
+    &--active {
+      @apply bg-indigo-50 text-indigo;
+    }
+  }
 }
 
-// navbar items
-.navbar {
-  @apply relative flex max-w-[1260px] flex-wrap items-center justify-between;
-}
-
-.navbar-brand img {
-  @apply h-auto max-w-[170px] sm:h-auto sm:max-w-full #{!important};
-}
-
-.navbar-nav {
-  @apply text-center md:text-left;
-}
-
-.nav-item {
-  @apply mx-1;
-}
-
-.nav-link {
-  @apply p-3 text-lg font-semibold text-dark transition hover:text-primary md:p-4;
-}
-
-.nav-dropdown-list {
-  @apply z-10 rounded-lg bg-white px-6 py-3 shadow transition;
-}
-
-.nav-dropdown-item {
-  @apply mb-1;
-}
-
-.nav-dropdown-link {
-  @apply block min-w-[150px] py-1 text-[17px] font-semibold text-dark transition hover:text-primary;
-}
-
-// search style
+// legacy search modal (used by search page)
 .search-modal {
-  @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white opacity-0 transition md:h-full;
+  @apply invisible absolute left-0 right-0 top-0 z-10 h-10 bg-white opacity-0 transition md:h-full;
+
   .form-input {
     @apply h-full w-full border-0 text-lg;
   }
+
   .search-close {
-    @apply absolute top-1/2 right-2 -translate-y-1/2 p-3 text-h4;
+    @apply absolute right-2 top-1/2 -translate-y-1/2 p-3 text-h4;
   }
+
   &.open {
     @apply visible opacity-100;
   }

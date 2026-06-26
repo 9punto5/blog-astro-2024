@@ -1,7 +1,25 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Postulación",
+      "url": "https://9punto5.cl/apply"
+    },
+    {
+      "name": "Entradas",
+      "url": "https://store.9punto5.cl/"
+    },
+    {
+      "name": "Sponsorship",
+      "url": "https://9punto5.cl/#sponsors"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ],
+  "blog": [
+    {
+      "name": "Inicio",
       "url": "/blog"
     },
     {
@@ -15,10 +33,6 @@
     {
       "name": "Autores",
       "url": "/blog/authors"
-    },
-    {
-      "name": "Volver al home de 9punto5",
-      "url": "https://9punto5.cl/"
     }
   ],
   "footer": []

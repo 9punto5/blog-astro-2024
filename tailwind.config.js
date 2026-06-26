@@ -48,6 +48,18 @@ module.exports = {
         border: theme.colors.default.theme_color.border,
         "theme-light": theme.colors.default.theme_color.theme_light,
         "theme-dark": theme.colors.default.theme_color.theme_dark,
+        ink: "#111111",
+        indigo: {
+          DEFAULT: "#4c55ff",
+          50: "#ebf0ff",
+        },
+        ring: "#4c55ff",
+      },
+      borderRadius: {
+        pill: "999px",
+      },
+      maxWidth: {
+        page: "1180px",
       },
       fontSize: {
         base: font_base + "px",
