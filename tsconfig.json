@@ -2,18 +2,7 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "baseUrl": ".",
-    "target": "es6",
-    "allowJs": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
-    "jsx": "react",
-    "isolatedModules": true,
-    "incremental": true,
-    "allowSyntheticDefaultImports": true,
-    "moduleResolution": "node",
-    "module": "esnext",
-    "types": ["astro/client", "vite/client"],
+    "jsx": "react-jsx",
     "paths": {
       "@/components/*": ["./src/layouts/components/*"],
       "@/shortcodes/*": ["./src/layouts/shortcodes/*"],
@@ -22,6 +11,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["**/*.ts", "**/*.tsx", "**/*.astro"],
-  "exclude": ["node_modules"]
+  "include": [".astro/types.d.ts", "**/*"],
+  "exclude": ["dist", "node_modules"]
 }
