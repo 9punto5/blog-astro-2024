@@ -7,11 +7,13 @@ export interface NavigationLink {
   url: string;
 }
 
-const { main, blog }: { main: NavigationLink[]; blog: NavigationLink[] } = menu;
+const { main, content, blog }: { main: NavigationLink[]; content: NavigationLink[]; blog: NavigationLink[] } =
+  menu;
 const basePath = config.site.base_path || "";
 const logoSrc = `${basePath}/images/Logo95.svg`;
 const searchUrl = `${basePath}/search`;
 const homeUrl = "https://9punto5.cl/#inicio";
+const signInUrl = "https://9punto5.cl/";
 
 function isExternalUrl(url: string) {
   return url.startsWith("http://") || url.startsWith("https://");
@@ -29,6 +31,7 @@ function isActiveLink(url: string, pathname: string) {
 }
 
 const currentPath = Astro.url.pathname;
+const isContentActive = content.some((link) => isActiveLink(link.url, currentPath));
 ---
 
 <header class="site-header container-page">
@@ -55,54 +58,100 @@ const currentPath = Astro.url.pathname;
             </a>
           ))
         }
+
+        <div
+          class="site-header__content-menu"
+          data-content-menu
+          data-open="false"
+        >
+          <button
+            type="button"
+            class:list={[
+              "site-header__content-trigger",
+              { "site-header__content-trigger--active": isContentActive },
+            ]}
+            aria-expanded="false"
+            aria-haspopup="true"
+            data-content-menu-trigger
+          >
+            Contenidos
+            <svg
+              class="site-header__content-chevron"
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m6 9 6 6 6-6"></path>
+            </svg>
+          </button>
+          <div class="site-header__content-panel" role="menu" aria-label="Contenidos">
+            {
+              content.map((link) => (
+                <a
+                  href={link.url}
+                  role="menuitem"
+                  class:list={[
+                    "site-header__content-link",
+                    { "site-header__content-link--active": isActiveLink(link.url, currentPath) },
+                  ]}
+                  target={isExternalUrl(link.url) ? "_blank" : undefined}
+                  rel={isExternalUrl(link.url) ? "noopener noreferrer" : undefined}
+                  data-nav-link
+                  data-label={link.name}
+                  data-placement="site_header"
+                  data-nav-group="Contenidos"
+                  data-content-menu-link
+                >
+                  {link.name}
+                </a>
+              ))
+            }
+          </div>
+        </div>
       </nav>
 
-      <div class="site-header__tools">
+      <nav class="site-header__account-nav" aria-label="Cuenta">
         <a
-          href={searchUrl}
-          class="site-header__search"
-          title="Buscar"
-          aria-label="Buscar en el blog"
+          href={signInUrl}
+          class="site-header__cta"
           data-nav-link
-          data-label="Buscar"
+          data-label="Ingresar"
           data-placement="site_header"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="22"
-            height="22"
-            viewBox="0 0 512 512"
-            fill="currentColor"
-            aria-hidden="true"
-          >
-            <path d="M456.69 421.39 362.6 327.3a173.81 173.81 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3zM97.92 222.72a124.8 124.8 0 1 1 124.8 124.8 124.95 124.95 0 0 1-124.8-124.8z" />
-          </svg>
+          Ingresar
         </a>
+      </nav>
 
-        <button
-          type="button"
-          class="site-header__menu-button"
-          aria-label="Abrir menú"
-          data-menu-open
+      <button
+        type="button"
+        class="site-header__menu-button"
+        aria-label="Abrir menú"
+        data-menu-open
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            aria-hidden="true"
-          >
-            <line x1="4" x2="20" y1="12" y2="12"></line>
-            <line x1="4" x2="20" y1="6" y2="6"></line>
-            <line x1="4" x2="20" y1="18" y2="18"></line>
-          </svg>
-        </button>
-      </div>
+          <line x1="4" x2="20" y1="12" y2="12"></line>
+          <line x1="4" x2="20" y1="6" y2="6"></line>
+          <line x1="4" x2="20" y1="18" y2="18"></line>
+        </svg>
+      </button>
     </div>
   </div>
 
@@ -123,6 +172,27 @@ const currentPath = Astro.url.pathname;
         </a>
       ))
     }
+    <a
+      href={searchUrl}
+      class="site-header__blog-link site-header__blog-link--search"
+      title="Buscar"
+      aria-label="Buscar en el blog"
+      data-nav-link
+      data-label="Buscar"
+      data-placement="blog_subnav"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        viewBox="0 0 512 512"
+        fill="currentColor"
+        aria-hidden="true"
+      >
+        <path d="M456.69 421.39 362.6 327.3a173.81 173.81 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3zM97.92 222.72a124.8 124.8 0 1 1 124.8 124.8 124.95 124.95 0 0 1-124.8-124.8z" />
+      </svg>
+      Buscar
+    </a>
   </nav>
 </header>
 
@@ -149,7 +219,7 @@ const currentPath = Astro.url.pathname;
       </button>
     </div>
 
-    <nav class="site-header-menu__links" aria-label="Navegación del sitio">
+    <nav class="site-header-menu__links" aria-label="Navegación principal">
       {
         main.map((link) => (
           <a
@@ -167,10 +237,34 @@ const currentPath = Astro.url.pathname;
           </a>
         ))
       }
+
+      <div class="site-header-menu__content-section">
+        <span class="site-header-menu__section-label">Contenidos</span>
+        {
+          content.map((link) => (
+            <a
+              href={link.url}
+              class:list={[
+                "site-header-menu__link",
+                { "site-header-menu__link--active": isActiveLink(link.url, currentPath) },
+              ]}
+              target={isExternalUrl(link.url) ? "_blank" : undefined}
+              rel={isExternalUrl(link.url) ? "noopener noreferrer" : undefined}
+              data-nav-link
+              data-label={link.name}
+              data-placement="mobile_menu"
+              data-nav-group="Contenidos"
+              data-menu-close-link
+            >
+              {link.name}
+            </a>
+          ))
+        }
+      </div>
     </nav>
 
     <nav class="site-header-menu__links site-header-menu__links--section" aria-label="Navegación del blog">
-      <p class="site-header-menu__section-label">En el blog</p>
+      <span class="site-header-menu__section-label">En el blog</span>
       {
         blog.map((link) => (
           <a
@@ -206,6 +300,7 @@ const currentPath = Astro.url.pathname;
   function captureNavClick(link: HTMLAnchorElement) {
     const label = link.dataset.label;
     const placement = link.dataset.placement;
+    const group = link.dataset.navGroup;
     const href = link.getAttribute("href");
 
     if (typeof window !== "undefined" && (window as any).posthog && label) {
@@ -213,17 +308,30 @@ const currentPath = Astro.url.pathname;
         label,
         placement,
         href,
+        ...(group ? { group } : {}),
       });
     }
   }
 
-  function setMenuOpen(open: boolean) {
+  function setMobileMenuOpen(open: boolean) {
     const menu = document.querySelector<HTMLElement>("[data-mobile-menu]");
     if (!menu) return;
 
     menu.dataset.open = open ? "true" : "false";
     menu.setAttribute("aria-hidden", open ? "false" : "true");
     document.body.style.overflow = open ? "hidden" : "";
+  }
+
+  function setContentMenuOpen(menu: HTMLElement, open: boolean) {
+    const trigger = menu.querySelector<HTMLButtonElement>("[data-content-menu-trigger]");
+    menu.dataset.open = open ? "true" : "false";
+    trigger?.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+
+  function closeAllContentMenus() {
+    document.querySelectorAll<HTMLElement>("[data-content-menu]").forEach((menu) => {
+      setContentMenuOpen(menu, false);
+    });
   }
 
   function handleDocumentClick(event: MouseEvent) {
@@ -236,32 +344,81 @@ const currentPath = Astro.url.pathname;
     }
 
     if (target.closest("[data-menu-open]")) {
-      setMenuOpen(true);
+      closeAllContentMenus();
+      setMobileMenuOpen(true);
       return;
     }
 
     if (target.closest("[data-menu-close]") || target.closest("[data-menu-close-link]")) {
-      setMenuOpen(false);
+      setMobileMenuOpen(false);
+      return;
+    }
+
+    const contentTrigger = target.closest<HTMLElement>("[data-content-menu-trigger]");
+    if (contentTrigger) {
+      const menu = contentTrigger.closest<HTMLElement>("[data-content-menu]");
+      if (!menu) return;
+
+      const isOpen = menu.dataset.open === "true";
+      closeAllContentMenus();
+      setContentMenuOpen(menu, !isOpen);
+      return;
+    }
+
+    if (target.closest("[data-content-menu-link]")) {
+      closeAllContentMenus();
+      return;
+    }
+
+    if (!target.closest("[data-content-menu]")) {
+      closeAllContentMenus();
     }
   }
 
   function handleDocumentKeydown(event: KeyboardEvent) {
     if (event.key === "Escape") {
-      setMenuOpen(false);
+      setMobileMenuOpen(false);
+      closeAllContentMenus();
     }
   }
 
-  function initSiteHeaderMenu() {
-    setMenuOpen(false);
+  function handleContentMenuHover(event: MouseEvent) {
+    const target = event.target;
+    if (!(target instanceof Element)) return;
+
+    const menu = target.closest<HTMLElement>("[data-content-menu]");
+    if (!menu || event.type !== "mouseenter") return;
+
+    closeAllContentMenus();
+    setContentMenuOpen(menu, true);
   }
 
-  // Delegación en document: sobrevive a View Transitions que reemplazan el header.
+  function handleContentMenuLeave(event: MouseEvent) {
+    const target = event.target;
+    if (!(target instanceof Element)) return;
+
+    const menu = target.closest<HTMLElement>("[data-content-menu]");
+    if (!menu || event.type !== "mouseleave") return;
+
+    const related = event.relatedTarget;
+    if (related instanceof Node && menu.contains(related)) return;
+
+    setContentMenuOpen(menu, false);
+  }
+
+  function initSiteHeader() {
+    setMobileMenuOpen(false);
+    closeAllContentMenus();
+  }
+
   if (!document.documentElement.dataset.siteHeaderMenuBound) {
     document.documentElement.dataset.siteHeaderMenuBound = "true";
     document.addEventListener("click", handleDocumentClick);
     document.addEventListener("keydown", handleDocumentKeydown);
-    document.addEventListener("astro:page-load", initSiteHeaderMenu);
+    document.addEventListener("mouseenter", handleContentMenuHover, true);
+    document.addEventListener("mouseleave", handleContentMenuLeave, true);
+    document.addEventListener("astro:page-load", initSiteHeader);
   }
 
-  initSiteHeaderMenu();
+  initSiteHeader();
 </script>

@@ -10,11 +10,21 @@
     },
     {
       "name": "Sponsorship",
-      "url": "https://9punto5.cl/#sponsors"
+      "url": "https://9punto5.cl/sponsorship"
+    }
+  ],
+  "content": [
+    {
+      "name": "Canal de YouTube",
+      "url": "https://www.youtube.com/@9punto5"
     },
     {
       "name": "Blog",
       "url": "/blog"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://9punto5.substack.com/"
     }
   ],
   "blog": [
